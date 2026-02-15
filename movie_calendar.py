@@ -3,10 +3,23 @@ from bs4 import BeautifulSoup
 from ics import Calendar, Event
 from datetime import datetime
 import re
-import os
+
+def is_date_text(text):
+    """
+    Returns True if text looks like 'February 15' or '15' or '15th'.
+    Returns False if it looks like a Movie Title.
+    """
+    # Pattern 1: Starts with a digit (e.g., "15", "15th")
+    if re.match(r'^\d+(st|nd|rd|th)?$', text):
+        return True
+    # Pattern 2: Starts with a Month Name (e.g., "February 15")
+    months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    if any(text.startswith(m) for m in months):
+        return True
+    
+    return False
 
 def main():
-    # 1. Setup & "Disguise"
     url = "https://www.the-numbers.com/movies/release-schedule"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -34,56 +47,76 @@ def main():
     
     current_year = datetime.now().year
     current_month = None
+    current_day = None # Keep track of the last seen day
     
     print(f"Scanning {len(rows)} rows...")
 
     for row in rows:
         cols = row.find_all("td")
         
-        # HEADERS (e.g., "February 2026")
+        # --- CASE 1: Header Row (e.g., "February 2026") ---
         if len(cols) == 1 or (len(cols) > 0 and "20" in cols[0].text and len(cols[0].text.strip()) < 25):
             text = cols[0].text.strip()
             try:
                 dt = datetime.strptime(text, "%B %Y")
                 current_month = dt.month
                 current_year = dt.year
+                current_day = None # Reset day on new month
             except ValueError:
                 pass
             continue
 
-        # MOVIES
-        if len(cols) >= 2:
-            date_text = cols[0].text.strip()
-            movie_title = cols[1].text.strip()
-
-            if not date_text or not movie_title:
-                continue
-
+        # --- CASE 2: Movie Row ---
+        if len(cols) >= 1:
+            col0_text = cols[0].text.strip()
+            
+            # Determine if this row HAS a date, or INHERITS the date
+            has_date = is_date_text(col0_text)
+            
+            if has_date:
+                # Row Structure: [Date] [Movie] [Distributor]
+                if len(cols) < 2: continue # Malformed row
+                date_text = col0_text
+                movie_title = cols[1].text.strip()
+                distributor_idx = 2
+            else:
+                # Row Structure: [Movie] [Distributor] (Inherits date)
+                if current_day is None: continue # Skip if we haven't seen a date yet
+                date_text = str(current_day) # Reuse last date
+                movie_title = col0_text
+                distributor_idx = 1
+                
+            # --- Parse the Date ---
             try:
-                # Clean date (remove st, nd, rd, th)
                 clean_date = re.sub(r'(st|nd|rd|th)', '', date_text)
                 
-                # Parse date
-                event_date = None
-                if " " in clean_date: # Format: "February 15"
-                    dt = datetime.strptime(clean_date, "%B %d")
-                    event_date = dt.replace(year=current_year)
-                    # Update context
-                    current_month = dt.month
-                elif clean_date.isdigit() and current_month: # Format: "15"
-                    event_date = datetime(current_year, current_month, int(clean_date))
+                # Update State if it's a new date
+                if has_date:
+                    if " " in clean_date: # "February 15"
+                        dt = datetime.strptime(clean_date, "%B %d")
+                        current_month = dt.month
+                        current_day = dt.day
+                    elif clean_date.isdigit(): # "15"
+                        current_day = int(clean_date)
                 
-                if event_date:
+                # --- Create Event ---
+                if current_year and current_month and current_day:
+                    # Construct valid YYYY-MM-DD
+                    event_date = datetime(current_year, current_month, current_day)
+                    
                     e = Event()
                     e.name = f"🎬 {movie_title}"
                     e.begin = event_date.strftime("%Y-%m-%d")
                     e.make_all_day()
+                    
                     # Add distributor info if available
-                    distributor = cols[2].text.strip() if len(cols) > 2 else "Unknown"
+                    distributor = cols[distributor_idx].text.strip() if len(cols) > distributor_idx else "Unknown"
                     e.description = f"Distributor: {distributor}\nSource: The Numbers"
+                    
                     calendar.events.add(e)
 
-            except Exception:
+            except Exception as e:
+                # print(f"Skipping row: {movie_title} - {e}")
                 continue
 
     # Save to file
