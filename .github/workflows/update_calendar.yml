@@ -2,37 +2,34 @@ name: Update Movie Calendar
 
 on:
   schedule:
-    # Runs at 08:00 UTC every day (adjust as needed)
-    - cron: '0 8 * * *'
-  workflow_dispatch: # Allows you to run it manually to test
+    - cron: '0 8 * * *' # Runs at 8:00 UTC every day
+  workflow_dispatch:      # Allows manual run button
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  scrape-and-update:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
 
-    - name: Run scraper script
-      run: |
-        python movie_calendar.py
+      - name: Run Scraper
+        run: python movie_calendar.py
 
-    - name: Commit and push if changed
-      run: |
-        git config --global user.name 'GitHub Action'
-        git config --global user.email 'action@github.com'
-        git add movies.ics
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update calendar [skip ci]" && git push)
+      - name: Commit and Push (if changed)
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add movies.ics
+          # Only commit if there are changes to avoid empty commits
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update movie calendar" && git push)
