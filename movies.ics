@@ -2,2379 +2,2577 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281117
-DESCRIPTION:Distributor: Untitled Universal Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ee9bd732-1647-4dcd-b8f7-7e13cc4591b9@ee9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270115
-DESCRIPTION:Distributor: Untitled Blumhouse Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:80cd5cc0-111e-479c-b4a7-ae2cec1b4548@80cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Distributor: Untitled A24 Horror Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:7258a1e6-8385-4da5-a604-60da30df8017@7258.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270416
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Illumination Event Film (Wide)
-UID:10572b02-1e79-4792-8924-7a3503ea0d08@1057.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Palestine 36 (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:f1faaf3c-2baf-43f2-9395-1992d4256630@f1fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280407
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 The Beatles Cinematic Event: George (Wide)
-UID:9ace3d53-f8d2-40d4-998a-038430b83dde@9ace.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: The Swedish Connection (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:6bc4f768-8cc1-44a9-a58e-d4004759474b@6bc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Horizon: An American Saga Chapter 2 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:5c2abf86-1422-460f-8e86-93ad490a6a03@5c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Pillion (Expands Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:081019b3-e7a6-4ac9-b4c4-493a9434279d@0810.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261211
-DESCRIPTION:Distributor: Jumanji 3 (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:c663d6b6-8217-4360-bad6-c460e5fb1b26@c663.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Distributor: I Play Rocky (Expands Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3a5aef20-c415-4d01-9eae-ca24ced3723a@3a5a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: The Land of Sometimes (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8e90c1a4-007c-4a56-bedd-3f7ec1c09512@8e90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270305
-DESCRIPTION:Distributor: Untitled DC Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:5e88f507-805d-42ff-8619-2aa2a3362fe3@5e88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
-SUMMARY:🎬 4 Kids Walk Into a Bank (Wide)
-UID:78cfd9ae-c6a2-41fd-93e2-b9c9f9ffa1af@78cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Distributor: The Sheep Detectives (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:c9774d8e-b33d-463c-9178-b8e06f8757a1@c977.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270312
-DESCRIPTION:Distributor: Untitled The Chosen Season 6 Finale Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:158fa6b9-6c97-4693-abed-5026844da15e@158f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280728
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Film (Wide)
-UID:62cf30cf-71cd-4455-9e35-01afc97b2fdd@62cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
-SUMMARY:🎬 Paul McCartney: Man on the Run (Special Engagement)
-UID:9afabf6c-ce8e-44d3-a0a6-e7ccf072af35@9afa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Aura Entertainment\nSource: The Numbers
-SUMMARY:🎬 K-POPS! (Wide)
-UID:c4338f97-0a11-4ba6-8822-31217156004e@c433.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Distributor: Power Ballad (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1530c7bf-2191-417e-8e76-3f5b9fae41a2@1530.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Supergirl (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:002c49b2-2481-4d06-9fd9-70aaba71c143@002c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270924
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Dreamworks Animation Event Film (Wide)
-UID:ec6357c5-107f-4fd0-9800-74da1c7323a5@ec63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Thanksgiving 2 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:249ef399-a685-43f6-adf4-e02fe22c69fe@249e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: By Design (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3b165e64-17c2-4f80-a575-44266defea70@3b16.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Distributor: Untitled Amazon MGM Studio Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:09c36500-74b5-421c-bb4c-c99bfbc539ba@09c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Moana (Wide)
-UID:b889ab99-0696-48fd-8a34-cce210fe0d8a@b889.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Still Friends (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ffcdb71d-5195-4ec6-b3a9-8869f71b7759@ffcd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Viyaah Kartaare Da (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:5822eb1d-c834-4262-97df-4a11b0c2b8b4@5822.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Psycho Killer (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:809ebe54-50cc-4e28-b34d-24cd870cafce@809e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Distributor: The Mandalorian & Grogu (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:22e8f12f-699b-4580-b506-fa09813f1539@22e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260401
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 The Super Mario Galaxy Movie (Wide)
-UID:bfd2105e-f6af-4f85-9758-9f1aefbe19b6@bfd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Distributor: Slanted (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:bcfa3847-06f5-4ec6-a002-47c78f64af63@bcfa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Youngblood (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:fa5e751d-1c85-4025-a993-d64f82630630@fa5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261211
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Jumanji 3 (Wide)
-UID:97f28928-3346-46ff-8aae-9b1e94c00275@97f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Protector (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1b4a6401-822c-4c61-9703-f9bd73e967a0@1b4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
-SUMMARY:🎬 Forbidden Fruits (Wide)
-UID:501c8ee3-cce7-4489-af16-030325b2f35b@501c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281013
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Blumhouse Event Film (Wide)
-UID:ef9e9c95-a89e-4669-9d7b-b26b7ffa2694@ef9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Distributor: Wife & Dog (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:00d3e492-1962-4cff-add5-04aa0d262430@00d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: 2DIE4 (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:bf106809-2679-4eb4-91f9-922cc7d88eae@bf10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Distributor: A24\nSource: The Numbers
-SUMMARY:🎬 Mother Mary (Wide)
-UID:a38599e9-ebb6-4a13-be6b-6336fd0f5143@a385.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Distributor: The Legend of Aang: The Last Airbender (Canceled)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0527ef15-950d-488d-bea3-aee6676f4dcf@0527.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260218
-DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
-SUMMARY:🎬 Chase Atlantic: Lost in Heaven (Special Engagement)
-UID:928df5fd-63bf-4921-a4a1-eefe8f681979@928d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271217
-DESCRIPTION:Distributor: Lord of the Rings: The Hunt for Gollum (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:b12b45e9-9457-4c61-be11-749496aa07e9@b12b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270212
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 The Nightingale (Wide)
-UID:d6bdd9cc-c450-4c90-8eda-654cb53865db@d6bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Uma Musume: Pretty Derby — Beginning of a New Era (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ee9891f8-4519-4592-9804-412a71fc16a6@ee98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Mile End Kicks (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:71bce010-491e-4435-a396-619780d00104@71bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270507
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 The Legend of Zelda (Wide)
-UID:dca6d468-e5cd-4bd0-9a3d-7a93d9b8ce0c@dca6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: The Gardener (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e6843f59-00b8-4007-9185-e8bd2bbbf8ee@e684.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Distributor: Tuner (Expands Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:70347907-02bf-4be0-ba02-ebcb5648bc9e@7034.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Silver Star (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:badccf11-a93f-40df-a93e-e7dc8d2d84e6@badc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Whitney Springs (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:27dd833f-374b-4557-b5b0-d3a308d4e0d2@27dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280211
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Universal Event Film (Wide)
-UID:5b9d74bb-4ebe-4b27-ae97-18518f1c458c@5b9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280519
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 The Mummy (Wide)
-UID:7fe1e702-eb85-4f76-9655-2d3dfb51b9fe@7fe1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270521
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Bad Fairies (Wide)
-UID:25b68ed7-3701-4fe0-91ff-2af15081ce87@25b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Distributor: Untitled GKIDS Film (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:53d2c4c4-3f83-461c-a894-3319f22f8831@53d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Dump of Untitled Pieces (Festival Screening)\nSource: The Numbers
-SUMMARY:🎬 
-UID:908977c0-3b21-421a-afe8-10f58aa6f646@9089.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Dolly (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:eb37b46b-dc5a-474a-8beb-0ec63a8e199f@eb37.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Scream 7 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3ea434a3-de94-4ec5-bb9a-a5bbdb22a3e3@3ea4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260726
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 The Fifth Element (Special Engagement\, re-release)
-UID:c4b80fd8-b71b-4da4-9e80-69a375522d10@c4b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260307
-DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
-SUMMARY:🎬 UFC 326: Max Holloway vs. Charles Oliveira 2 (Special Engagement)
-UID:6b88edaa-9ac5-4fe8-8ff1-248fab058f14@6b88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: The Ark and the Aardvark (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0d90dc54-2d7d-4be2-950b-cc4bacde2222@0d90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Supergirl (Wide)
-UID:0db48b51-eff8-40f5-bc68-909c1531eb25@0db4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Distributor: The Social Reckoning (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:9289b2d1-60bd-441b-b3f8-feaf1b724005@9289.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Distributor: Moana (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:24826bd5-2678-474e-b4f1-c6737a8df8f6@2482.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Vampires of the Velvet Lounge (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ba83a5a5-2d35-4bd6-be8c-ab140b9deeae@ba83.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280407
-DESCRIPTION:Distributor: The Beatles Cinematic Event: John (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:18f6a77b-d9d2-49de-be98-4b98bed4a3ec@18f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Wardriver (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:4b62acab-9922-445f-963c-2d5ffd13e6a4@4b62.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261218
-DESCRIPTION:Distributor: It’s a Wonderful Life (Limited\, re-release)\nSource: The Numbers
-SUMMARY:🎬 
-UID:511640c6-8cc5-4646-8465-9f400be4694d@5116.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Undercard (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8ea6f031-970d-42d7-82f3-577089b8e646@8ea6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: The AI Doc: Or How I Became an Apocaloptimist (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ac49461c-ba85-4120-bd60-17fd0306a2ca@ac49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 The Birdcage (Special Engagement\, re-release)
-UID:d8cc307d-7ec2-404b-8fca-1a55cc023236@d8cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280707
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Film (Wide)
-UID:41673369-e274-4e89-beea-ba401602e4b0@4167.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280630
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Dynamic Duo (Wide)
-UID:73f6deed-452a-4eb7-8a8f-bd2f676fbc67@73f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
-SUMMARY:🎬 The Killer (Special Engagement\, re-release)
-UID:19239230-370f-4cc6-9c1f-28f5a3b1244d@1923.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
-SUMMARY:🎬 Fuze (Wide)
-UID:6f1e7066-7adf-43a9-a0a6-661fa4741345@6f1e.org
+DESCRIPTION:Distributor: Sithara Entertainments\nSource: The Numbers
+SUMMARY:🎬 Funky(Limited)
+UID:20260213-FunkyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271222
-DESCRIPTION:Distributor: Untitled Warner Bros. Family Sequel (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e872cc3d-d5eb-4f7e-b579-827687c29aca@e872.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Ocean’s Eleven (Special Engagement\, re-release)
-UID:8149b0f6-072a-40b0-b205-05fbea6b8a9c@8149.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281117
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Untitled Teenage Mutant Ninja Turtles Film (Wide)
-UID:d97661b9-66b8-4c61-903b-b7ee6f5cbf3b@d976.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: Yes (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:7ddd8368-3896-47c2-b59c-38643bcc45fd@7ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Distributor: Remain (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:9946e624-ec87-47e0-b477-1ace766f9a66@9946.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Distributor: Omaha (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:bdf12262-df8c-4fbb-926a-ab6b3b043cc6@bdf1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Distributor: Forgotten Island (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:9a042c31-d904-408d-9779-241d4efc50a4@9a04.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Redux Redux (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ed847d8f-6978-458b-a99e-391f30fa851f@ed84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Distributor: Sense and Sensibility (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:339fb26d-ff23-4062-b9e7-4bd570854d8a@339f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Late Shift (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:2d86765f-2281-41a0-aba0-82a7c9496d20@2d86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20300703
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Illumination Event Film (Wide)
-UID:c235d548-73ab-40af-849c-629ddb4c54da@c235.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270507
-DESCRIPTION:Distributor: The Legend of Zelda (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:678d7ddf-b61d-4d12-af27-2884a035f16f@678d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Digger (Wide)
-UID:17a50408-0955-4641-b5af-8e71b93efd32@17a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Distributor: Living the Land (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:7f4bb595-7ee7-4220-b3e0-e6e0c64f0778@7f4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280721
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Hello Kitty (Wide)
-UID:d358bcab-a3dc-45bb-b4a1-7ef2b23f5bbf@d358.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Distributor: Fathom Events\nSource: The Numbers
-SUMMARY:🎬 V for Vendetta (Special Engagement\, re-release)
-UID:175c2a90-3615-4f96-b754-4ef8a056ec19@175c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: The Dreadful (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8fe3e89d-5487-4ac8-96b3-361b7148a8fb@8fe3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271217
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Avengers: Secret Wars (Wide)
-UID:c054a6f4-e596-428b-ad6b-3dfaeabe4192@c054.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: 2026 Oscar Shorts (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:fe759a64-88df-4eaf-9bd8-8ecbddc011ce@fe75.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270402
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Film (Wide)
-UID:850d58de-f949-4321-ae74-d0d6bf69c802@850d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: The Napa Boys (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:fc84d835-c1ae-4c1f-9412-2f1f37d752b1@fc84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Ben-Hur (Limited\, re-release)
-UID:3f4d552d-0948-49aa-8a54-8c3dee405929@3f4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260214
-DESCRIPTION:Distributor: UV Creations\nSource: The Numbers
-SUMMARY:🎬 Couple Friendly (Limited)
-UID:75cf49ee-49ef-43ab-86a1-bdb3ef8194f1@75cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Distributor: Fucktoys (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:7cb88e47-c68d-46fd-bab3-174aefb98136@7cb8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270903
-DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
-SUMMARY:🎬 The Simpsons Movie 2 (Wide)
-UID:58e60a01-a533-4d20-a3f4-463d2975798f@58e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Reminders of Him (Wide)
-UID:09e468ae-440c-45fb-87bc-225e7d3c2890@09e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270319
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Sonic the Hedgehog 4 (Wide)
-UID:e1071815-6065-4f85-babc-bf0962763ffb@e107.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: The Moment (Expands Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:b07eff0c-afa1-4fcc-8b3d-e67d5cbc2ce9@b07e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Alpha (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a984c001-1658-4551-9c02-ee83ae5cdb60@a984.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271222
-DESCRIPTION:Distributor: Untitled Warner Bros. Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:27a7a628-164c-4b32-9ae3-b13665c99438@27a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270910
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 The Conjuring: First Communion (Wide)
-UID:4e1a8c11-33ec-430c-800a-565effe5734a@4e1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Evil Dead Burn (Wide)
-UID:0b9dd1ae-9507-4d6f-9e69-eb5a05eaa9ce@0b9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Distributor: A Great Awakening (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a5aaa812-4b7d-48f9-9a2b-11270408d635@a5aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Distributor: Toy Story 5 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3f8fc697-23b1-4da9-9a6b-5cf808c2fb81@3f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Crime 101 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:4007f7e0-6c5d-400b-a480-4c8ab8fca645@4007.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Distributor: The Mandalorian & Grogu (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:d78d5716-6267-406b-97db-37772f916589@d78d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270226
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 CoComelon: The Movie (Wide)
-UID:b7b3da33-f67c-45ab-b917-f19df68ad00b@b7b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271001
-DESCRIPTION:Distributor: The Batman: Part II (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:967bf241-98ab-4939-92d9-403a165eca23@967b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: They Will Kill You (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:46f8199e-75cf-4222-8137-25d43c6b1033@46f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Spider-Man: Brand New Day (Wide)
-UID:c0d2d726-2789-4559-98ab-28d5d23f127b@c0d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280505
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Marvel Movie (Wide)
-UID:1588ddc3-e15c-4166-aa63-67eb6d4f4dc7@1588.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: Dr. Seuss’ The Cat in the Hat (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:58a64227-43ba-4f0c-8df0-d5c18e388082@58a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281103
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 The Lunar Chronicles (Wide)
-UID:23bcb544-e54b-4dec-8519-25056d0a4519@23bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Normal (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ca700f3e-09fc-499a-9b29-5edb49ecf9d6@ca70.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Distributor: Deep Water (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:fb94194e-cf80-40ec-8213-f208d6175459@fb94.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Distributor: Untitled Paramount Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:511c8982-9344-44b6-baee-431fe912a1d8@511c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Archangel (Wide)
-UID:11bd5594-25b1-47d6-80e4-0af20c4e4ea9@11bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Other Mommy (Wide)
-UID:f0d82048-523c-470c-84bf-61070cea5db7@f0d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Ghost Elephants (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8fda6bee-22e5-4cda-82bc-27b5ba311612@8fda.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280317
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Fast Forever (Wide)
-UID:a711af5e-0a61-4a18-aa58-d4f437434c64@a711.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Matter of Time (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:73e41a48-9a22-41df-82a4-1deda3aec1b0@73e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Distributor: The Great Beyond (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:001558c5-82c8-4a24-a4bb-5c190f201d5f@0015.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281110
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Marvel Movie (Wide)
-UID:21ec6803-3084-443d-9c4d-7a42e21b5318@21ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270423
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 An Untitled F.A.S.T. Film (Wide)
-UID:45cf8dc8-bdcb-421a-9c3b-a3c796a9005d@45cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Distributor: I Play Rocky (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a168ef6a-6875-419d-b045-18d25564545c@a168.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: KVN Productions\nSource: The Numbers
-SUMMARY:🎬 Toxic: A Fairy Tale for Grown-Ups (Limited)
-UID:1a0d21c9-5f4f-4649-adeb-f8dafb8b8b8a@1a0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270326
-DESCRIPTION:Distributor: The Resurrection of the Christ: Part One (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:c38f9639-8500-488a-b899-2e58ceecf580@c38f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281122
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Animation (Wide)
-UID:9a5b54c2-86c0-4ecd-a8f8-b34094545538@9a5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
-SUMMARY:🎬 Blades of the Guardians (Limited)
-UID:bbd8ada7-d001-4176-b089-d49d6696b7e0@bbd8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271008
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Film (Wide)
-UID:e1bfead2-4744-4034-aafe-3e1a258124f5@e1bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: She Dances (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:d14f2998-de57-480f-a72f-72314e5ab4c4@d14f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: Alpha (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3e1e22c0-1df4-4e97-b3e5-3c036a47969f@3e1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Desert Warrior (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:31929c24-01ca-406b-ba52-ac1888456237@3192.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Distributor: Stop! That! Train (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:943d96e1-ff95-4ed6-9d1c-6619c1b0c7bf@943d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Distributor: Untitled DC Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3cee6728-3788-4c2f-bb67-13791179048c@3cee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260303
-DESCRIPTION:Distributor: Zurty Studios\nSource: The Numbers
-SUMMARY:🎬 Dark Arrows (Wide)
-UID:f75d610b-74df-43a7-8024-3f4a3dc7e97f@f75d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Distributor: Bonolota Express (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:4ce6020f-601b-499a-9b39-16bf6382b07c@4ce6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Distributor: Pressure (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8a69cc06-150a-417e-96c8-06d5ee55b33f@8a69.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DESCRIPTION:Distributor: Scary Movie 6 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:04fd8df6-7b6e-4aa7-a740-af99eb200a4a@04fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Ready or Not 2: Here I Come (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ae6fd989-3358-4293-bd1f-2a818b3883cc@ae6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Two Pianos (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:89fa48f1-36aa-4712-a385-2661cfe295d7@89fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-DESCRIPTION:Distributor: Minions & Monsters (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:b7e9b756-6774-4012-9991-6d793970e818@b7e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Step Back\, Doors Closing (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:2e31ba60-5f97-41c9-8e07-5465913dc6c5@2e31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270409
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Get Lite (Wide)
-UID:24c2cfda-c234-4d4a-a9e2-7af974c14f30@24c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Indian 3 (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:f3d41b88-1dd3-42cd-a6be-4ca653ea92d2@f3d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Distributor: Passenger (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e4bfbe82-c138-4ae9-8ffd-7af6c49bb98e@e4bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Distributor: She Saw Us! (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:49fd62c3-044d-4c46-b476-94507188e785@49fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Dreams (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:96e7bb9c-0f81-4ae2-b751-a41eeb67e9d6@96e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Assi (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:c9515f19-b3e8-48f7-8cc6-48ec4b1ad663@c951.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Freestyle Releasing\nSource: The Numbers
-SUMMARY:🎬 Charliebird (Limited)
-UID:e8c2af43-0a10-40cb-a793-639dd3dbb162@e8c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Diabolic (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0b8ecd82-701f-41f6-8a21-a7dd6bcecc1f@0b8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Star Trek 4 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:2f8912d3-6c09-449f-b76e-90942d553df5@2f89.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Distributor: Hamlet (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:564a33d9-f4b0-47ff-88eb-ce2d0d09b053@564a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Erupcja (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:cf07cfc3-aa3e-4d06-a24a-6ec55b679cf0@cf07.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Cut Off (Wide)
-UID:06b20119-8335-4abe-8c83-5dd0cb419911@06b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: Dr. Seuss’ The Cat in the Hat (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:817df6d1-5de1-4c48-bc51-190842eb69da@817d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260304
-DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
-SUMMARY:🎬 AURORA: What Happened to the Earth? (Special Engagement)
-UID:0fd2e15c-01cb-4194-9805-93eecb8e0f08@0fd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Peaky Blinders: The Immortal Man (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:6a7d16dc-22c1-4ec7-b996-c637f1592956@6a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Starstruck (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3e4ecb8d-4d1a-4ca5-96da-7ddb95f71f09@3e4e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280616
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Pixar Film (Wide)
-UID:9f3d037d-b10f-4c15-aa79-29df645f8de6@9f3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Fried Green Tomatoes (Special Engagement\, re-release)
-UID:9233fece-1137-46bd-8606-d84ee2bd66e4@9233.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270917
-DESCRIPTION:Distributor: Untitled Disney Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a78a314d-8aa8-4396-8d90-29191523ee16@a78a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281006
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Film (Wide)
-UID:84d4623c-9880-4ee0-aaca-1694b3b348c1@84d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: The Mortuary Assistant (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:f83070eb-6f0e-465a-8d78-e458223150f6@f830.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270521
-DESCRIPTION:Distributor: Untitled Paranormal Activity Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:08f0a79b-dcad-42c0-9ba8-2f771a55e1b0@08f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281215
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Marvel Movie (Wide)
-UID:444485bf-dab6-4322-85e1-83e24ae1d2ee@4444.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Distributor: Obsession (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:d26837ac-40ea-476e-8453-49508249ea1c@d268.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Zero A.D. (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:304c61e6-31e0-4eb9-969e-ac6f03af41e0@304c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270312
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Buds (Wide)
-UID:0943517b-24df-4f52-8fd9-2d9a7d8c80b6@0943.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280310
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Pixar Film (Wide)
-UID:5ce94988-82d5-4bfc-9697-e92f9678b500@5ce9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Minions & Monsters (Wide)
-UID:b413da60-8357-4ce8-91ce-0670c760c323@b413.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271105
-DESCRIPTION:Distributor: Untitled Disney Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:95d1825a-706e-4c99-82f2-4c3aa821c2db@95d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
-SUMMARY:🎬 Twenty One Pilots: More Than We Ever Imagined (IMAX)
-UID:37254f11-79bc-40b5-a4c0-0c6507d17de3@3725.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260211
-DESCRIPTION:Distributor: Bouncy Boxer Media\nSource: The Numbers
-SUMMARY:🎬 Be My Valentine (Limited)
-UID:962ac39b-da99-4867-919b-1b1e4fe38f84@962a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Midwinter Break (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a0feda12-2fcd-4cab-9814-c71d36003b84@a0fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271124
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Frozen III (Wide)
-UID:ca40dfab-ed1e-4d92-a729-ebc663d94564@ca40.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Distributor: The Odyssey (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1289c8cf-6479-43a3-a49d-3a8ecf56b7ea@1289.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270917
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Teenage Mutant Ninja Turtles 2 (Wide)
-UID:63d5150f-d73f-49ed-b1a6-173efb31ea7c@63d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Hi. (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:7c889d25-2601-4a9b-9d18-c34fe01f4097@7c88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Broken Bird (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ab6df6b2-d8f8-4488-b1f9-49263d30c604@ab6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280331
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Film (Wide)
-UID:665c428e-c4cc-4af9-861a-713109693a58@665c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270305
-DESCRIPTION:Distributor: The Thomas Crown Affair (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:b5e80d96-cafc-4a6c-ada9-416aae0ba9c2@b5e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Met Opera: El Último Sueño de Frida y Diego (Special Engagement)
-UID:21fab889-36fd-476f-9b07-5546bb6b8cc1@21fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: The Bride! (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8659a06b-8aca-40c0-830d-3031f8b168a8@8659.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Distributor: Over Your Dead Body (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1e42797c-3771-49a5-8db5-f78a13b629d2@1e42.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Maserati: The Brothers (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:5cb94f5c-dcea-4c94-a7b1-6965f807c2ff@5cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Ebenezer: A Christmas Carol (Wide)
-UID:75984d4b-0102-4b5c-a613-8b940295d005@7598.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: DSP Dev 2 (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1e92214e-c6fb-4497-b7fc-7d25340fcade@1e92.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Distributor: Charlie Harper (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:c076d51f-1df1-4c19-9119-319ce9133b2f@c076.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270115
-DESCRIPTION:Distributor: Children of Blood and Bone (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:379d27ee-fa27-495a-8bdb-678834bd1f05@379d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
-SUMMARY:🎬 A Better Tomorrow (Special Engagement)
-UID:bf8c0ee1-0e16-4188-beb8-94f3a81ddeeb@bf8c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Filipiñana (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:92bd1443-ee6f-4b6c-afbf-8de62cdf16fd@92bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20311219
-DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
-SUMMARY:🎬 Avatar 5 (Wide)
-UID:b3b38ad3-34b1-42ae-bf38-468767d4caf6@b3b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Heel (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:bc50f2e3-19a6-446a-b852-3c1ab2f9db14@bc50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 The Breadwinner (Wide)
-UID:6b78fc59-4e98-43da-ab92-4b645a6d61e1@6b78.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Funky (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:054d269e-d895-4922-9727-2bc9dd1096db@054d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270528
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Star Wars: Starfighter (Wide)
-UID:3c6c0db1-8245-4aea-8c88-dc5e1c3a569e@3c6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271110
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Helldivers (Wide)
-UID:67dd4080-a0dc-4caa-9df4-cc6856f8f4ef@67dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270611
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 How to Train Your Dragon 2 (Wide)
-UID:67605471-753d-4568-b13a-c711048d14eb@6760.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270618
-DESCRIPTION:Distributor: Untitled Disney Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:f1d4022c-c1cf-48ed-8442-21d01cffa7fe@f1d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Billy Preston: That’s the Way God Planned It (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:b188f6f0-1024-422b-a061-91e9a1ea993b@b188.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Tu Yaa Main (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:b36d7345-1efb-4c60-9a02-6d8fd2bb3d39@b36d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Lee Cronin’s The Mummy (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:67598c95-06f4-44c1-8295-a97f98f39d35@6759.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261218
-DESCRIPTION:Distributor: Dune: Messiah (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:4c3e93ad-758d-4015-9a02-235f7acc9e5c@4c3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260216
-DESCRIPTION:Distributor: Crunchyroll\nSource: The Numbers
-SUMMARY:🎬 Fruits Basket: Prelude (Special Engagement\, re-release)
-UID:3212bffb-37f7-4f26-8f2d-acad6890a9c7@3212.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270723
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Untitled Minecraft Sequel (Wide)
-UID:3f97303f-f5b9-415d-8cd0-5d0e11d10dab@3f97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280414
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Illumination Event Film (Wide)
-UID:d7b56085-72fe-4a68-b262-05ed03ca7cd8@d7b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 The Bride! (Wide)
-UID:7e01d104-6de4-4dd9-b6fb-7d08ddb1e29b@7e01.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: I Can Only Imagine 2 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:53375674-0528-455f-bc43-f277eba87e0e@5337.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
-SUMMARY:🎬 BTS World Tour Arirang: Live Viewing (Special Engagement)
-UID:2b614f7a-3d28-4919-b78b-c95f0d19f91f@2b61.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 The Silence of the Lambs (Special Engagement\, re-release)
-UID:76a58aeb-ed29-436f-9ea5-be59c0ea7e81@76a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: The Python Hunt (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:2f7e4efa-59da-4969-a0b8-abcc3e963b90@2f7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Mortal Kombat II (Wide)
-UID:09c883ce-59b5-4bdc-992b-d08187009f4a@09c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: The Haunted Forest (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:92b122c3-d829-43ec-b77b-1405126a3b6e@92b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260211
-DESCRIPTION:Distributor: Eric Church: Evangeline vs. The Machine Comes Alive (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:4f5482df-c4ce-4020-bfa7-174d81a462d9@4f54.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
-SUMMARY:🎬 The Optimist (Wide)
-UID:657097c7-0e28-4ac6-8fc5-ca6a5a60ae28@6570.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Distributor: Resident Evil (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:54801d47-0542-4c16-9c67-0d07524c9e03@5480.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: John Lilly and the Earth Coincidence Control Office (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:6f498d29-c97b-4449-80c1-67cccdf7b6e1@6f49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: Nika & Madison (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e636e35a-7036-4da2-b0d5-4c4091820795@e636.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261126
-DESCRIPTION:Distributor: \nSource: The Numbers
-SUMMARY:🎬 Jimmy (Wide)
-UID:9118b533-1f0e-438c-a15b-8c1049cf3391@9118.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261218
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Avengers: Doomsday (Wide)
-UID:a8ec8209-72ec-4f26-b6fb-8dffa8403dc3@a8ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Pretty in Pink (Special Engagement\, re-release)\nSource: The Numbers
-SUMMARY:🎬 
-UID:279f19ba-6921-41b8-81c6-68b8a3f02d24@279f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Distributor: Panda Plan 2: The Magical Tribe (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:5be3349e-08e7-4a45-b92a-e1292e07cf34@5be3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270115
-DESCRIPTION:Distributor: Children of Blood and Bone (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:9d506348-e6fe-4856-a696-da5415f3e3bf@9d50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271222
-DESCRIPTION:Distributor: Spaceballs 2 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1bc261b9-6886-4926-a0c6-01c6fd083f35@1bc2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Distributor: In the Grey (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:c8d84a52-5ec5-4d4d-afb9-ab8b7c73d7d1@c8d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: The Forest Hills (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:705458b6-a86f-4a88-8094-1b653ec5fa40@7054.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271001
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 The Batman: Part II (Wide)
-UID:e5449d8d-69ef-4ea0-bfa5-9f7c77475c3b@e544.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
-SUMMARY:🎬 My Brother's Wedding (Limited\, re-release)
-UID:33bd8bc8-4847-4741-90d9-06458dca1013@33bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Sweetness (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ff5f5d56-07cd-4afc-b9cf-01081707ece5@ff5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270205
-DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
-SUMMARY:🎬 Ice Age: Boiling Point (Wide)
-UID:d6f87a1c-2205-4b33-9992-07ccda25b919@d6f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Citizen Kane (Special Engagement\, re-release)
-UID:2047b207-61e4-46a1-afb9-8ed40e747041@2047.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: Fantasy Life (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:06638cdc-451a-4264-b3e5-3d0541cd3ea2@0663.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: My Lord (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:c4f7035f-f75f-4e1e-b043-4761bb31254d@c4f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: The Haunting in Wicker Park (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:665acc07-4a4f-463d-9c84-d57377a27643@665a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: The Trouble with Terkel (Limited\, re-release)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3a37a149-5ae9-433f-8d68-ebb34683f8bd@3a37.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280922
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled DWA Animated Event Film (Wide)
-UID:1cea4219-8f8f-4835-a1d4-4695688274b4@1cea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Distributor: Masters of the Universe (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:4275a78a-038f-47d6-afb8-65caf06d3a5c@4275.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: The Currents (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0d9bf785-1aca-4034-a0e8-40287500a52d@0d9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Amrum (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:cdd82023-3e83-4e7c-bca7-f477d8d90fd4@cdd8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Crazy Old Lady (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:f9e9a7eb-62b1-4a80-8bf8-d1ff1694c970@f9e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Distributor: Zurty Studios\nSource: The Numbers
-SUMMARY:🎬 B-Roll (Wide\, re-release)
-UID:31214537-9bbd-4c38-a3e6-6815ecba0ee8@3121.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Gone with the Wind (Special Engagement\, re-release)
-UID:0fe02c89-333e-41c5-9404-d2eba3bd5e3f@0fe0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271222
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Universal Event Film (Wide)
-UID:dbbfb706-321c-463d-8fdb-dd451c8f3264@dbbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Distributor: The Undertone (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0bf48c02-be3d-4485-940e-7c462c4d6076@0bf4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270305
-DESCRIPTION:Distributor: The Thomas Crown Affair (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e74ee252-3bf1-4947-af1b-9b30e291a9d9@e74e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Clayface (Wide)
-UID:99d01244-7866-4f89-a5b5-6fceb0733e3a@99d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
-SUMMARY:🎬 How to Rob a Bank (Wide)
-UID:1a2e68fd-e603-49e0-8ad8-2c0d277b74a0@1a2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Mad Bills to Pay (or Destiny dile que no soy malo) (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:83d1fe85-c4ea-4e6c-9628-a3a154e95fba@83d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Distributor: You\, Me & Tuscany (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:f2f07321-3ced-48a0-9ede-744630cc13b9@f2f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291221
-DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
-SUMMARY:🎬 Avatar 4 (Wide)
-UID:5e7d57f7-29cb-42d4-9ba1-04491240bd51@5e7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: HYPNOSISMIC -Division Rap Battle- Interactive Movie (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:f6e23bef-e027-4e59-bc88-7065a8965d2e@f6e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Distributor: Hokum (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ae329f2c-85dc-483a-a91a-168ca25e9c20@ae32.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270326
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Godzilla x Kong: Supernova (Wide)
-UID:48b609e5-2409-4891-8037-718cd9936653@48b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: The Promise (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3fcb0407-8b89-4609-b268-73b99da4b68d@3fcb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Distributor: Rose of Nevada (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8798af88-f865-4c02-97c1-ece43b4c77a0@8798.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261126
-DESCRIPTION:Distributor: Netflix\nSource: The Numbers
-SUMMARY:🎬 Narnia (IMAX)
-UID:4c7b24ce-6c72-4610-9577-bdad07f484a3@4c7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270709
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Man of Tomorrow (Wide)
-UID:78417e7d-62d1-4f5e-88c6-56488e44f55e@7841.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
-SUMMARY:🎬 Young Washington (Wide)
-UID:7fe2ed51-6c70-4f25-8c56-dd26f7532d09@7fe2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: Holy Days (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8114dcb4-f4d4-4f0f-8237-155261fb10c6@8114.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Josh Groban: An Intimate Evening at The Union Chapel (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0c59dc37-ccbd-42cf-a64c-908a6ff9241b@0c59.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Distributor: Mortal Kombat II (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:9b4f67ce-b956-49e3-a66e-1b1995784bd9@9b4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260513
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Top Gun (Wide\, re-release)
-UID:c7527fe0-2909-4f3f-ae3e-d2d3a6faa9f4@c752.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Distributor: Untitled Neon Horror Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:812cd6e1-04fe-4bfc-a71d-68d1a12ea2ec@812c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Somersault (Limited\, re-release)\nSource: The Numbers
-SUMMARY:🎬 
-UID:bca1b309-ae52-4b8b-9a61-38c69602e467@bca1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261206
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 The Maltese Falcon (Special Engagement\, re-release)
-UID:6100a0c8-0dc1-4945-a23f-e484d27f6d89@6100.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270219
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Star Wars Ep. IV: A New Hope (Wide\, re-release)
-UID:176dffe2-0dcc-4921-a513-13d4a4bc9a24@176d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Distributor: Elijah Peel (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:94ea09b7-7354-4658-a55c-ce63bd61ff4f@94ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270212
-DESCRIPTION:Distributor: Untitled K-Pop Movie (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:11ceaadc-72b8-4dcb-9ce4-6508ddd9f509@11ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Soulm8te (Canceled)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1ca9871a-e814-4999-9bbe-e4cae27a45b2@1ca9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Motor City (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8917626a-d041-48b6-a0e8-c8863177dcfa@8917.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Distributor: The Odyssey (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:282f65f5-b821-40ed-b081-fbbbbbf544b4@282f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Distributor: Fathom Events\nSource: The Numbers
-SUMMARY:🎬 The Apocalypse of St. John (Special Engagement)
-UID:f7fbcebd-8bb3-4268-9bcf-e4ec2b35ac72@f7fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260325
-DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
-SUMMARY:🎬 Bring Me The Horizon: L.I.V.E. in São Paulo (Special Engagement)
-UID:208420df-1189-42e6-a44a-080d43c10757@2084.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Distributor: Untitled Paramount Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:88fc67e9-9b01-415a-b4a2-a7906fb41442@88fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Hoppers (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3480ac73-0e8a-4e62-8287-f9a67509acfe@3480.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271015
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Blumhouse Event Film (Wide)
-UID:bf32e249-720a-45ac-a5d1-865a1c704489@bf32.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Distributor: Poetic License (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:115d17f8-54d9-4eba-b014-0ffa16dfcf81@115d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Eagles of the Republic (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:7ccb048d-9444-4dc6-bf29-18802c65b446@7ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270226
-DESCRIPTION:Distributor: Panic Carefully (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:54d2cc6d-0f72-4d9f-99a5-953c75f4542e@54d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280114
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Film (Wide)
-UID:2f3943dd-1431-46bd-968f-3f7886a0761e@2f39.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280407
-DESCRIPTION:Distributor: The Beatles Cinematic Event: Ringo (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a30accc3-2000-48db-8161-54053788ceaa@a30a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 A Beautiful Mind (Special Engagement\, re-release)
-UID:80bdb454-a7b7-4a78-9bb6-16fd441ff5ab@80bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280218
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Marvel Movie (Wide)
-UID:759ef655-6e3e-4c36-a7e5-316b73f9f9a5@759e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Distributor: Verity (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e5f538fb-99e1-433c-880e-7b17a001ed5e@e5f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Disclosure Day (Wide)
-UID:6af19dfe-84be-4f1c-8ccf-e449f607afe1@6af1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: O’Romeo (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:bc08f1ee-2d14-4e2d-8dc0-58bd9866a4b8@bc08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271105
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Margie Clause (Wide)
-UID:57d1739f-fc38-4574-b938-9d51a89ac1e7@57d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270115
-DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
-SUMMARY:🎬 The Beekeeper 2 (Wide)
-UID:eff6336e-9567-48de-9e0d-8d6a7cfb89e0@eff6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270630
-DESCRIPTION:Distributor: Shrek 5 (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8311923a-782c-454d-b13b-7038b1c2b52e@8311.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: The Scout (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:4172f3f9-216a-4051-9e52-761a03b9aae8@4172.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261223
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 The Angry Birds Movie 3 (Wide)
-UID:d9111dbb-39ca-4fb8-aff8-8fffe1ae277a@d911.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270506
-DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
-SUMMARY:🎬 The Resurrection of the Christ: Part Two (Wide)
-UID:f065dcaf-2b56-4127-9486-30805723de65@f065.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: Untitled Disney Film (Canceled)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3e5534b3-9788-48f4-a560-139d423ca275@3e55.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20290629
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Illumination Event Film (Wide)
-UID:1ef8fe2c-443e-4bae-8aaa-4f12c898793e@1ef8.org
+DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
+SUMMARY:🎬 Zac Power(Wide)
+UID:20271222-ZacPowerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271119
-DESCRIPTION:Distributor: Untitled Event Film Directed by Daniels (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:03cfbbc6-3393-40ca-a649-fc95d6ea8438@03cf.org
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Event Film Directed by Daniels(Wide)
+UID:20271119-UntitledEventFilmDirectedbyDanielsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Baz Luhrmann’s Epic Elvis Presley in Concert (Expands Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:bc39e529-bea5-461f-b24e-bbbc535f2ce4@bc39.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
-SUMMARY:🎬 Animal Farm (Wide)
-UID:3d6410c2-1bfb-40f0-b111-acd67bbb13ef@3d64.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Distributor: Tuner (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:d31d459f-0f6a-4187-af24-db9f287d6ab1@d31d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Distributor: Digger (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8958e475-41b3-4fd7-931a-7b13e84c77d0@8958.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271222
-DESCRIPTION:Distributor: Zac Power (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:f198c9a2-6b16-4858-b413-d5271ff979e7@f198.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Distributor: A24\nSource: The Numbers
-SUMMARY:🎬 The Drama (Wide)
-UID:76e726be-aa8b-4964-ab56-0f985238562b@76e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Golden (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1ee86a3a-d7cd-43ec-83fd-1375f249ed5d@1ee8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Resident Evil (Wide)
-UID:687353cc-1741-4d41-b558-ad97735821ba@6873.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: This Is Not a Test (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:73df87fe-1d82-4119-8e52-a473a61baa32@73df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271217
-DESCRIPTION:Distributor: Lord of the Rings: The Hunt for Gollum (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:506832c0-c330-48e9-94b7-cab9dcf5697c@5068.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260211
-DESCRIPTION:Distributor: Gale: Yellow Brick Road (Special Engagement)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e009c671-65f8-4f2d-b5f6-2cfc3d5c6f7f@e009.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Nirvanna the Band the Show the Movie (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:01cd50ca-cb9b-4f91-af49-dc47e206b037@01cd.org
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
+SUMMARY:🎬 Maserati: The Brothers(Wide)
+UID:20261231-MaseratiTheBrothersWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 A Quiet Place Part III (Wide)
-UID:eff81371-6941-425a-9b42-0e226f3d9efb@eff8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270326
-DESCRIPTION:Distributor: Godzilla x Kong: Supernova (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:13faf649-8463-4c92-a1ac-a31693dcc4f4@13fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260401
-DESCRIPTION:Distributor: The Super Mario Galaxy Movie (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:925011ef-a8b9-460c-ba3a-6e89cb532030@9250.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Project Hail Mary (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:21f341c5-ffc7-480e-bf7c-6345ef78fcea@21f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Dead Lover (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:d3fbf097-fdbb-4143-9c55-24a42e704641@d3fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270716
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Untitled Warner Bros. Event Film (Wide)
-UID:63cc8c44-eb11-43a0-8ae5-2509b2d2da98@63cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Distributor: Girls Like Girls (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:bd4b4c58-cf1e-495e-a96f-d1cde5445e73@bd4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270312
-DESCRIPTION:Distributor: Untitled Mike Flanagan Exorcist Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:09349caf-501e-476a-acef-147abe6cb089@0934.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Untitled Jackass Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:44fbd296-e8c1-46a0-aef2-537ae0371f00@44fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Gunfighter Paradise (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ccb44e69-49d3-4d61-995f-58ee046fde0f@ccb4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Met Opera: Eugene Onegin (Special Engagement)
-UID:6f85da23-7474-4e50-9f60-37720efb0754@6f85.org
+SUMMARY:🎬 A Quiet Place Part III(Wide)
+UID:20270730-AQuietPlacePartIIIWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Big Girls Don’t Cry (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3b518203-fec0-4098-a38c-eaf17e5faf82@3b51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Fleak (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a979486d-5605-44ec-a6a3-2802e8912b1e@a979.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Pompei: Below The Clouds (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ad6484a0-dfb1-4246-8137-025204ff74b8@ad64.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Scarlet (Expands Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a0a3af99-a8fa-47af-9be3-352e9cea4452@a0a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280407
-DESCRIPTION:Distributor: The Beatles Cinematic Event: Paul (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:b3fb34c1-4d66-4301-8099-815b19b7f622@b3fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Royal Opera House: Giselle (Special Engagement)
-UID:65e0a78f-5569-4145-837c-8076dad22f7d@65e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280317
-DESCRIPTION:Distributor: Oh\, The Places You’ll Go (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:8c946d3e-5012-4c83-846f-75158560a7be@8c94.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261125
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Focker-in-Law (Wide)
-UID:576034a3-6c22-470e-bb5a-778441934ea3@5760.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20281222
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Untitled Sonic the Hedgehog Franchise Film (Wide)
-UID:f7839134-2229-414e-a3e3-a55f498910c8@f783.org
+SUMMARY:🎬 Whitney Springs(Wide)
+UID:20261231-WhitneySpringsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Project Hail Mary (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e0bb1fa3-6a5c-4829-a7c9-cca1cec33cc2@e0bb.org
+DTSTART;VALUE=DATE:20281117
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Universal Event Film(Wide)
+UID:20281117-UntitledUniversalEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270618
-DESCRIPTION:Distributor: Untitled Warner Bros. Event Film (Canceled)\nSource: The Numbers
-SUMMARY:🎬 
-UID:2ef6d0c7-0bdf-4d9a-a507-cb8de0d55896@2ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Mimics (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:733ffbd0-fcde-480d-b59f-ae0f68e66f64@733f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280630
-DESCRIPTION:Distributor: Untitled Illumination Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1a9715cf-17ea-4dca-8a54-8755e36818c9@1a97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271119
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Gremlins 3 (Wide)
-UID:e7da842c-13ef-489f-9fdc-7f01e46832b2@e7da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280526
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Disney Film (Wide)
-UID:0ac81ae0-2b60-4f56-943f-46e0016fa5f2@0ac8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: Storm Rider: Legend of Hammerhead (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:41d8d2fa-4e52-4282-96ce-fefeea35700d@41d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261125
-DESCRIPTION:Distributor: Hexed (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1fdee600-0ead-4873-97cd-40ab1d325f3a@1fde.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: André is an Idiot (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ee4a4e83-3596-4bf4-817b-1882505b6efc@ee4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Distributor: Glenrothan (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e84816bd-fd51-437c-98d1-a3913c6d2044@e848.org
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Self Distributed\nSource: The Numbers
+SUMMARY:🎬 The Forest Hills(Limited)
+UID:20261231-TheForestHillsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Avengers: Endgame (Wide\, re-release)
-UID:338dbf88-5820-4c84-a44e-b61c03c27b76@338d.org
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Untitled Paramount Event Film(Wide)
+UID:20260925-UntitledParamountEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270212
-DESCRIPTION:Distributor: Untitled Warner Bros. Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:cd8bc8a3-c300-45f6-9380-0f9cc8f62d8e@cd8b.org
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 How to Rob a Bank(Wide)
+UID:20260904-HowtoRobaBankWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:Distributor: Touch Me (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:3c1a9cbe-30fb-42b4-98aa-6e7fe956c394@3c1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280609
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Universal Event Film (Wide)
-UID:a146d40a-b159-4963-a2b7-43812d094816@a146.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Distributor: Untitled Disney Film (Canceled)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e858c920-7d0b-42e5-a8c5-e0f0922c96c8@e858.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Four Rational People (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:47180509-58ef-4384-aee4-3b0028765525@4718.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261225
-DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
-SUMMARY:🎬 Werwulf (Wide)
-UID:613f8ee8-47f4-437f-badf-ca8cb1916ba8@613f.org
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Mutiny(Wide)
+UID:20260821-MutinyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: “Wuthering Heights” (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e6c5d712-a505-4332-a344-4c43a4bcb60e@e6c5.org
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Nirvanna the Band the Show the Movie(Limited)
+UID:20260213-NirvannatheBandtheShowtheMovieLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Sumerian\nSource: The Numbers
+SUMMARY:🎬 Mile End Kicks(Limited)
+UID:20260417-MileEndKicksLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270416
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Illumination Event Film(Wide)
+UID:20270416-UntitledIlluminationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270212
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Nightingale(Wide)
+UID:20270212-TheNightingaleWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Sri Kumaran Films\nSource: The Numbers
+SUMMARY:🎬 My Lord(Limited)
+UID:20260213-MyLordLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Disclosure Day(Wide)
+UID:20260612-DisclosureDayWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Scream 7(Wide)
+UID:20260227-Scream7Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 Pillion(Expands Wide)
+UID:20260220-PillionExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Zero A.D.(Wide)
+UID:20261231-ZeroADWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271222
+DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
+SUMMARY:🎬 Buzzkill(Wide)
+UID:20271222-BuzzkillWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Soulm8te(Canceled)
+UID:20261231-Soulm8teCanceled@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Film Distribution Network\nSource: The Numbers
+SUMMARY:🎬 Indian 3(Limited)
+UID:20261231-Indian3Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Bluey The Movie(Wide)
+UID:20270806-BlueyTheMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270226
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Practical Magic 2 (Wide)
-UID:b929de34-69c9-43d4-bbf2-a6abea67999f@b929.org
+SUMMARY:🎬 Panic Carefully(Wide)
+UID:20270226-PanicCarefullyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Dump of Untitled Pieces(Festival Screening)
+UID:20260219-DumpofUntitledPiecesFestivalScreening@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: 1-2 Special\nSource: The Numbers
+SUMMARY:🎬 Still Friends(Limited)
+UID:20261231-StillFriendsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281110
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Marvel Movie(Wide)
+UID:20281110-UntitledMarvelMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280331
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20280331-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Distributor: KVN Productions\nSource: The Numbers
+SUMMARY:🎬 Toxic: A Fairy Tale for Grown-Ups(Limited)
+UID:20260319-ToxicAFairyTaleforGrownUpsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Clayface(Wide)
+UID:20261023-ClayfaceWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
+SUMMARY:🎬 Living the Land(Limited)
+UID:20260403-LivingtheLandLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Zee Studios\nSource: The Numbers
+SUMMARY:🎬 Hi.(Limited)
+UID:20260220-HiLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Midwinter Break(Wide)
+UID:20260220-MidwinterBreakWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: Ketchup Entertainment\nSource: The Numbers
+SUMMARY:🎬 Coyote vs. Acme(Wide)
+UID:20260828-CoyotevsAcmeWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270903
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 The Simpsons Movie 2(Wide)
+UID:20270903-TheSimpsonsMovie2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Untitled Amazon MGM Studio Film(Wide)
+UID:20261023-UntitledAmazonMGMStudioFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270528
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Star Wars: Starfighter(Wide)
+UID:20270528-StarWarsStarfighterWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Magnolia Pictures\nSource: The Numbers
+SUMMARY:🎬 Normal(Wide)
+UID:20260417-NormalWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Spider-Man: Brand New Day(Wide)
+UID:20260731-SpiderManBrandNewDayWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Baz Luhrmann’s Epic Elvis Presley in Concert(Expands Wide)
+UID:20260227-BazLuhrmannsEpicElvisPresleyinConcertExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270212
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20270212-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270618
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20270618-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Digger(Wide)
+UID:20261002-DiggerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
-DESCRIPTION:Distributor: Watermelon Pictures\nSource: The Numbers
-SUMMARY:🎬 The Six Billion Dollar Man (Limited)
-UID:44f19d29-3767-4aed-add1-4ac426327eb0@44f1.org
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Fall 2(Wide)
+UID:20260331-Fall2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Gunfighter Paradise(Limited)
+UID:20260227-GunfighterParadiseLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Flowervale Street(Wide)
+UID:20260814-FlowervaleStreetWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
+SUMMARY:🎬 2026 Oscar Shorts(Limited)
+UID:20260220-2026OscarShortsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
+SUMMARY:🎬 2DIE4(IMAX)
+UID:20260220-2DIE4IMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: The Avenue Entertainment\nSource: The Numbers
+SUMMARY:🎬 Wardriver(Limited)
+UID:20260320-WardriverLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 The Dreadful(Limited)
+UID:20260220-TheDreadfulLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Digger(IMAX)
+UID:20261002-DiggerIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Maltese Falcon(Special Engagement\, re-release)
+UID:20261206-TheMalteseFalconSpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:Distributor: ShutterSTOCK Liner Entertainment\nSource: The Numbers
-SUMMARY:🎬 Time (Limited)
-UID:fbe5e319-8529-4eb2-9bd0-d892ce1f2836@fbe5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: Godzilla Minus Zero (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e199359f-f843-4019-a279-4d55871edbf3@e199.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
-SUMMARY:🎬 Is God Is (Wide)
-UID:09587eba-3d3a-49b7-9de6-d50e0721f9de@0958.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Distributor: Bushido (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:78140ec7-5eb2-44c8-9df4-8a904227bd5b@7814.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DESCRIPTION:Distributor: Pretty Ugly — The Story of the Lunachicks (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ba451557-7c86-459a-8711-4b2e6ab0ae93@ba45.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Distributor: Diamanti (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:53ee1a4c-8cfd-4422-b95e-bc726a369163@53ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270305
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Gatto (Wide)
-UID:35112bf7-639c-4cd4-8096-067c21e8ce88@3511.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Distributor: Neon\nSource: The Numbers
-SUMMARY:🎬 I Love Boosters (Wide)
-UID:99b94eb8-8b66-41f9-bb21-90ee2d6fed23@99b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Distributor: Billie Eilish: Hit Me Hard and Soft—The Tour (Special Engagement)\nSource: The Numbers
-SUMMARY:🎬 
-UID:164a99be-2b7c-43ae-a831-15849dcfd5c2@164a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Animal Friends (Wide)
-UID:1b458cb2-d257-4987-ab03-9b80800a1330@1b45.org
+SUMMARY:🎬 Time(Limited)
+UID:20261015-TimeLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: GOAT (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:2f4b1919-31a2-4853-a90b-a10856d518cd@2f4b.org
+DESCRIPTION:Distributor: Quiver\nSource: The Numbers
+SUMMARY:🎬 Hunting Jessica Brok(Limited)
+UID:20260213-HuntingJessicaBrokLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270212
-DESCRIPTION:Distributor: Untitled Disney Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0bc1f005-b350-4341-866e-3e7249b47889@0bc1.org
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Flowervale Street(IMAX)
+UID:20260814-FlowervaleStreetIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Distributor: Wildwood (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:95b9f7a6-3089-4443-9535-134512b8a733@95b9.org
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Freestyle Releasing\nSource: The Numbers
+SUMMARY:🎬 Step Back\, Doors Closing(Limited)
+UID:20260213-StepBackDoorsClosingLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Distributor: The Christophers (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:1a3aa23e-aadd-43fb-9ceb-3ef32334d090@1a3a.org
+DTSTART;VALUE=DATE:20281220
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Universal Event Film(Wide)
+UID:20281220-UntitledUniversalEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Desert Road (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:090fdf05-763a-4866-b77b-51bf3ce81949@090f.org
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
+SUMMARY:🎬 The Trouble with Terkel(Limited\, re-release)
+UID:20260227-TheTroublewithTerkelLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Distributor: Dropshock Pictures\nSource: The Numbers
-SUMMARY:🎬 Hunting Matthew Nichols (Wide)
-UID:d5926a4e-6607-4c01-981c-cda0aec67964@d592.org
+DTSTART;VALUE=DATE:20270521
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Untitled Paranormal Activity Film(Wide)
+UID:20270521-UntitledParanormalActivityFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Girls Like Girls(Wide)
+UID:20260619-GirlsLikeGirlsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
+SUMMARY:🎬 The Third Parent(Wide)
+UID:20260807-TheThirdParentWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DESCRIPTION:Distributor: Samuel Goldwyn Films\nSource: The Numbers
-SUMMARY:🎬 Cold Storage (Wide)
-UID:c1ad27b1-04be-469d-a532-ba3bb3308434@c1ad.org
+SUMMARY:🎬 Cold Storage(Wide)
+UID:20260213-ColdStorageWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Distributor: Michael (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:5ebcadfa-f0d5-476c-a3a5-531f2772ba76@5ebc.org
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Filipiñana(Limited)
+UID:20261231-FilipianaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Distributor: Spa Weekend (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:adacb26f-e9f3-4638-9e14-d1299c48a5cc@adac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Distributor: Michael (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:38c27179-c987-4882-b5af-7d66c4a7c917@38c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Distributor: Street Fighter (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:a741c1e5-e7f2-4aa5-9fdb-6a5413ff830d@a741.org
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Untitled GKIDS Film(Limited)
+UID:20260410-UntitledGKIDSFilmLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Hunting Jessica Brok (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ed3c3586-5fcc-4809-a3fa-890da2604c77@ed3c.org
+DESCRIPTION:Distributor: Brainstorm Media\nSource: The Numbers
+SUMMARY:🎬 Diabolic(Limited)
+UID:20260213-DiabolicLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Distributor: Baz Luhrmann’s Epic Elvis Presley in Concert (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:7c782fc4-412c-47dd-90f5-9bb492918f5d@7c78.org
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 PAW Patrol: The Dino Movie(Wide)
+UID:20260814-PAWPatrolTheDinoMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280728
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20280728-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
+SUMMARY:🎬 A Great Awakening(Wide)
+UID:20260403-AGreatAwakeningWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Citizen Kane(Special Engagement\, re-release)
+UID:20260705-CitizenKaneSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Gone with the Wind(Special Engagement\, re-release)
+UID:20261010-GonewiththeWindSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Untitled Neon Horror Film(Wide)
+UID:20260710-UntitledNeonHorrorFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261223
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 The Angry Birds Movie 3(Wide)
+UID:20261223-TheAngryBirdsMovie3Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Bring Me The Horizon: L.I.V.E. in São Paulo(Special Engagement)
+UID:20260325-BringMeTheHorizonLIVEinSoPauloSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270115
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 The Beekeeper 2(Wide)
+UID:20270115-TheBeekeeper2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
+SUMMARY:🎬 Panda Plan 2: The Magical Tribe(Limited)
+UID:20260313-PandaPlan2TheMagicalTribeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Met Opera: Eugene Onegin(Special Engagement)
+UID:20260502-MetOperaEugeneOneginSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 I Play Rocky(Expands Wide)
+UID:20261120-IPlayRockyExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Shree Krishna Film\nSource: The Numbers
+SUMMARY:🎬 Assi(Limited)
+UID:20260220-AssiLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Project Hail Mary(Wide)
+UID:20260320-ProjectHailMaryWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281222
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Untitled Sonic the Hedgehog Franchise Film(Wide)
+UID:20281222-UntitledSonictheHedgehogFranchiseFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Godzilla x Kong: Supernova(Wide)
+UID:20270326-GodzillaxKongSupernovaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: White Hill Studios\nSource: The Numbers
+SUMMARY:🎬 DSP Dev 2(Limited)
+UID:20260213-DSPDev2Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Forgotten Island(Wide)
+UID:20260925-ForgottenIslandWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Project Hail Mary(IMAX)
+UID:20260320-ProjectHailMaryIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Thanksgiving 2(Wide)
+UID:20261231-Thanksgiving2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Godzilla x Kong: Supernova(IMAX)
+UID:20270326-GodzillaxKongSupernovaIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Distributor: Toy Story 5 (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:6b9be614-b594-4a0c-b2cd-c0bfd5d05d0b@6b9b.org
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Toy Story 5(Wide)
+UID:20260619-ToyStory5Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Distributor: A Magnificent Life (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:5be227d5-7c84-416c-85cd-d9e07d8b354c@5be2.org
+DTSTART;VALUE=DATE:20300703
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Illumination Event Film(Wide)
+UID:20300703-UntitledIlluminationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280407
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Beatles Cinematic Event: Paul(Wide)
+UID:20280407-TheBeatlesCinematicEventPaulWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Aura Entertainment\nSource: The Numbers
+SUMMARY:🎬 K-POPS!(Wide)
+UID:20260227-KPOPSWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 The Devil Wears Prada 2(Wide)
+UID:20260501-TheDevilWearsPrada2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
+SUMMARY:🎬 Air Bud Returns(Wide)
+UID:20260821-AirBudReturnsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Werwulf(Wide)
+UID:20261225-WerwulfWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
+SUMMARY:🎬 Billy Preston: That’s the Way God Planned It(Limited)
+UID:20260220-BillyPrestonThatstheWayGodPlannedItLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271001
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Batman: Part II(Wide)
+UID:20271001-TheBatmanPartIIWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Fried Green Tomatoes(Special Engagement\, re-release)
+UID:20260510-FriedGreenTomatoesSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 The Resurrection of the Christ: Part One(Wide)
+UID:20270326-TheResurrectionoftheChristPartOneWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Toy Story 5(IMAX)
+UID:20260619-ToyStory5IMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270305
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 The Thomas Crown Affair(Wide)
+UID:20270305-TheThomasCrownAffairWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280218
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Marvel Movie(Wide)
+UID:20280218-UntitledMarvelMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Level 33\nSource: The Numbers
+SUMMARY:🎬 Golden(Limited)
+UID:20260320-GoldenLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Met Opera: El Último Sueño de Frida y Diego(Special Engagement)
+UID:20260530-MetOperaElltimoSueodeFridayDiegoSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271001
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Batman: Part II(IMAX)
+UID:20271001-TheBatmanPartIIIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271222
-DESCRIPTION:Distributor: Buzzkill (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:10ed6bab-6d61-4482-bfd7-b5b8b6960ade@10ed.org
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Universal Event Film(Wide)
+UID:20271222-UntitledUniversalEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270618
-DESCRIPTION:Distributor: Spider-Man: Beyond the Spider-Verse (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:ab811213-832c-453b-b6a9-7aa7ecd3cd4e@ab81.org
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Star Trek 4(Wide)
+UID:20261231-StarTrek4Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270205
-DESCRIPTION:Distributor: Untitled Original Comedy from Judd Apatow and Glen Powell (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:efdff9fb-fc60-4827-9719-7ee23e6247d1@efdf.org
+DTSTART;VALUE=DATE:20270402
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Universal Event Film(Wide)
+UID:20270402-UntitledUniversalEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: The Asylum\nSource: The Numbers
+SUMMARY:🎬 Sharknado Origins(Limited)
+UID:20260925-SharknadoOriginsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Untitled Paramount Event Film(Wide)
+UID:20260904-UntitledParamountEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270305
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 The Thomas Crown Affair(IMAX)
+UID:20270305-TheThomasCrownAffairIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 The Drama(Wide)
+UID:20260403-TheDramaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Dune: Messiah(Wide)
+UID:20261218-DuneMessiahWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 The Moment(Expands Wide)
+UID:20260213-TheMomentExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Mortal Kombat II(Wide)
+UID:20260508-MortalKombatIIWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: ARC Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Ark and the Aardvark(Limited)
+UID:20261231-TheArkandtheAardvarkLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Baz Luhrmann’s Epic Elvis Presley in Concert(IMAX)
+UID:20260220-BazLuhrmannsEpicElvisPresleyinConcertIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Distributor: Bouncy Boxer Media\nSource: The Numbers
+SUMMARY:🎬 Be My Valentine(Limited)
+UID:20260211-BeMyValentineLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Amrum(Limited)
+UID:20261231-AmrumLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Blue Harbor\nSource: The Numbers
+SUMMARY:🎬 Storm Rider: Legend of Hammerhead(Limited)
+UID:20260306-StormRiderLegendofHammerheadLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 The Scout(Limited)
+UID:20261231-TheScoutLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Mortal Kombat II(IMAX)
+UID:20260508-MortalKombatIIIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Magnolia Pictures\nSource: The Numbers
+SUMMARY:🎬 Heel(Limited)
+UID:20260306-HeelLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270506
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 The Resurrection of the Christ: Part Two(Wide)
+UID:20270506-TheResurrectionoftheChristPartTwoWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 The Undertone(Wide)
+UID:20260313-TheUndertoneWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Music Box Films\nSource: The Numbers
+SUMMARY:🎬 Late Shift(Limited)
+UID:20260320-LateShiftLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311219
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 Avatar 5(Wide)
+UID:20311219-Avatar5Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
+SUMMARY:🎬 Deep Water(Wide)
+UID:20260501-DeepWaterWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Focker-in-Law(Wide)
+UID:20261125-FockerinLawWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Remain(Wide)
+UID:20261023-RemainWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280707
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20280707-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: RLJ Entertainment\nSource: The Numbers
+SUMMARY:🎬 Motor City(Wide)
+UID:20261231-MotorCityWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270618
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse (Wide)
-UID:e6528f0a-1729-4dcd-968e-1d65f0424f53@e652.org
+SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse(Wide)
+UID:20270618-SpiderManBeyondtheSpiderVerseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270402
-DESCRIPTION:Distributor: Untitled Universal Event Film (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:9af0b749-26db-4587-8c00-e06bc03021b1@9af0.org
+DTSTART;VALUE=DATE:20271222
+DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
+SUMMARY:🎬 Animal Crackers 2: The Next Batch(Wide)
+UID:20271222-AnimalCrackers2TheNextBatchWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
+DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Street Fighter (Wide)
-UID:484fc222-8e30-4e07-9514-2a47f640781c@484f.org
+SUMMARY:🎬 Children of Blood and Bone(Wide)
+UID:20270115-ChildrenofBloodandBoneWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260214
-DESCRIPTION:Distributor: Seetha Payanam (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0444a194-7d59-4f2b-b105-828299f02445@0444.org
+DTSTART;VALUE=DATE:20271105
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Margie Clause(Wide)
+UID:20271105-MargieClauseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: Good Luck\, Have Fun\, Don’t Die (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:73388fc7-6ddc-4d08-9777-887b5355ea2a@7338.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: For Worse (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:b1e0fb37-b564-4200-ba19-644c3ee606ad@b1e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Distributor: Whalefall (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:16130fa3-d11e-4356-8540-3a1e3a7cbd79@1613.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Fablehaven (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:e9b79fd1-dba6-4da4-b765-4c502926a050@e9b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261204
+DTSTART;VALUE=DATE:20260701
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Violent Night 2 (Wide)
-UID:b4bff856-b385-4fd7-918e-4bffd580c979@b4bf.org
+SUMMARY:🎬 Minions & Monsters(Wide)
+UID:20260701-MinionsMonstersWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Distributor: Teenage Mutant Ninja Turtles II: The Secret of the Ooze (Special Engagement\, re-release)\nSource: The Numbers
-SUMMARY:🎬 
-UID:0a7b704a-6ed5-453e-af6d-da7d467d5f87@0a7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270709
-DESCRIPTION:Distributor: Man of Tomorrow (IMAX)\nSource: The Numbers
-SUMMARY:🎬 
-UID:26b71614-c8f0-4c21-9020-812a04a9465d@26b7.org
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Masters of the Universe(Wide)
+UID:20260605-MastersoftheUniverseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
-DESCRIPTION:Distributor: The Yeti (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:6de056b9-58ec-4c3d-8e40-a08de764f63d@6de0.org
+DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
+SUMMARY:🎬 The Yeti(Limited)
+UID:20260410-TheYetiLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Odyssey(Wide)
+UID:20260717-TheOdysseyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280407
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Beatles Cinematic Event: John(Wide)
+UID:20280407-TheBeatlesCinematicEventJohnWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Bonolota Express(Limited)
+UID:20260403-BonolotaExpressLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
+SUMMARY:🎬 Youngblood(Limited)
+UID:20260306-YoungbloodLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Distributor: Fathom Events\nSource: The Numbers
+SUMMARY:🎬 The Apocalypse of St. John(Special Engagement)
+UID:20260215-TheApocalypseofStJohnSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 The AI Doc: Or How I Became an Apocaloptimist(Limited)
+UID:20260327-TheAIDocOrHowIBecameanApocaloptimistLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 Mad Bills to Pay (or Destiny dile que no soy malo)(Limited)
+UID:20260417-MadBillstoPayorDestinydilequenosoymaloLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270709
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Man of Tomorrow(Wide)
+UID:20270709-ManofTomorrowWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Reminders of Him(Wide)
+UID:20260313-RemindersofHimWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Yes(Limited)
+UID:20260327-YesLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Watermelon Pictures\nSource: The Numbers
+SUMMARY:🎬 The Promise(Limited)
+UID:20261231-ThePromiseLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270618
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse(IMAX)
+UID:20270618-SpiderManBeyondtheSpiderVerseIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270115
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Children of Blood and Bone(IMAX)
+UID:20270115-ChildrenofBloodandBoneIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Bride!(Wide)
+UID:20260306-TheBrideWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 John Lilly and the Earth Coincidence Control Office(Limited)
+UID:20260327-JohnLillyandtheEarthCoincidenceControlOfficeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 She Saw Us!(Limited)
+UID:20260710-SheSawUsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Minions & Monsters(IMAX)
+UID:20260701-MinionsMonstersIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Odyssey(IMAX)
+UID:20260717-TheOdysseyIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Wildwood(Wide)
+UID:20261023-WildwoodWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270716
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
+UID:20270716-UntitledWarnerBrosEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
+SUMMARY:🎬 Silver Star(Limited)
+UID:20260306-SilverStarLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271217
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(Wide)
+UID:20271217-LordoftheRingsTheHuntforGollumWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280811
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20280811-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 The Currents(Limited)
+UID:20261231-TheCurrentsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Distributor: Asian Cinemas\nSource: The Numbers
+SUMMARY:🎬 Seetha Payanam(Limited)
+UID:20260214-SeethaPayanamLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270507
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Legend of Zelda(Wide)
+UID:20270507-TheLegendofZeldaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270709
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Man of Tomorrow(IMAX)
+UID:20270709-ManofTomorrowIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Row K Entertainment\nSource: The Numbers
+SUMMARY:🎬 Charlie Harper(Wide)
+UID:20260925-CharlieHarperWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled DC Film(Wide)
+UID:20260529-UntitledDCFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271217
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Avengers: Secret Wars(Wide)
+UID:20271217-AvengersSecretWarsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Royal Opera House: Giselle(Special Engagement)
+UID:20260412-RoyalOperaHouseGiselleSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Bride!(IMAX)
+UID:20260306-TheBrideIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Michael(Wide)
+UID:20260424-MichaelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Great Beyond(Wide)
+UID:20261113-TheGreatBeyondWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 Fantasy Life(Limited)
+UID:20260327-FantasyLifeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271217
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(IMAX)
+UID:20271217-LordoftheRingsTheHuntforGollumIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Haunting in Wicker Park(Wide)
+UID:20261231-TheHauntinginWickerParkWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270507
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Legend of Zelda(IMAX)
+UID:20270507-TheLegendofZeldaIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Michael(IMAX)
+UID:20260424-MichaelIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270423
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 An Untitled F.A.S.T. Film(Wide)
+UID:20270423-AnUntitledFASTFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270219
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Star Wars Ep. IV: A New Hope(Wide\, re-release)
+UID:20270219-StarWarsEpIVANewHopeWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271222
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Warner Bros. Family Sequel(Wide)
+UID:20271222-UntitledWarnerBrosFamilySequelWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Distributor: The Devil Wears Prada 2 (Wide)\nSource: The Numbers
-SUMMARY:🎬 
-UID:7a902a44-79d7-4f55-b86d-39b9c229414b@7a90.org
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Hokum(Wide)
+UID:20260501-HokumWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Eammon Films\nSource: The Numbers
+SUMMARY:🎬 Redux Redux(Limited)
+UID:20260220-ReduxReduxLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Passenger(Wide)
+UID:20260529-PassengerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271222
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
+UID:20271222-UntitledWarnerBrosEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Seismic Releasing\nSource: The Numbers
+SUMMARY:🎬 The Mortuary Assistant(Limited)
+UID:20260213-TheMortuaryAssistantLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270305
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Gatto(Wide)
+UID:20270305-GattoWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 Desert Warrior(Limited)
+UID:20260626-DesertWarriorLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271110
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Helldivers(Wide)
+UID:20271110-HelldiversWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280407
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Beatles Cinematic Event: Ringo(Wide)
+UID:20280407-TheBeatlesCinematicEventRingoWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Attend\nSource: The Numbers
+SUMMARY:🎬 Fleak(Wide)
+UID:20261231-FleakWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 Untitled A24 Horror Film(Wide)
+UID:20261023-UntitledA24HorrorFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 Tuner(Limited)
+UID:20260522-TunerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: EKKL Entertainment\nSource: The Numbers
+SUMMARY:🎬 Elijah Peel(Limited)
+UID:20260424-ElijahPeelLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: 1-2 Special\nSource: The Numbers
+SUMMARY:🎬 Erupcja(Limited)
+UID:20260417-ErupcjaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280630
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Illumination Event Film(Wide)
+UID:20280630-UntitledIlluminationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Animal Friends(Wide)
+UID:20260605-AnimalFriendsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Hexed(Wide)
+UID:20261125-HexedWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 CatVideoFest 2026(Limited)
+UID:20260807-CatVideoFest2026Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 The Rivals of Amziah King(Limited)
+UID:20260814-TheRivalsofAmziahKingLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281215
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Marvel Movie(Wide)
+UID:20281215-UntitledMarvelMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281122
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Animation(Wide)
+UID:20281122-UntitledDisneyAnimationWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Yellow Veil Pictures\nSource: The Numbers
+SUMMARY:🎬 Touch Me(Limited)
+UID:20260320-TouchMeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 I Love Boosters(Wide)
+UID:20260522-ILoveBoostersWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270226
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 CoComelon: The Movie(Wide)
+UID:20270226-CoComelonTheMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270212
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Untitled K-Pop Movie(Wide)
+UID:20270212-UntitledKPopMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Super Mario Galaxy Movie(Wide)
+UID:20260401-TheSuperMarioGalaxyMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Finding Emily(Wide)
+UID:20260828-FindingEmilyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Chase Atlantic: Lost in Heaven(Special Engagement)
+UID:20260218-ChaseAtlanticLostinHeavenSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291221
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Coco 2(Wide)
+UID:20291221-Coco2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280317
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Fast Forever(Wide)
+UID:20280317-FastForeverWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Obsession(Wide)
+UID:20260515-ObsessionWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Super Mario Galaxy Movie(IMAX)
+UID:20260401-TheSuperMarioGalaxyMovieIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 The Dog Stars(Wide)
+UID:20260828-TheDogStarsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280922
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled DWA Animated Event Film(Wide)
+UID:20280922-UntitledDWAAnimatedEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270630
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Shrek 5 (Wide)
-UID:109fcdd6-6a1e-4bd1-977b-e1be04f005b8@109f.org
+SUMMARY:🎬 Shrek 5(Wide)
+UID:20270630-Shrek5Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Pressure(Wide)
+UID:20260529-PressureWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Jumanji 3(Wide)
+UID:20261211-Jumanji3Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
+SUMMARY:🎬 Bushido(Limited)
+UID:20260313-BushidoLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270115
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
+UID:20270115-UntitledBlumhouseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Starstruck(Limited)
+UID:20260306-StarstruckLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270312
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Buds(Wide)
+UID:20270312-BudsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 This Is Not a Test(Limited)
+UID:20260220-ThisIsNotaTestLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 HYPNOSISMIC -Division Rap Battle- Interactive Movie(Limited)
+UID:20260227-HYPNOSISMICDivisionRapBattleInteractiveMovieLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 Omaha(Limited)
+UID:20260424-OmahaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270611
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 How to Train Your Dragon 2(Wide)
+UID:20270611-HowtoTrainYourDragon2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270630
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Shrek 5(IMAX)
+UID:20270630-Shrek5IMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270924
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Dreamworks Animation Event Film(Wide)
+UID:20270924-UntitledDreamworksAnimationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Jumanji 3(IMAX)
+UID:20261211-Jumanji3IMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Two Pianos(Limited)
+UID:20260626-TwoPianosLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Untitled Jackass Event Film(Wide)
+UID:20260626-UntitledJackassEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Do Not Enter(Wide)
+UID:20261231-DoNotEnterWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Shudder\nSource: The Numbers
+SUMMARY:🎬 Crazy Old Lady(Limited)
+UID:20260227-CrazyOldLadyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: ArtAffects\nSource: The Numbers
+SUMMARY:🎬 Matter of Time(Limited)
+UID:20260227-MatterofTimeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270305
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled DC Event Film(Wide)
+UID:20270305-UntitledDCEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Dr. Seuss’ The Cat in the Hat(Wide)
+UID:20261106-DrSeussTheCatintheHatWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: Row K Entertainment\nSource: The Numbers
+SUMMARY:🎬 Cliffhanger(Wide)
+UID:20260828-CliffhangerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Juno Films\nSource: The Numbers
+SUMMARY:🎬 Four Rational People(Limited)
+UID:20260220-FourRationalPeopleLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
+SUMMARY:🎬 The Pout-Pout Fish(Wide)
+UID:20260320-ThePoutPoutFishWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Warner Bros. Film(Canceled)
+UID:20260807-UntitledWarnerBrosFilmCanceled@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 4 Kids Walk Into a Bank(Wide)
+UID:20260417-4KidsWalkIntoaBankWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Distributor: The Observance (Limited)\nSource: The Numbers
-SUMMARY:🎬 
-UID:dc6915cd-7620-4861-9114-d7e690a0654c@dc69.org
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 The Observance(Limited)
+UID:20260213-TheObservanceLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Dr. Seuss’ The Cat in the Hat(IMAX)
+UID:20261106-DrSeussTheCatintheHatIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Alpha(Limited)
+UID:20260327-AlphaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Miami Vice(Wide)
+UID:20270806-MiamiViceWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 In the Grey(Wide)
+UID:20260410-IntheGreyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 The Python Hunt(Limited)
+UID:20261231-ThePythonHuntLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281006
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20281006-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Brainstorm Media\nSource: The Numbers
+SUMMARY:🎬 For Worse(Limited)
+UID:20260227-ForWorseLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Magnolia Pictures\nSource: The Numbers
+SUMMARY:🎬 The Napa Boys(Limited)
+UID:20260227-TheNapaBoysLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 A Magnificent Life(Limited)
+UID:20260306-AMagnificentLifeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Violent Night 2(Wide)
+UID:20261204-ViolentNight2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Cohen Media Group\nSource: The Numbers
+SUMMARY:🎬 Eagles of the Republic(Limited)
+UID:20260417-EaglesoftheRepublicLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Firebrand Media\nSource: The Numbers
+SUMMARY:🎬 Desert Road(Limited)
+UID:20261231-DesertRoadLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280630
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Dynamic Duo(Wide)
+UID:20280630-DynamicDuoWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Distributor: UV Creations\nSource: The Numbers
+SUMMARY:🎬 Couple Friendly(Limited)
+UID:20260214-CoupleFriendlyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Horizon: An American Saga Chapter 2(Wide)
+UID:20261231-HorizonAnAmericanSagaChapter2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: EKKL Entertainment\nSource: The Numbers
+SUMMARY:🎬 She Dances(Limited)
+UID:20260327-SheDancesLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
+SUMMARY:🎬 Fuze(Wide)
+UID:20260424-FuzeWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Distributor: Zurty Studios\nSource: The Numbers
+SUMMARY:🎬 B-Roll(Wide\, re-release)
+UID:20260619-BRollWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
+SUMMARY:🎬 Wolf Creek: Legacy(Limited)
+UID:20261231-WolfCreekLegacyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Miami Vice(IMAX)
+UID:20270806-MiamiViceIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Distributor: Fathom Events\nSource: The Numbers
+SUMMARY:🎬 V for Vendetta(Special Engagement\, re-release)
+UID:20261101-VforVendettaSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
+SUMMARY:🎬 Slanted(Limited)
+UID:20260313-SlantedLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Animal Farm(Wide)
+UID:20260501-AnimalFarmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 The Gardener(Limited)
+UID:20260626-TheGardenerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290629
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Illumination Event Film(Wide)
+UID:20290629-UntitledIlluminationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 Dolly(Limited)
+UID:20260306-DollyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Evil Dead Burn(Wide)
+UID:20260724-EvilDeadBurnWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291221
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 Avatar 4(Wide)
+UID:20291221-Avatar4Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Music Box Films\nSource: The Numbers
+SUMMARY:🎬 By Design(Limited)
+UID:20260213-ByDesignLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Resident Evil(Wide)
+UID:20260918-ResidentEvilWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 The Mandalorian & Grogu(Wide)
+UID:20260522-TheMandalorianGroguWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Distributor: Fathom Events\nSource: The Numbers
+SUMMARY:🎬 Teenage Mutant Ninja Turtles II: The Secret of the Ooze(Special Engagement\, re-release)
+UID:20260313-TeenageMutantNinjaTurtlesIITheSecretoftheOozeSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270205
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 Ice Age: Boiling Point(Wide)
+UID:20270205-IceAgeBoilingPointWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: MPI Media Group\nSource: The Numbers
+SUMMARY:🎬 Palestine 36(Limited)
+UID:20260320-Palestine36Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270917
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Teenage Mutant Ninja Turtles 2(Wide)
+UID:20270917-TeenageMutantNinjaTurtles2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Willy Wonka & the Chocolate Factory(Special Engagement\, re-release)
+UID:20260802-WillyWonkatheChocolateFactorySpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 A Beautiful Mind(Special Engagement\, re-release)
+UID:20261122-ABeautifulMindSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 The Optimist(Wide)
+UID:20260311-TheOptimistWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Resident Evil(IMAX)
+UID:20260918-ResidentEvilIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 AURORA: What Happened to the Earth?(Special Engagement)
+UID:20260304-AURORAWhatHappenedtotheEarthSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 The Mandalorian & Grogu(IMAX)
+UID:20260522-TheMandalorianGroguIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Sense and Sensibility(Wide)
+UID:20260911-SenseandSensibilityWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281117
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Untitled Teenage Mutant Ninja Turtles Film(Wide)
+UID:20281117-UntitledTeenageMutantNinjaTurtlesFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Archangel(Wide)
+UID:20261106-ArchangelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Quiver\nSource: The Numbers
+SUMMARY:🎬 The Haunted Forest(Limited)
+UID:20260213-TheHauntedForestLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Strand Releasing\nSource: The Numbers
+SUMMARY:🎬 Vampires of the Velvet Lounge(Limited)
+UID:20260320-VampiresoftheVelvetLoungeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Power Ballad(Wide)
+UID:20260605-PowerBalladWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Glenrothan(Limited)
+UID:20260417-GlenrothanLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 They Will Kill You(Wide)
+UID:20260327-TheyWillKillYouWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270723
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Minecraft Sequel(Wide)
+UID:20270723-UntitledMinecraftSequelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271222
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Spaceballs 2(Wide)
+UID:20271222-Spaceballs2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 I Can Only Imagine 2(Wide)
+UID:20260220-ICanOnlyImagine2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Distributor: Dropshock Pictures\nSource: The Numbers
+SUMMARY:🎬 Hunting Matthew Nichols(Wide)
+UID:20260410-HuntingMatthewNicholsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: Searchlight Pictures\nSource: The Numbers
+SUMMARY:🎬 Super Troopers 3(Wide)
+UID:20260807-SuperTroopers3Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 Spa Weekend(Wide)
+UID:20260904-SpaWeekendWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: PVR INOX Pictures\nSource: The Numbers
+SUMMARY:🎬 Tu Yaa Main(Limited)
+UID:20260213-TuYaaMainLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270402
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20270402-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 GOAT(Wide)
+UID:20260213-GOATWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 UFC 326: Max Holloway vs. Charles Oliveira 2(Special Engagement)
+UID:20260307-UFC326MaxHollowayvsCharlesOliveira2SpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: GAGA Corporation\nSource: The Numbers
+SUMMARY:🎬 Uma Musume: Pretty Derby — Beginning of a New Era(Limited)
+UID:20260227-UmaMusumePrettyDerbyBeginningofaNewEraLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270319
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Sonic the Hedgehog 4(Wide)
+UID:20270319-SonictheHedgehog4Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Omjee Star Studios\nSource: The Numbers
+SUMMARY:🎬 Viyaah Kartaare Da(Limited)
+UID:20260227-ViyaahKartaareDaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271008
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20271008-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: National Geographic Documentary Films\nSource: The Numbers
+SUMMARY:🎬 Ghost Elephants(Limited)
+UID:20260227-GhostElephantsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Birdcage(Special Engagement\, re-release)
+UID:20260607-TheBirdcageSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Ebenezer: A Christmas Carol(Wide)
+UID:20261113-EbenezerAChristmasCarolWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Practical Magic 2(Wide)
+UID:20260911-PracticalMagic2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Netflix\nSource: The Numbers
+SUMMARY:🎬 Peaky Blinders: The Immortal Man(Limited)
+UID:20260306-PeakyBlindersTheImmortalManLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Verity(Wide)
+UID:20261002-VerityWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270205
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Original Comedy from Judd Apatow and Glen Powell(Wide)
+UID:20270205-UntitledOriginalComedyfromJuddApatowandGlenPowellWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 The Christophers(Limited)
+UID:20260410-TheChristophersLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280519
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Mummy(Wide)
+UID:20280519-TheMummyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270813
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
+UID:20270813-UntitledBlumhouseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 The Killer(Special Engagement\, re-release)
+UID:20260405-TheKillerSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: MUBI\nSource: The Numbers
+SUMMARY:🎬 Pompei: Below The Clouds(Limited)
+UID:20260306-PompeiBelowTheCloudsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Avengers: Endgame(Wide\, re-release)
+UID:20260925-AvengersEndgameWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Is God Is(Wide)
+UID:20260515-IsGodIsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280526
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20280526-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Paul McCartney: Man on the Run(Special Engagement)
+UID:20260219-PaulMcCartneyManontheRunSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+SUMMARY:🎬 Over Your Dead Body(Wide)
+UID:20260424-OverYourDeadBodyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Young Washington(Wide)
+UID:20260703-YoungWashingtonWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270910
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Conjuring: First Communion(Wide)
+UID:20270910-TheConjuringFirstCommunionWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Briarcliff Entertainment\nSource: The Numbers
+SUMMARY:🎬 Good Luck\, Have Fun\, Don’t Die(Wide)
+UID:20260213-GoodLuckHaveFunDontDieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Lee Cronin’s The Mummy(Wide)
+UID:20260417-LeeCroninsTheMummyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Sweetness(Limited)
+UID:20260306-SweetnessLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Scary Movie 6(Wide)
+UID:20260612-ScaryMovie6Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
+SUMMARY:🎬 Blades of the Guardians(Limited)
+UID:20260217-BladesoftheGuardiansLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Crime 101(Wide)
+UID:20260213-Crime101Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
+SUMMARY:🎬 Nika & Madison(Limited)
+UID:20260327-NikaMadisonLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Insidious: Red Tale(Wide)
+UID:20260821-InsidiousRedTaleWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 It’s a Wonderful Life(Limited\, re-release)
+UID:20261218-ItsaWonderfulLifeLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 Forbidden Fruits(Wide)
+UID:20260327-ForbiddenFruitsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280721
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Hello Kitty(Wide)
+UID:20280721-HelloKittyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 The Rivals of Amziah King(Expands Wide)
+UID:20260821-TheRivalsofAmziahKingExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 You\, Me & Tuscany(Wide)
+UID:20260410-YouMeTuscanyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Moana(Wide)
+UID:20260710-MoanaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 Dreams(Limited)
+UID:20260227-DreamsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281013
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
+UID:20281013-UntitledBlumhouseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Fablehaven(Wide)
+UID:20261231-FablehavenWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 BTS World Tour Arirang: Live Viewing(Special Engagement)
+UID:20260411-BTSWorldTourArirangLiveViewingSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 Wife & Dog(Wide)
+UID:20261023-WifeDogWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280414
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Illumination Event Film(Wide)
+UID:20280414-UntitledIlluminationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Moana(IMAX)
+UID:20260710-MoanaIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Distributor: Zurty Studios\nSource: The Numbers
+SUMMARY:🎬 Dark Arrows(Wide)
+UID:20260303-DarkArrowsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270917
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20270917-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 The Hunger Games: Sunrise on the Reaping(Wide)
+UID:20261120-TheHungerGamesSunriseontheReapingWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280505
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Marvel Movie(Wide)
+UID:20280505-UntitledMarvelMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 “Wuthering Heights”(Wide)
+UID:20260213-WutheringHeightsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Godzilla Minus Zero(Wide)
+UID:20261106-GodzillaMinusZeroWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Breadwinner(Wide)
+UID:20260529-TheBreadwinnerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Shout! Factory\nSource: The Numbers
+SUMMARY:🎬 The Land of Sometimes(Limited)
+UID:20261231-TheLandofSometimesLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Hoppers(Wide)
+UID:20260306-HoppersWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Silence of the Lambs(Special Engagement\, re-release)
+UID:20260426-TheSilenceoftheLambsSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270212
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
+UID:20270212-UntitledWarnerBrosEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Gale: Yellow Brick Road(Special Engagement)
+UID:20260211-GaleYellowBrickRoadSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Distributor: 1-2 Special\nSource: The Numbers
+SUMMARY:🎬 Rose of Nevada(Limited)
+UID:20260619-RoseofNevadaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270409
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Get Lite(Wide)
+UID:20270409-GetLiteWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280616
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Pixar Film(Wide)
+UID:20280616-UntitledPixarFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Distributor: Watermelon Pictures\nSource: The Numbers
+SUMMARY:🎬 The Six Billion Dollar Man(Limited)
+UID:20260331-TheSixBillionDollarManLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Fifth Element(Special Engagement\, re-release)
+UID:20260726-TheFifthElementSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
+SUMMARY:🎬 Stop! That! Train(Wide)
+UID:20260529-StopThatTrainWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Other Mommy(Wide)
+UID:20261009-OtherMommyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280609
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Universal Event Film(Wide)
+UID:20280609-UntitledUniversalEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: AMC Theatres Distribution\nSource: The Numbers
+SUMMARY:🎬 Josh Groban: An Intimate Evening at The Union Chapel(Limited)
+UID:20260213-JoshGrobanAnIntimateEveningatTheUnionChapelLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Distributor: Mercury Studios\nSource: The Numbers
+SUMMARY:🎬 Eric Church: Evangeline vs. The Machine Comes Alive(IMAX)
+UID:20260211-EricChurchEvangelinevsTheMachineComesAliveIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 My Brother's Wedding(Limited\, re-release)
+UID:20261231-MyBrothersWeddingLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
+SUMMARY:🎬 Protector(Wide)
+UID:20260306-ProtectorWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 How to Make a Killing(Wide)
+UID:20260220-HowtoMakeaKillingWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Yash Raj Films\nSource: The Numbers
+SUMMARY:🎬 Alpha(Limited)
+UID:20260417-AlphaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280114
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20280114-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Street Fighter(Wide)
+UID:20261016-StreetFighterWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Distributor: Row K Entertainment\nSource: The Numbers
+SUMMARY:🎬 Poetic License(Wide)
+UID:20260515-PoeticLicenseWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271105
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Wide)
+UID:20271105-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
+SUMMARY:🎬 Somersault(Limited\, re-release)
+UID:20260220-SomersaultLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Top Gun(Wide\, re-release)
+UID:20260513-TopGunWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270618
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Warner Bros. Event Film(Canceled)
+UID:20270618-UntitledWarnerBrosEventFilmCanceled@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281103
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Lunar Chronicles(Wide)
+UID:20281103-TheLunarChroniclesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 A Better Tomorrow(Special Engagement)
+UID:20260301-ABetterTomorrowSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280211
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Universal Event Film(Wide)
+UID:20280211-UntitledUniversalEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 Whalefall(Wide)
+UID:20261016-WhalefallWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Attend\nSource: The Numbers
+SUMMARY:🎬 The Token Groomsman(Wide)
+UID:20260626-TheTokenGroomsmanWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Street Fighter(IMAX)
+UID:20261016-StreetFighterIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 One Night Only(Wide)
+UID:20260807-OneNightOnlyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Distributor: Crunchyroll\nSource: The Numbers
+SUMMARY:🎬 Fruits Basket: Prelude(Special Engagement\, re-release)
+UID:20260216-FruitsBasketPreludeSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 The Legend of Aang: The Last Airbender(Canceled)
+UID:20261009-TheLegendofAangTheLastAirbenderCanceled@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271015
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
+UID:20271015-UntitledBlumhouseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Supergirl(Wide)
+UID:20260626-SupergirlWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Twenty One Pilots: More Than We Ever Imagined(IMAX)
+UID:20260226-TwentyOnePilotsMoreThanWeEverImaginedIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290720
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Universal Event Film(Wide)
+UID:20290720-UntitledUniversalEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 The Sheep Detectives(Wide)
+UID:20260508-TheSheepDetectivesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 Hamlet(Limited)
+UID:20260410-HamletLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: ArtAffects\nSource: The Numbers
+SUMMARY:🎬 Mimics(Limited)
+UID:20260213-MimicsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Supergirl(IMAX)
+UID:20260626-SupergirlIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271124
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Frozen III(Wide)
+UID:20271124-FrozenIIIWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Ocean’s Eleven(Special Engagement\, re-release)
+UID:20260621-OceansElevenSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Cut Off(Wide)
+UID:20260717-CutOffWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Fathom Events\nSource: The Numbers
+SUMMARY:🎬 Pretty in Pink(Special Engagement\, re-release)
+UID:20260213-PrettyinPinkSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Billie Eilish: Hit Me Hard and Soft—The Tour(Special Engagement)
+UID:20260508-BillieEilishHitMeHardandSoftTheTourSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280317
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Oh\, The Places You’ll Go(Wide)
+UID:20280317-OhThePlacesYoullGoWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280407
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Beatles Cinematic Event: George(Wide)
+UID:20280407-TheBeatlesCinematicEventGeorgeWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+DESCRIPTION:Distributor: Netflix\nSource: The Numbers
+SUMMARY:🎬 Narnia(IMAX)
+UID:20261126-NarniaIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 I Play Rocky(Limited)
+UID:20261113-IPlayRockyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Canceled)
+UID:20260911-UntitledDisneyFilmCanceled@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270813
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Tim Miller/Keanu Reeves Film(Wide)
+UID:20270813-UntitledTimMillerKeanuReevesFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Social Reckoning(Wide)
+UID:20261009-TheSocialReckoningWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Distributor: Joint Venture\nSource: The Numbers
+SUMMARY:🎬 André is an Idiot(Limited)
+UID:20260306-AndrisanIdiotLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280310
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Pixar Film(Wide)
+UID:20280310-UntitledPixarFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Seismic Releasing\nSource: The Numbers
+SUMMARY:🎬 Undercard(Limited)
+UID:20260227-UndercardLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 Psycho Killer(Wide)
+UID:20260220-PsychoKillerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Funasia Films\nSource: The Numbers
+SUMMARY:🎬 O’Romeo(Limited)
+UID:20260213-ORomeoLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 Scarlet(Expands Wide)
+UID:20260213-ScarletExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Distributor: Outsider\nSource: The Numbers
+SUMMARY:🎬 Diamanti(Limited)
+UID:20260515-DiamantiLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Distributor: Giant Pictures\nSource: The Numbers
+SUMMARY:🎬 Pretty Ugly — The Story of the Lunachicks(Limited)
+UID:20260331-PrettyUglyTheStoryoftheLunachicksLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 Tuner(Expands Wide)
+UID:20260529-TunerExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Firebrook Entertainment\nSource: The Numbers
+SUMMARY:🎬 Broken Bird(Limited)
+UID:20260213-BrokenBirdLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Ben-Hur(Limited\, re-release)
+UID:20260329-BenHurLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271119
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Gremlins 3(Wide)
+UID:20271119-Gremlins3Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Distributor: Netflix\nSource: The Numbers
+SUMMARY:🎬 The Swedish Connection(Limited)
+UID:20260213-TheSwedishConnectionLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Cartuna\nSource: The Numbers
+SUMMARY:🎬 Dead Lover(Limited)
+UID:20260320-DeadLoverLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Fucktoys(Limited)
+UID:20260529-FucktoysLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270521
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Bad Fairies(Wide)
+UID:20270521-BadFairiesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Untitled Disney Film(Canceled)
+UID:20261106-UntitledDisneyFilmCanceled@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Distributor: Searchlight Pictures\nSource: The Numbers
+SUMMARY:🎬 Ready or Not 2: Here I Come(Wide)
+UID:20260320-ReadyorNot2HereIComeWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270312
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Untitled The Chosen Season 6 Finale Film(Wide)
+UID:20270312-UntitledTheChosenSeason6FinaleFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270312
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Mike Flanagan Exorcist Film(Wide)
+UID:20270312-UntitledMikeFlanaganExorcistFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Blue Fox Entertainment\nSource: The Numbers
+SUMMARY:🎬 Big Girls Don’t Cry(Limited)
+UID:20261231-BigGirlsDontCryLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Avengers: Doomsday(Wide)
+UID:20261218-AvengersDoomsdayWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Holy Days(Limited)
+UID:20260327-HolyDaysLimited@numbers
 END:VEVENT
 END:VCALENDAR
