@@ -236,12 +236,6 @@ SUMMARY:🎬 Spider-Man: Brand New Day(Wide)
 UID:20260731-SpiderManBrandNewDayWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Neon\nSource: The Numbers
-SUMMARY:🎬 Baz Luhrmann’s Epic Elvis Presley in Concert(Expands Wide)
-UID:20260227-BazLuhrmannsEpicElvisPresleyinConcertExpandsWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270212
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -488,6 +482,12 @@ SUMMARY:🎬 Godzilla x Kong: Supernova(IMAX)
 UID:20270326-GodzillaxKongSupernovaIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Epic Elvis Presley in Concert(Expands Wide)
+UID:20260227-EpicElvisPresleyinConcertExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Toy Story 5(Wide)
@@ -510,12 +510,6 @@ DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Beatles Cinematic Event: Paul(Wide)
 UID:20280407-TheBeatlesCinematicEventPaulWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Distributor: Aura Entertainment\nSource: The Numbers
-SUMMARY:🎬 K-POPS!(Wide)
-UID:20260227-KPOPSWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
@@ -594,6 +588,12 @@ DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Met Opera: El Último Sueño de Frida y Diego(Special Engagement)
 UID:20260530-MetOperaElltimoSueodeFridayDiegoSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Distributor: Aura Entertainment\nSource: The Numbers
+SUMMARY:🎬 K-POPS!(Limited)
+UID:20260227-KPOPSLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271001
