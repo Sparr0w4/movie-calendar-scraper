@@ -296,6 +296,12 @@ SUMMARY:🎬 Girls Like Girls(Wide)
 UID:20260619-GirlsLikeGirlsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Blue Harbor\nSource: The Numbers
+SUMMARY:🎬 Kangaroo Island(Limited)
+UID:20260424-KangarooIslandLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
 DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
 SUMMARY:🎬 The Third Parent(Wide)
@@ -450,6 +456,12 @@ DTSTART;VALUE=DATE:20300703
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20300703-UntitledIlluminationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Beast(Limited)
+UID:20260410-BeastLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
@@ -612,6 +624,12 @@ DTSTART;VALUE=DATE:20260508
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Mortal Kombat II(Wide)
 UID:20260508-MortalKombatIIWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260507
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Iron Maiden: Burning Ambition(Limited)
+UID:20260507-IronMaidenBurningAmbitionLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -932,6 +950,12 @@ SUMMARY:🎬 Michael(Wide)
 UID:20260424-MichaelWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 Backrooms(Wide)
+UID:20260529-BackroomsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Great Beyond(Wide)
@@ -1110,6 +1134,12 @@ DTSTART;VALUE=DATE:20261125
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Hexed(Wide)
 UID:20261125-HexedWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Saurus City(Limited)
+UID:20261231-SaurusCityLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
@@ -1908,6 +1938,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Fablehaven(Wide)
 UID:20261231-FablehavenWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: MUBI\nSource: The Numbers
+SUMMARY:🎬 Teenage Sex and Death at Camp Miasma(Limited)
+UID:20260807-TeenageSexandDeathatCampMiasmaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
