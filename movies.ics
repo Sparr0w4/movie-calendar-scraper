@@ -746,6 +746,12 @@ SUMMARY:🎬 Focker-in-Law(Wide)
 UID:20261125-FockerinLawWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 UFC Freedom 250(Special Engagement)
+UID:20260614-UFCFreedom250SpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280707
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
