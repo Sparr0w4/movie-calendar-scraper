@@ -824,10 +824,10 @@ SUMMARY:🎬 Bonolota Express(Limited)
 UID:20260403-BonolotaExpressLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
-SUMMARY:🎬 The AI Doc: Or How I Became an Apocaloptimist(Limited)
-UID:20260327-TheAIDocOrHowIBecameanApocaloptimistLimited@numbers
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 Spa Weekend(Wide)
+UID:20260821-SpaWeekendWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260417
@@ -1026,6 +1026,12 @@ DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 Spaceballs 2(Wide)
 UID:20271225-Spaceballs2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Mummy Returns(Wide\, re-release)
+UID:20260327-TheMummyReturnsWidererelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -1634,6 +1640,12 @@ SUMMARY:🎬 Untitled Minecraft Sequel(Wide)
 UID:20270723-UntitledMinecraftSequelWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Distributor: Moviegoers Entertainment\nSource: The Numbers
+SUMMARY:🎬 Dhurandhar: The Revenge(Wide)
+UID:20260319-DhurandharTheRevengeWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
 DESCRIPTION:Distributor: Searchlight Pictures\nSource: The Numbers
 SUMMARY:🎬 Super Troopers 3(Wide)
@@ -1644,12 +1656,6 @@ DTSTART;VALUE=DATE:20260410
 DESCRIPTION:Distributor: Dropshock Pictures\nSource: The Numbers
 SUMMARY:🎬 Hunting Matthew Nichols(Wide)
 UID:20260410-HuntingMatthewNicholsWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
-SUMMARY:🎬 Spa Weekend(Wide)
-UID:20260904-SpaWeekendWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270402
@@ -1758,6 +1764,12 @@ DTSTART;VALUE=DATE:20270813
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
 UID:20270813-UntitledCineverseHorrorFranchiseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
+SUMMARY:🎬 2DIE4(IMAX)
+UID:20260416-2DIE4IMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
@@ -1896,6 +1908,12 @@ DTSTART;VALUE=DATE:20260807
 DESCRIPTION:Distributor: MUBI\nSource: The Numbers
 SUMMARY:🎬 Teenage Sex and Death at Camp Miasma(Limited)
 UID:20260807-TeenageSexandDeathatCampMiasmaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 The AI Doc: Or How I Became an Apocaloptimist(Wide)
+UID:20260327-TheAIDocOrHowIBecameanApocaloptimistWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
