@@ -20,6 +20,12 @@ SUMMARY:🎬 Maserati: The Brothers(Wide)
 UID:20261231-MaseratiTheBrothersWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 The Killer(Limited)
+UID:20260405-TheKillerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 A Quiet Place Part III(Wide)
@@ -2058,12 +2064,6 @@ DTSTART;VALUE=DATE:20271015
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
 UID:20271015-UntitledBlumhouseEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
-SUMMARY:🎬 The Killer(Limited\, re-release)
-UID:20260405-TheKillerLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
