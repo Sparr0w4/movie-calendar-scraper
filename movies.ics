@@ -314,6 +314,12 @@ SUMMARY:🎬 Two Pianos(Limited)
 UID:20260501-TwoPianosLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Quiver\nSource: The Numbers
+SUMMARY:🎬 Return of the Mack: Back for Da Smoke(Limited)
+UID:20260417-ReturnoftheMackBackforDaSmokeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270521
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Paranormal Activity Film(Wide)
@@ -933,7 +939,7 @@ UID:20260925-CharlieHarperWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
 SUMMARY:🎬 The Shitheads(Limited)
 UID:20260925-TheShitheadsLimited@numbers
 END:VEVENT
@@ -1256,6 +1262,12 @@ SUMMARY:🎬 In the Grey(Wide)
 UID:20260515-IntheGreyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Samuel Goldwyn Films\nSource: The Numbers
+SUMMARY:🎬 13 Days 13 Nights(Limited)
+UID:20260327-13Days13NightsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
 SUMMARY:🎬 Animal Crackers 2: The Next Batch(Wide)
@@ -1304,6 +1316,12 @@ SUMMARY:🎬 Untitled Jackass Event Film(Wide)
 UID:20260626-UntitledJackassEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Distributor: Seventh Art Releasing\nSource: The Numbers
+SUMMARY:🎬 The Kid Officer(Limited)
+UID:20260328-TheKidOfficerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled DC Event Film(Wide)
@@ -1320,6 +1338,12 @@ DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Row K Entertainment\nSource: The Numbers
 SUMMARY:🎬 Cliffhanger(Wide)
 UID:20260828-CliffhangerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Seismic Releasing\nSource: The Numbers
+SUMMARY:🎬 Casa Grande: The Movie(Limited)
+UID:20260501-CasaGrandeTheMovieLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
@@ -1610,6 +1634,12 @@ SUMMARY:🎬 Fall 2(Wide)
 UID:20260807-Fall2Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: E2C Talkies\nSource: The Numbers
+SUMMARY:🎬 Youth(Limited)
+UID:20260327-YouthLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270319
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Sonic the Hedgehog 4(Wide)
@@ -1719,7 +1749,7 @@ UID:20280526-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
 SUMMARY:🎬 Over Your Dead Body(Wide)
 UID:20260424-OverYourDeadBodyWide@numbers
 END:VEVENT
@@ -1884,6 +1914,12 @@ DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Hunger Games: Sunrise on the Reaping(Wide)
 UID:20261120-TheHungerGamesSunriseontheReapingWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DESCRIPTION:Distributor: Strand Releasing\nSource: The Numbers
+SUMMARY:🎬 Departures(Limited)
+UID:20260429-DeparturesLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280505
@@ -2066,12 +2102,6 @@ SUMMARY:🎬 Remain(Wide)
 UID:20270205-RemainWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Stand by Me(Limited\, re-release)
-UID:20260327-StandbyMeLimitedrerelease@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 Whalefall(Wide)
@@ -2106,6 +2136,12 @@ DTSTART;VALUE=DATE:20271015
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
 UID:20271015-UntitledBlumhouseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Stand by Me(Wide\, re-release)
+UID:20260327-StandbyMeWidererelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -2346,6 +2382,12 @@ DTSTART;VALUE=DATE:20260501
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea(Wide)
 UID:20260501-ThatTimeIGotReincarnatedasaSlimetheMovieTearsoftheAzureSeaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Esta Isla(Limited)
+UID:20260327-EstaIslaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
