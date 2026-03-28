@@ -302,6 +302,12 @@ SUMMARY:🎬 Flowervale Street(IMAX)
 UID:20260814-FlowervaleStreetIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+SUMMARY:🎬 Untitled IFC Comedy Film(Limited)
+UID:20260828-UntitledIFCComedyFilmLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281220
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
@@ -950,6 +956,12 @@ SUMMARY:🎬 Desert Warrior(Wide)
 UID:20260424-DesertWarriorWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+SUMMARY:🎬 Cave of Forgotten Dreams(Limited\, re-release)
+UID:20260424-CaveofForgottenDreamsLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271217
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Avengers: Secret Wars(Wide)
@@ -1068,6 +1080,12 @@ DTSTART;VALUE=DATE:20271110
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Helldivers(Wide)
 UID:20271110-HelldiversWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+SUMMARY:🎬 Cave of Forgotten Dreams(IMAX\, re-release)
+UID:20260415-CaveofForgottenDreamsIMAXrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
@@ -1796,6 +1814,12 @@ SUMMARY:🎬 Papa Bear(Limited)
 UID:20260403-PapaBearLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The End of Oak Street(Wide)
+UID:20260814-TheEndofOakStreetWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261218
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 It’s a Wonderful Life(Limited\, re-release)
@@ -1896,6 +1920,12 @@ DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Moana(IMAX)
 UID:20260710-MoanaIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Distributor: VRC\nSource: The Numbers
+SUMMARY:🎬 Addition(Limited)
+UID:20260403-AdditionLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270917
@@ -2006,6 +2036,12 @@ SUMMARY:🎬 Stop! That! Train(Wide)
 UID:20260529-StopThatTrainWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270108
+DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+SUMMARY:🎬 Untitled Shudder Horror Film(Limited)
+UID:20270108-UntitledShudderHorrorFilmLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Other Mommy(Wide)
@@ -2034,6 +2070,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
 SUMMARY:🎬 My Brother's Wedding(Limited\, re-release)
 UID:20261231-MyBrothersWeddingLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Labyrinth(Special Engagement)
+UID:20260510-LabyrinthSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
