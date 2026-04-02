@@ -44,6 +44,12 @@ SUMMARY:🎬 Whitney Springs(Wide)
 UID:20261231-WhitneySpringsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: Janus Films\nSource: The Numbers
+SUMMARY:🎬 Blue Heron(Limited)
+UID:20260417-BlueHeronLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 DESCRIPTION:Distributor: Mansa\nSource: The Numbers
 SUMMARY:🎬 Newborn(Limited)
@@ -156,12 +162,6 @@ DTSTART;VALUE=DATE:20260417
 DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
 SUMMARY:🎬 Amrum(Limited)
 UID:20260417-AmrumLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: 1-2 Special\nSource: The Numbers
-SUMMARY:🎬 Still Friends(Limited)
-UID:20261231-StillFriendsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281110
@@ -368,6 +368,12 @@ SUMMARY:🎬 PAW Patrol: The Dino Movie(Wide)
 UID:20260814-PAWPatrolTheDinoMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Speed Racer(IMAX\, re-release)
+UID:20260425-SpeedRacerIMAXrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280728
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -548,6 +554,12 @@ SUMMARY:🎬 The Batman: Part II(Wide)
 UID:20271001-TheBatmanPartIIWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Distributor: 1-2 Special\nSource: The Numbers
+SUMMARY:🎬 Still Friends(Limited)
+UID:20260508-StillFriendsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Fried Green Tomatoes(Special Engagement\, re-release)
@@ -624,6 +636,12 @@ DTSTART;VALUE=DATE:20260904
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Paramount Event Film(Wide)
 UID:20260904-UntitledParamountEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Busboys(Limited)
+UID:20260417-BusboysLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270305
@@ -824,6 +842,12 @@ SUMMARY:🎬 Bonolota Express(Limited)
 UID:20260403-BonolotaExpressLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 The Angry Birds Movie(Limited\, re-release)
+UID:20261113-TheAngryBirdsMovieLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
 SUMMARY:🎬 Spa Weekend(Wide)
@@ -918,6 +942,12 @@ DTSTART;VALUE=DATE:20271217
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(Wide)
 UID:20271217-LordoftheRingsTheHuntforGollumWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Decorado(Limited)
+UID:20260515-DecoradoLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280811
@@ -1256,6 +1286,12 @@ SUMMARY:🎬 A Blind Bargain(Limited)
 UID:20260424-ABlindBargainLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Firebrook Entertainment\nSource: The Numbers
+SUMMARY:🎬 Broken Bird(Limited)
+UID:20260424-BrokenBirdLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 The Super Mario Galaxy Movie(IMAX)
@@ -1434,6 +1470,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Firebrand Media\nSource: The Numbers
 SUMMARY:🎬 Desert Road(Limited)
 UID:20261231-DesertRoadLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Speed Racer(Limited\, re-release)
+UID:20260425-SpeedRacerLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280630
@@ -2112,6 +2154,12 @@ DTSTART;VALUE=DATE:20260417
 DESCRIPTION:Distributor: Yash Raj Films\nSource: The Numbers
 SUMMARY:🎬 Alpha(Limited)
 UID:20260417-AlphaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DESCRIPTION:Distributor: missingFilms\nSource: The Numbers
+SUMMARY:🎬 Sirens Call(Limited)
+UID:20260430-SirensCallLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280114
