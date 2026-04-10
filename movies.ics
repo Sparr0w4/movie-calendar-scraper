@@ -668,6 +668,12 @@ SUMMARY:🎬 The Scout(Limited)
 UID:20261231-TheScoutLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
+SUMMARY:🎬 The Last Whale Singer(Wide)
+UID:20260605-TheLastWhaleSingerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Mortal Kombat II(IMAX)
@@ -864,6 +870,12 @@ DTSTART;VALUE=DATE:20261023
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Wildwood(Wide)
 UID:20261023-WildwoodWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
+SUMMARY:🎬 Tom and Jerry: Forbidden Compass(Wide)
+UID:20260909-TomandJerryForbiddenCompassWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -1592,6 +1604,12 @@ SUMMARY:🎬 Mother Mary(Wide)
 UID:20260417-MotherMaryWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Distributor: VRC\nSource: The Numbers
+SUMMARY:🎬 Couples Weekend(Limited)
+UID:20260508-CouplesWeekendLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270723
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Minecraft Sequel(Wide)
@@ -2142,12 +2160,6 @@ DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 Whalefall(Wide)
 UID:20261016-WhalefallWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
-SUMMARY:🎬 Tom and Jerry: Forbidden Compass(Wide)
-UID:20260612-TomandJerryForbiddenCompassWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
