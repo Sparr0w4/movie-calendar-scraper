@@ -266,6 +266,12 @@ SUMMARY:🎬 Bridesmaids(Limited\, re-release)
 UID:20260417-BridesmaidsLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271008
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Untitled Sony Pictures Animation Film(Wide)
+UID:20271008-UntitledSonyPicturesAnimationFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Digger(IMAX)
