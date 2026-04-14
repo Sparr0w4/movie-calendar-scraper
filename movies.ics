@@ -626,6 +626,12 @@ SUMMARY:🎬 Panda Plan 2: The Magical Tribe(Limited)
 UID:20260417-PandaPlan2TheMagicalTribeLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Wizard of the Kremlin(Limited)
+UID:20260515-TheWizardoftheKremlinLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Furious(Limited)
@@ -722,6 +728,12 @@ SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse(Wide)
 UID:20270618-SpiderManBeyondtheSpiderVerseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
+SUMMARY:🎬 Black Rabbit\, White Rabbit(Limited)
+UID:20260424-BlackRabbitWhiteRabbitLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Children of Blood and Bone(Wide)
@@ -756,6 +768,12 @@ DTSTART;VALUE=DATE:20260717
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 The Odyssey(Wide)
 UID:20260717-TheOdysseyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 Ninja Scroll(Limited\, re-release)
+UID:20261004-NinjaScrollLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
@@ -1634,16 +1652,16 @@ SUMMARY:🎬 The Mummy(Wide)
 UID:20280519-TheMummyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270813
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
-UID:20270813-UntitledBlumhouseEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
 SUMMARY:🎬 Sense and Sensibility(Wide)
 UID:20261016-SenseandSensibilityWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270813
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
+UID:20270813-UntitledBlumhouseEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270813
@@ -1712,6 +1730,12 @@ SUMMARY:🎬 Lee Cronin’s The Mummy(Wide)
 UID:20260417-LeeCroninsTheMummyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 Jinsei(Limited)
+UID:20260605-JinseiLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270129
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 The Rescue(Wide)
@@ -1728,6 +1752,12 @@ DTSTART;VALUE=DATE:20261218
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 It’s a Wonderful Life(Limited\, re-release)
 UID:20261218-ItsaWonderfulLifeLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 A Place in Hell(Wide)
+UID:20261225-APlaceinHellWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280721
@@ -2244,6 +2274,12 @@ DTSTART;VALUE=DATE:20270312
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Mike Flanagan Exorcist Film(Wide)
 UID:20270312-UntitledMikeFlanaganExorcistFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
+SUMMARY:🎬 Stolen Kingdom(Limited)
+UID:20260521-StolenKingdomLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
