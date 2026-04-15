@@ -38,6 +38,12 @@ SUMMARY:🎬 Whitney Springs(Wide)
 UID:20261231-WhitneySpringsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+DESCRIPTION:Distributor: Seventh Art Releasing\nSource: The Numbers
+SUMMARY:🎬 Frida Kahlo(Limited\, re-release)
+UID:20260519-FridaKahloLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260417
 DESCRIPTION:Distributor: Janus Films\nSource: The Numbers
 SUMMARY:🎬 Blue Heron(Limited)
@@ -84,6 +90,12 @@ DTSTART;VALUE=DATE:20260508
 DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
 SUMMARY:🎬 The Python Hunt(Limited)
 UID:20260508-ThePythonHuntLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Klara and the Sun(Wide)
+UID:20261023-KlaraandtheSunWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270416
@@ -246,12 +258,6 @@ DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Digger(Wide)
 UID:20261002-DiggerWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Insidious: The Bleeding World(Wide)
-UID:20260821-InsidiousTheBleedingWorldWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260417
@@ -498,6 +504,12 @@ DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
 SUMMARY:🎬 Werwulf(Wide)
 UID:20261225-WerwulfWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Insidious: Out of the Further(Wide)
+UID:20260821-InsidiousOutoftheFurtherWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271001
@@ -1340,6 +1352,12 @@ SUMMARY:🎬 Elijah Peel(Limited)
 UID:20260814-ElijahPeelLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Jumanji: Open World(Wide)
+UID:20261225-JumanjiOpenWorldWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270806
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Miami Vice(Wide)
@@ -1412,10 +1430,10 @@ SUMMARY:🎬 Wolf Creek: Legacy(Limited)
 UID:20261231-WolfCreekLegacyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270806
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Miami Vice(IMAX)
-UID:20270806-MiamiViceIMAX@numbers
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Jumanji: Open World(IMAX)
+UID:20261225-JumanjiOpenWorldIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261101
@@ -1424,28 +1442,22 @@ SUMMARY:🎬 V for Vendetta(Special Engagement\, re-release)
 UID:20261101-VforVendettaSpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Miami Vice(IMAX)
+UID:20270806-MiamiViceIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Animal Farm(Wide)
 UID:20260501-AnimalFarmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261225
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Jumanji 3(Wide)
-UID:20261225-Jumanji3Wide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290629
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20290629-UntitledIlluminationEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Evil Dead Burn(Wide)
-UID:20260724-EvilDeadBurnWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
@@ -1482,12 +1494,6 @@ DTSTART;VALUE=DATE:20270205
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 Ice Age: Boiling Point(Wide)
 UID:20270205-IceAgeBoilingPointWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261225
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Jumanji 3(IMAX)
-UID:20261225-Jumanji3IMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
@@ -2192,6 +2198,12 @@ SUMMARY:🎬 Narnia(IMAX)
 UID:20261126-NarniaIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Evil Dead Burn(Wide)
+UID:20260710-EvilDeadBurnWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 I Play Rocky(Limited)
@@ -2304,5 +2316,11 @@ DTSTART;VALUE=DATE:20260501
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea(Wide)
 UID:20260501-ThatTimeIGotReincarnatedasaSlimetheMovieTearsoftheAzureSeaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280218
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Grandgear(Wide)
+UID:20280218-GrandgearWide@numbers
 END:VEVENT
 END:VCALENDAR
