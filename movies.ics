@@ -1448,6 +1448,12 @@ SUMMARY:🎬 Miami Vice(IMAX)
 UID:20270806-MiamiViceIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
+SUMMARY:🎬 Train to Busan(Limited\, re-release)
+UID:20260814-TraintoBusanLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Animal Farm(Wide)
