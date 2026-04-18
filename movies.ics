@@ -344,6 +344,12 @@ SUMMARY:🎬 The Third Parent(Wide)
 UID:20260807-TheThirdParentWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Searchlight Pictures\nSource: The Numbers
+SUMMARY:🎬 Monitor(Wide)
+UID:20271225-MonitorWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
 SUMMARY:🎬 Filipiñana(Limited)
@@ -440,6 +446,12 @@ SUMMARY:🎬 Godzilla x Kong: Supernova(Wide)
 UID:20270326-GodzillaxKongSupernovaWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280526
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Lilo & Stitch 2(Wide)
+UID:20280526-LiloStitch2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Forgotten Island(Wide)
@@ -486,6 +498,12 @@ DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Godzilla x Kong: Supernova(IMAX)
 UID:20270326-GodzillaxKongSupernovaIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270205
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Comeback King(Wide)
+UID:20270205-TheComebackKingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
@@ -584,10 +602,10 @@ SUMMARY:🎬 The Batman: Part II(IMAX)
 UID:20271001-TheBatmanPartIIIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271222
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Universal Event Film(Wide)
-UID:20271222-UntitledUniversalEventFilmWide@numbers
+DTSTART;VALUE=DATE:20280616
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Incredibles 3(Wide)
+UID:20280616-Incredibles3Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -1226,6 +1244,12 @@ SUMMARY:🎬 Finding Emily(Wide)
 UID:20260828-FindingEmilyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270409
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Revenge of La Llorona(Wide)
+UID:20270409-TheRevengeofLaLloronaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Coco 2(Wide)
@@ -1514,6 +1538,12 @@ SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20290629-UntitledIlluminationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Evil Dead Burn(Wide)
+UID:20260724-EvilDeadBurnWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 Avatar 4(Wide)
@@ -1688,16 +1718,16 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20271008-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270312
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
+UID:20270312-UntitledWarnerBrosEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 The Birdcage(Special Engagement\, re-release)
 UID:20260607-TheBirdcageSpecialEngagementrerelease@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270409
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Revenge of La Llorona(Wide)
-UID:20270409-RevengeofLaLloronaWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
@@ -1718,16 +1748,16 @@ SUMMARY:🎬 Verity(Wide)
 UID:20261002-VerityWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270205
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Original Comedy from Judd Apatow and Glen Powell(Wide)
-UID:20270205-UntitledOriginalComedyfromJuddApatowandGlenPowellWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280519
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 The Mummy(Wide)
 UID:20280519-TheMummyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280630
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Call of Duty(Wide)
+UID:20280630-CallofDutyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
@@ -1892,6 +1922,12 @@ SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
 UID:20281013-UntitledBlumhouseEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270625
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Ocean’s Prequel(Wide)
+UID:20270625-UntitledOceansPrequelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Fablehaven(Wide)
@@ -1988,12 +2024,6 @@ SUMMARY:🎬 Cookie Queens(Limited)
 UID:20260925-CookieQueensLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270212
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
-UID:20270212-UntitledWarnerBrosEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
 DESCRIPTION:Distributor: 1-2 Special\nSource: The Numbers
 SUMMARY:🎬 Rose of Nevada(Limited)
@@ -2010,12 +2040,6 @@ DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
 UID:20271008-UntitledCineverseHorrorFranchiseEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280616
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Pixar Film(Wide)
-UID:20280616-UntitledPixarFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
@@ -2292,12 +2316,6 @@ DTSTART;VALUE=DATE:20261126
 DESCRIPTION:Distributor: Netflix\nSource: The Numbers
 SUMMARY:🎬 Narnia(IMAX)
 UID:20261126-NarniaIMAX@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Evil Dead Burn(Wide)
-UID:20260710-EvilDeadBurnWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
