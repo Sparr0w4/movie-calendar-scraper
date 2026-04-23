@@ -362,6 +362,12 @@ SUMMARY:🎬 Monitor(Wide)
 UID:20271225-MonitorWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Sacred Heart: His Reign Has No End(Wide)
+UID:20260609-SacredHeartHisReignHasNoEndWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
 SUMMARY:🎬 Filipiñana(Limited)
@@ -548,6 +554,12 @@ SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20300703-UntitledIlluminationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 Union County(Limited)
+UID:20261231-UnionCountyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Beatles Cinematic Event: Paul(Wide)
@@ -672,6 +684,12 @@ DTSTART;VALUE=DATE:20260508
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Mortal Kombat II(Wide)
 UID:20260508-MortalKombatIIWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 The Uprising(Wide)
+UID:20260911-TheUprisingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260507
@@ -930,6 +948,12 @@ DTSTART;VALUE=DATE:20260515
 DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
 SUMMARY:🎬 Decorado(Limited)
 UID:20260515-DecoradoLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Amazing Digital Circus: The Last Act(Wide)
+UID:20260604-TheAmazingDigitalCircusTheLastActWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280811
@@ -1298,6 +1322,12 @@ SUMMARY:🎬 Omaha(Limited)
 UID:20260424-OmahaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Hershey(Wide)
+UID:20261126-HersheyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270219
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 CoComelon: The Movie(Wide)
@@ -1518,6 +1548,12 @@ DTSTART;VALUE=DATE:20260918
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Resident Evil(Wide)
 UID:20260918-ResidentEvilWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280303
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 Elden Ring(Wide)
+UID:20280303-EldenRingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
@@ -1844,6 +1880,12 @@ SUMMARY:🎬 Hello Kitty(Wide)
 UID:20280721-HelloKittyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Flywheel: Ignition of the Soul(Wide)
+UID:20261016-FlywheelIgnitionoftheSoulWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
 SUMMARY:🎬 The Rivals of Amziah King(Expands Wide)
@@ -1952,6 +1994,12 @@ SUMMARY:🎬 RZA’s One Spoon of Chocolate(Limited)
 UID:20260501-RZAsOneSpoonofChocolateLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 BLEACH: Thousand-Year Blood War — The Calamity(Limited)
+UID:20260625-BLEACHThousandYearBloodWarTheCalamityLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Hunger Games: Sunrise on the Reaping(Wide)
@@ -2034,12 +2082,6 @@ DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Evil Dead Wrath(Wide)
 UID:20280407-EvilDeadWrathWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Sacred Heart: His Reign Has No End(Wide)
-UID:20260603-SacredHeartHisReignHasNoEndWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -2274,12 +2316,6 @@ DTSTART;VALUE=DATE:20260711
 DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
 SUMMARY:🎬 UFC 329(Special Engagement)
 UID:20260711-UFC329SpecialEngagement@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Cut Off(Wide)
-UID:20260717-CutOffWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280317
