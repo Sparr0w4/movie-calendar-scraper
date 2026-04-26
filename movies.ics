@@ -434,12 +434,6 @@ SUMMARY:🎬 Citizen Kane(Special Engagement\, re-release)
 UID:20260705-CitizenKaneSpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
-SUMMARY:🎬 I Swear(Limited)
-UID:20260424-ISwearLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Gone with the Wind(Special Engagement\, re-release)
@@ -1622,6 +1616,12 @@ SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20290629-UntitledIlluminationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 I Swear(Wide)
+UID:20260424-ISwearWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 Avatar 4(Wide)
@@ -2160,6 +2160,12 @@ DTSTART;VALUE=DATE:20260625
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 BLEACH: Thousand-Year Blood War — The Calamity(Limited)
 UID:20260625-BLEACHThousandYearBloodWarTheCalamityLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Universal Event Film(Wide)
+UID:20270806-UntitledUniversalEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
