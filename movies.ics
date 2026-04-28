@@ -158,6 +158,12 @@ SUMMARY:🎬 Final Destination 7(Wide)
 UID:20280512-FinalDestination7Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270521
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Catch(Wide)
+UID:20270521-TheCatchWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Film Distribution Network\nSource: The Numbers
 SUMMARY:🎬 Indian 3(Limited)
@@ -264,6 +270,12 @@ DTSTART;VALUE=DATE:20270122
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Air Bud Returns(Wide)
 UID:20270122-AirBudReturnsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Jackass: Best and Last(Wide)
+UID:20260626-JackassBestandLastWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
@@ -390,6 +402,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
 SUMMARY:🎬 Filipiñana(Limited)
 UID:20261231-FilipianaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Distributor: Magnolia Pictures\nSource: The Numbers
+SUMMARY:🎬 The Pusher Trilogy(Limited\, re-release)
+UID:20260508-ThePusherTrilogyLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
@@ -1310,12 +1328,6 @@ SUMMARY:🎬 Untitled Dreamworks Animation Event Film(Wide)
 UID:20270924-UntitledDreamworksAnimationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Untitled Jackass Event Film(Wide)
-UID:20260626-UntitledJackassEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270319
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Wolf Creek: Legacy(Wide)
@@ -1860,6 +1872,12 @@ DTSTART;VALUE=DATE:20260821
 DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
 SUMMARY:🎬 The Rivals of Amziah King(Expands Wide)
 UID:20260821-TheRivalsofAmziahKingExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Angel and the Badman(Wide)
+UID:20261009-AngelandtheBadmanWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
