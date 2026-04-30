@@ -290,6 +290,12 @@ SUMMARY:🎬 American Agitators(Limited)
 UID:20260501-AmericanAgitatorsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Distributor: Variance Films\nSource: The Numbers
+SUMMARY:🎬 O Horizon(Limited)
+UID:20260612-OHorizonLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270618
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -486,6 +492,12 @@ DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 I Play Rocky(Expands Wide)
 UID:20261120-IPlayRockyExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 2026 TXT Moa Con in Japan: Live Viewing(Special Engagement)
+UID:20260524-2026TXTMoaConinJapanLiveViewingSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291121
@@ -1386,6 +1398,12 @@ DTSTART;VALUE=DATE:20260508
 DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
 SUMMARY:🎬 Louder Than Guns(Limited)
 UID:20260508-LouderThanGunsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Ally(Wide)
+UID:20271225-AllyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
