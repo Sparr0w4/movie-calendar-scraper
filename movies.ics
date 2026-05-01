@@ -45,6 +45,12 @@ UID:20260519-FridaKahloLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 Gaayapadda Simham(Limited)
+UID:20260501-GaayapaddaSimhamLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
 DESCRIPTION:Distributor: Janus Films\nSource: The Numbers
 SUMMARY:🎬 American Dream(Limited\, re-release)
 UID:20260501-AmericanDreamLimitedrerelease@numbers
@@ -206,6 +212,12 @@ SUMMARY:🎬 Motor City(Wide)
 UID:20260724-MotorCityWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:Distributor: F234 Films\nSource: The Numbers
+SUMMARY:🎬 Fuck Boys(Limited)
+UID:20260502-FuckBoysLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
 DESCRIPTION:Distributor: Magnolia Pictures\nSource: The Numbers
 SUMMARY:🎬 I Want Your Sex(Wide)
@@ -230,6 +242,12 @@ SUMMARY:🎬 Clayface(Wide)
 UID:20261023-ClayfaceWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Blue Harbor\nSource: The Numbers
+SUMMARY:🎬 An Autumn Summer(Limited)
+UID:20260501-AnAutumnSummerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Ketchup Entertainment\nSource: The Numbers
 SUMMARY:🎬 Coyote vs. Acme(Wide)
@@ -240,6 +258,12 @@ DTSTART;VALUE=DATE:20270903
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 The Simpsons Movie 2(Wide)
 UID:20270903-TheSimpsonsMovie2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Boulevard(Limited)
+UID:20260501-BoulevardLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
@@ -1292,6 +1316,12 @@ SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
 UID:20270115-UntitledBlumhouseEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Patriot(Limited)
+UID:20260501-PatriotLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
 DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
 SUMMARY:🎬 In the Grey(Wide)
@@ -1532,6 +1562,12 @@ SUMMARY:🎬 Resident Evil(Wide)
 UID:20260918-ResidentEvilWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Music Box Films\nSource: The Numbers
+SUMMARY:🎬 The Last One For The Road(Limited)
+UID:20260501-TheLastOneForTheRoadLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280303
 DESCRIPTION:Distributor: A24\nSource: The Numbers
 SUMMARY:🎬 Elden Ring(Wide)
@@ -1628,6 +1664,12 @@ SUMMARY:🎬 Gladys(Wide)
 UID:20280908-GladysWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: San Rocco Productions\nSource: The Numbers
+SUMMARY:🎬 Resurrection(Limited)
+UID:20260501-ResurrectionLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
 DESCRIPTION:Distributor: VRC\nSource: The Numbers
 SUMMARY:🎬 Couples Weekend(Limited)
@@ -1668,6 +1710,12 @@ DTSTART;VALUE=DATE:20270402
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20270402-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Jio Studios\nSource: The Numbers
+SUMMARY:🎬 Raja Shivaji(Limited)
+UID:20260501-RajaShivajiLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
@@ -2244,6 +2292,12 @@ DTSTART;VALUE=DATE:20260807
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 One Night Only(Wide)
 UID:20260807-OneNightOnlyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DESCRIPTION:Distributor: Mythri Movie Makers\nSource: The Numbers
+SUMMARY:🎬 Jetlee(Limited)
+UID:20260501-JetleeLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
