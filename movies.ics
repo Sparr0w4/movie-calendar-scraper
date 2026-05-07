@@ -68,6 +68,12 @@ SUMMARY:🎬 The Wrong Girls(Wide)
 UID:20260814-TheWrongGirlsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Last Resort(Wide)
+UID:20271225-TheLastResortWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Self Distributed\nSource: The Numbers
 SUMMARY:🎬 The Forest Hills(Limited)
@@ -218,6 +224,12 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20280331-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Runner(Wide)
+UID:20260911-RunnerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
 DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
 SUMMARY:🎬 UFC 328: Chimaev vs. Strickland(Special Engagement)
@@ -270,6 +282,12 @@ DTSTART;VALUE=DATE:20260731
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Spider-Man: Brand New Day(Wide)
 UID:20260731-SpiderManBrandNewDayWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Heart of the Beast(Wide)
+UID:20261231-HeartoftheBeastWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -675,7 +693,7 @@ UID:20260605-TrainspottingLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Distributor: \nSource: The Numbers
+DESCRIPTION:Distributor: Obscured Releasing\nSource: The Numbers
 SUMMARY:🎬 Blue Film(Limited)
 UID:20260508-BlueFilmLimited@numbers
 END:VEVENT
@@ -1034,6 +1052,12 @@ SUMMARY:🎬 Avengers: Secret Wars(Wide)
 UID:20271217-AvengersSecretWarsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Distributor: Salman Khan Films\nSource: The Numbers
+SUMMARY:🎬 Battle Of Galwan(Limited)
+UID:20260815-BattleOfGalwanLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DESCRIPTION:Distributor: A24\nSource: The Numbers
 SUMMARY:🎬 Backrooms(Wide)
@@ -1068,6 +1092,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Haunting in Wicker Park(Wide)
 UID:20261231-TheHauntinginWickerParkWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+SUMMARY:🎬 The Sun Never Sets(Wide)
+UID:20261231-TheSunNeverSetsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270507
@@ -1316,6 +1346,12 @@ SUMMARY:🎬 In the Grey(Wide)
 UID:20260515-IntheGreyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Seismic Releasing\nSource: The Numbers
+SUMMARY:🎬 Sugar Beach(Limited)
+UID:20260626-SugarBeachLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
 SUMMARY:🎬 Animal Crackers 2: The Next Batch(Wide)
@@ -1386,6 +1422,12 @@ DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Row K Entertainment\nSource: The Numbers
 SUMMARY:🎬 Cliffhanger(Wide)
 UID:20260828-CliffhangerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Rialto Pictures\nSource: The Numbers
+SUMMARY:🎬 April X(Limited)
+UID:20260925-AprilXLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
@@ -1758,6 +1800,12 @@ DTSTART;VALUE=DATE:20260911
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Practical Magic 2(Wide)
 UID:20260911-PracticalMagic2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+DESCRIPTION:Distributor: Red Chillies Entertainment\nSource: The Numbers
+SUMMARY:🎬 King(Limited)
+UID:20261224-KingLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
@@ -2298,6 +2346,18 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Sumerian\nSource: The Numbers
 SUMMARY:🎬 The Incomer(Limited)
 UID:20261231-TheIncomerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 Fauzi(Wide)
+UID:20260813-FauziWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 The Brink of War(Wide)
+UID:20260814-TheBrinkofWarWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
