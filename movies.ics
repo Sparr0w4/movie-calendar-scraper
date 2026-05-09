@@ -332,6 +332,12 @@ SUMMARY:🎬 Rosebush Pruning(Limited)
 UID:20260724-RosebushPruningLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Magnolia Pictures\nSource: The Numbers
+SUMMARY:🎬 Never After Dark(Limited)
+UID:20260925-NeverAfterDarkLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
 DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
 SUMMARY:🎬 Underland(Limited)
@@ -1112,6 +1118,12 @@ SUMMARY:🎬 Shaun the Sheep: The Beast of Mossy Bottom(Wide)
 UID:20260918-ShauntheSheepTheBeastofMossyBottomWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Another World(Limited)
+UID:20260605-AnotherWorldLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271217
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(IMAX)
@@ -1386,6 +1398,12 @@ DTSTART;VALUE=DATE:20260626
 DESCRIPTION:Distributor: Seismic Releasing\nSource: The Numbers
 SUMMARY:🎬 Sugar Beach(Limited)
 UID:20260626-SugarBeachLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 TEKKONKINKREET(Special Engagement)
+UID:20260531-TEKKONKINKREETSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
@@ -1688,16 +1706,22 @@ SUMMARY:🎬 A Beautiful Mind(Special Engagement\, re-release)
 UID:20261122-ABeautifulMindSpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Rocky(Special Engagement\, re-release)
-UID:20261107-RockySpecialEngagementrerelease@numbers
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
+SUMMARY:🎬 Pinoccho Unstrung(Wide)
+UID:20260724-PinocchoUnstrungWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260918
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Resident Evil(IMAX)
 UID:20260918-ResidentEvilIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Rocky(Special Engagement\, re-release)
+UID:20261107-RockySpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280728
