@@ -284,6 +284,12 @@ SUMMARY:🎬 O Horizon(Limited)
 UID:20260612-OHorizonLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Soul Patrol(Limited)
+UID:20261231-SoulPatrolLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270618
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -764,6 +770,12 @@ SUMMARY:🎬 The Last Whale Singer(Wide)
 UID:20260605-TheLastWhaleSingerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
+SUMMARY:🎬 Nika & Madison(Limited)
+UID:20260828-NikaMadisonLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270506
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Resurrection of the Christ: Part Two(Wide)
@@ -1104,6 +1116,12 @@ DTSTART;VALUE=DATE:20270219
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Star Wars Ep. IV: A New Hope(Wide\, re-release)
 UID:20270219-StarWarsEpIVANewHopeWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 The Devil Queen(Limited)
+UID:20260612-TheDevilQueenLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280811
@@ -1772,6 +1790,12 @@ SUMMARY:🎬 Ebenezer: A Christmas Carol(Wide)
 UID:20261113-EbenezerAChristmasCarolWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
+SUMMARY:🎬 Swallowtail & Dragonfly(Limited)
+UID:20260703-SwallowtailDragonflyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
 DESCRIPTION:Distributor: Quiver\nSource: The Numbers
 SUMMARY:🎬 The Birthday Party(Limited)
@@ -2130,6 +2154,12 @@ DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
 UID:20271008-UntitledCineverseHorrorFranchiseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 The Kidnapping of Arabella(Limited)
+UID:20260717-TheKidnappingofArabellaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260904
@@ -2526,6 +2556,12 @@ DTSTART;VALUE=DATE:20260521
 DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
 SUMMARY:🎬 Stolen Kingdom(Limited)
 UID:20260521-StolenKingdomLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
+SUMMARY:🎬 Lice(Wide)
+UID:20270326-LiceWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
