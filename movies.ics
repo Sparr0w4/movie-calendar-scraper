@@ -182,6 +182,12 @@ SUMMARY:🎬 Panic Carefully(Wide)
 UID:20270226-PanicCarefullyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 That They May Be One(Special Engagement)
+UID:20260519-ThatTheyMayBeOneSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Disclosure Day(IMAX)
@@ -222,6 +228,12 @@ DTSTART;VALUE=DATE:20260911
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Runner(Wide)
 UID:20260911-RunnerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
+SUMMARY:🎬 Renoir(Limited)
+UID:20260529-RenoirLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
@@ -1058,6 +1070,12 @@ SUMMARY:🎬 Charlie Harper(Wide)
 UID:20260925-CharlieHarperWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
+SUMMARY:🎬 Ask E. Jean(Limited)
+UID:20260521-AskEJeanLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Distributor: Falling Forward Films\nSource: The Numbers
 SUMMARY:🎬 Rolling Loud(Wide)
@@ -1224,6 +1242,12 @@ DTSTART;VALUE=DATE:20260814
 DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
 SUMMARY:🎬 Six: The Musical Live!(Limited)
 UID:20260814-SixTheMusicalLiveLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Distributor: Samuel Goldwyn Films\nSource: The Numbers
+SUMMARY:🎬 Reckless(Limited)
+UID:20260522-RecklessLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
@@ -1788,6 +1812,12 @@ DTSTART;VALUE=DATE:20260822
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Castle in the Sky(Special Engagement\, re-release)
 UID:20260822-CastleintheSkySpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Pitfall(Limited)
+UID:20260529-PitfallLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271008
