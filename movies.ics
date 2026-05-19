@@ -410,6 +410,12 @@ SUMMARY:🎬 Untitled Disney Animation(Wide)
 UID:20290615-UntitledDisneyAnimationWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Aura Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Beast(Wide)
+UID:20261231-TheBeastWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Searchlight Pictures\nSource: The Numbers
 SUMMARY:🎬 Monitor(Wide)
@@ -662,6 +668,12 @@ SUMMARY:🎬 The Resurrection of the Christ: Part One(Wide)
 UID:20270326-TheResurrectionoftheChristPartOneWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Above the Below(Limited)
+UID:20261204-AbovetheBelowLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Toy Story 5(IMAX)
@@ -816,6 +828,12 @@ DTSTART;VALUE=DATE:20260614
 DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
 SUMMARY:🎬 UFC Freedom 250(Special Engagement)
 UID:20260614-UFCFreedom250SpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Distributor: AV Entertainment Company\, LLC\nSource: The Numbers
+SUMMARY:🎬 Paper Flowers(Limited)
+UID:20260821-PaperFlowersLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
@@ -990,6 +1008,12 @@ DTSTART;VALUE=DATE:20271217
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(Wide)
 UID:20271217-LordoftheRingsTheHuntforGollumWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: VRC\nSource: The Numbers
+SUMMARY:🎬 Rich Flu(Limited)
+UID:20260529-RichFluLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260604
@@ -1478,6 +1502,12 @@ SUMMARY:🎬 Untitled Neon Horror Film(Wide)
 UID:20270219-UntitledNeonHorrorFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
+SUMMARY:🎬 Chum(Limited)
+UID:20260605-ChumLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Firebrand Media\nSource: The Numbers
 SUMMARY:🎬 Desert Road(Limited)
@@ -1506,6 +1536,12 @@ DTSTART;VALUE=DATE:20260619
 DESCRIPTION:Distributor: Zurty Studios\nSource: The Numbers
 SUMMARY:🎬 B-Roll(Wide\, re-release)
 UID:20260619-BRollWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Distributor: Rialto Pictures\nSource: The Numbers
+SUMMARY:🎬 Terminator 2: Judgment Day(Special Engagement\, re-release)
+UID:20260522-Terminator2JudgmentDaySpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261218
@@ -2406,6 +2442,12 @@ DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Social Reckoning(Wide)
 UID:20261009-TheSocialReckoningWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Hope(Limited)
+UID:20261231-HopeLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280310
