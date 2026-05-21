@@ -134,12 +134,6 @@ SUMMARY:🎬 The Death of Robin Hood(Wide)
 UID:20260619-TheDeathofRobinHoodWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
-SUMMARY:🎬 Zero A.D.(Wide)
-UID:20261231-ZeroADWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270716
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Paramount Horror Event Film(Wide)
@@ -783,7 +777,7 @@ UID:20260617-GreggAllmanTheMusicofMySoulLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+DESCRIPTION:Distributor: PRJKTD\nSource: The Numbers
 SUMMARY:🎬 Savage House(Limited)
 UID:20260605-SavageHouseLimited@numbers
 END:VEVENT
@@ -1071,7 +1065,7 @@ UID:20260521-AskEJeanLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Distributor: Falling Forward Films\nSource: The Numbers
+DESCRIPTION:Distributor: Ketchup Entertainment\nSource: The Numbers
 SUMMARY:🎬 Rolling Loud(Wide)
 UID:20261002-RollingLoudWide@numbers
 END:VEVENT
@@ -1748,6 +1742,12 @@ SUMMARY:🎬 Gladys(Wide)
 UID:20280908-GladysWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Quiver\nSource: The Numbers
+SUMMARY:🎬 The Birthday Party(Limited)
+UID:20260814-TheBirthdayPartyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270723
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Minecraft Sequel(Wide)
@@ -1842,12 +1842,6 @@ DTSTART;VALUE=DATE:20260703
 DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
 SUMMARY:🎬 Swallowtail & Dragonfly(Limited)
 UID:20260703-SwallowtailDragonflyLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Distributor: Quiver\nSource: The Numbers
-SUMMARY:🎬 The Birthday Party(Limited)
-UID:20260605-TheBirthdayPartyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
@@ -2036,6 +2030,12 @@ SUMMARY:🎬 The End of Oak Street(IMAX)
 UID:20260814-TheEndofOakStreetIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Talladega Nights: The Ballad of Ricky Bobby(Wide\, re-release)
+UID:20260628-TalladegaNightsTheBalladofRickyBobbyWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260522
 DESCRIPTION:Distributor: Western Film Service\nSource: The Numbers
 SUMMARY:🎬 Corporate Retreat(Wide)
@@ -2082,6 +2082,12 @@ DTSTART;VALUE=DATE:20270226
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Live Like That(Wide)
 UID:20270226-LiveLikeThatWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Zero A.D.(Wide)
+UID:20261225-ZeroADWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280414
@@ -2324,12 +2330,6 @@ SUMMARY:🎬 Whalefall(Wide)
 UID:20261016-WhalefallWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Attend\nSource: The Numbers
-SUMMARY:🎬 The Token Groomsman(Wide)
-UID:20260626-TheTokenGroomsmanWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Street Fighter(IMAX)
@@ -2418,6 +2418,12 @@ DTSTART;VALUE=DATE:20260626
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Supergirl(IMAX)
 UID:20260626-SupergirlIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DESCRIPTION:Distributor: Attend\nSource: The Numbers
+SUMMARY:🎬 The Token Groomsman(Wide)
+UID:20260628-TheTokenGroomsmanWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271124
