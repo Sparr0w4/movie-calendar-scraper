@@ -224,6 +224,12 @@ SUMMARY:🎬 Clayface(Wide)
 UID:20261023-ClayfaceWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Day Drinker(Wide)
+UID:20270326-DayDrinkerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Ketchup Entertainment\nSource: The Numbers
 SUMMARY:🎬 Coyote vs. Acme(Wide)
@@ -426,6 +432,12 @@ DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Searchlight Pictures\nSource: The Numbers
 SUMMARY:🎬 Monitor(Wide)
 UID:20271225-MonitorWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270506
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 The Resurrection of the Christ: Part One(Wide)
+UID:20270506-TheResurrectionoftheChristPartOneWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260609
@@ -674,12 +686,6 @@ SUMMARY:🎬 Jacked(Limited)
 UID:20260626-JackedLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270326
-DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
-SUMMARY:🎬 The Resurrection of the Christ: Part One(Wide)
-UID:20270326-TheResurrectionoftheChristPartOneWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Above the Below(Limited)
@@ -800,12 +806,6 @@ SUMMARY:🎬 Nika & Madison(Limited)
 UID:20260828-NikaMadisonLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270506
-DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
-SUMMARY:🎬 The Resurrection of the Christ: Part Two(Wide)
-UID:20270506-TheResurrectionoftheChristPartTwoWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DESCRIPTION:Distributor: 1-2 Special\nSource: The Numbers
 SUMMARY:🎬 Time And Water(Limited)
@@ -852,6 +852,12 @@ DTSTART;VALUE=DATE:20260619
 DESCRIPTION:Distributor: Neon\nSource: The Numbers
 SUMMARY:🎬 Leviticus(Wide)
 UID:20260619-LeviticusWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
+SUMMARY:🎬 Terrestrial(Limited)
+UID:20260731-TerrestrialLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280707
@@ -1946,6 +1952,12 @@ SUMMARY:🎬 Bad Counselors(Limited)
 UID:20260722-BadCounselorsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280525
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 The Resurrection of the Christ: Part Two(Wide)
+UID:20280525-TheResurrectionoftheChristPartTwoWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
@@ -2550,12 +2562,6 @@ DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
 SUMMARY:🎬 Barrio Triste(Limited)
 UID:20260710-BarrioTristeLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
-SUMMARY:🎬 Tuner(Expands Wide)
-UID:20260529-TunerExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271119
