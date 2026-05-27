@@ -122,6 +122,12 @@ SUMMARY:🎬 The Death of Robin Hood(Wide)
 UID:20260619-TheDeathofRobinHoodWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Big World Pictures\nSource: The Numbers
+SUMMARY:🎬 The Hole(Limited\, re-release)
+UID:20260710-TheHoleLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270716
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Paramount Horror Event Film(Wide)
@@ -314,6 +320,12 @@ SUMMARY:🎬 Underland(Limited)
 UID:20260605-UnderlandLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Old Man in the Dunes(Wide)
+UID:20261231-OldManintheDunesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280218
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -360,6 +372,12 @@ DTSTART;VALUE=DATE:20260612
 DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
 SUMMARY:🎬 Flag Day(Limited)
 UID:20260612-FlagDayLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Big World Pictures\nSource: The Numbers
+SUMMARY:🎬 Sorelle di clausura(Limited)
+UID:20261231-SorellediclausuraLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
@@ -752,6 +770,12 @@ SUMMARY:🎬 The Uprising(Wide)
 UID:20260911-TheUprisingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 This Tempting Madness(Limited)
+UID:20260612-ThisTemptingMadnessLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: ARC Entertainment\nSource: The Numbers
 SUMMARY:🎬 The Ark and the Aardvark(Limited)
@@ -980,10 +1004,10 @@ SUMMARY:🎬 The Odyssey(IMAX)
 UID:20260717-TheOdysseyIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Wildwood(Wide)
-UID:20261023-WildwoodWide@numbers
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 She Saw Us(Limited)
+UID:20261231-SheSawUsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
@@ -992,10 +1016,10 @@ SUMMARY:🎬 Tom and Jerry: Forbidden Compass(Wide)
 UID:20260909-TomandJerryForbiddenCompassWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: \nSource: The Numbers
-SUMMARY:🎬 She Saw Us(Limited)
-UID:20261231-SheSawUsLimited@numbers
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Wildwood(Wide)
+UID:20261023-WildwoodWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270716
@@ -1190,6 +1214,12 @@ SUMMARY:🎬 Untitled A24 Horror Film(Wide)
 UID:20261023-UntitledA24HorrorFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270101
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 Pendulum(Wide)
+UID:20270101-PendulumWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280630
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Illumination Event Film(Wide)
@@ -1284,6 +1314,12 @@ DTSTART;VALUE=DATE:20260911
 DESCRIPTION:Distributor: Neon\nSource: The Numbers
 SUMMARY:🎬 Untitled Neon Film(Wide)
 UID:20260911-UntitledNeonFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Ramayana Part 1(Wide)
+UID:20261106-RamayanaPart1Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
@@ -1580,6 +1616,12 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20290525-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Oasis Live ‘25(Limited)
+UID:20260911-OasisLive25Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260918
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Resident Evil(Wide)
@@ -1662,6 +1704,12 @@ DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Archangel(Wide)
 UID:20261106-ArchangelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270205
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 Lords of War(Wide)
+UID:20270205-LordsofWarWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -1898,6 +1946,12 @@ SUMMARY:🎬 The Rescue(Wide)
 UID:20270129-TheRescueWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 Tony(Limited)
+UID:20260807-TonyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260814
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The End of Oak Street(Wide)
@@ -1980,6 +2034,12 @@ DTSTART;VALUE=DATE:20270625
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Ocean’s Prequel(Wide)
 UID:20270625-UntitledOceansPrequelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 Ha-Chan\, Shake Your Booty!(Limited)
+UID:20261231-HaChanShakeYourBootyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -2106,6 +2166,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Ketchup Entertainment\nSource: The Numbers
 SUMMARY:🎬 November 1963(Wide)
 UID:20261231-November1963Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Unveil Studios\nSource: The Numbers
+SUMMARY:🎬 Daniel: The Fiery Furnace(Wide)
+UID:20260911-DanielTheFieryFurnaceWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
@@ -2236,7 +2302,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
-SUMMARY:🎬 Stop! That! Train(Wide)
+SUMMARY:🎬 Stop! That! Train!(Wide)
 UID:20260612-StopThatTrainWide@numbers
 END:VEVENT
 BEGIN:VEVENT
@@ -2426,12 +2492,6 @@ SUMMARY:🎬 Untitled Pixar Film(Wide)
 UID:20280310-UntitledPixarFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Scary Movie 6(Wide)
-UID:20260605-ScaryMovie6Wide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: Netflix\nSource: The Numbers
 SUMMARY:🎬 KPop Demon Hunters Sequel(Wide)
@@ -2450,10 +2510,22 @@ SUMMARY:🎬 Only Yesterday(Special Engagement\, re-release)
 UID:20260809-OnlyYesterdaySpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Star Studios\nSource: The Numbers
+SUMMARY:🎬 Welcome to the Jungle(Limited)
+UID:20260626-WelcometotheJungleLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
 DESCRIPTION:Distributor: Magnolia Pictures\nSource: The Numbers
 SUMMARY:🎬 Carolina Caroline(Limited)
 UID:20260605-CarolinaCarolineLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Scary Movie(Wide)
+UID:20260605-ScaryMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
@@ -2520,6 +2592,12 @@ DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
 SUMMARY:🎬 Lice(Wide)
 UID:20270326-LiceWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:Distributor: Netflix\nSource: The Numbers
+SUMMARY:🎬 In the Hand of Dante(Limited)
+UID:20260617-IntheHandofDanteLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
