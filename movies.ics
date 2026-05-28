@@ -1203,6 +1203,12 @@ UID:20280407-TheBeatlesCinematicEventRingoWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 Bitter Christmas(Wide)
+UID:20261231-BitterChristmasWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Attend\nSource: The Numbers
 SUMMARY:🎬 Fleak(Wide)
 UID:20261231-FleakWide@numbers
