@@ -1424,6 +1424,12 @@ SUMMARY:🎬 Untitled Dreamworks Animation Event Film(Wide)
 UID:20270924-UntitledDreamworksAnimationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270604
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 John Rambo(Wide)
+UID:20270604-JohnRamboWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270319
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Wolf Creek: Legacy(Wide)
@@ -1944,6 +1950,12 @@ DTSTART;VALUE=DATE:20260605
 DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
 SUMMARY:🎬 Jinsei(Limited)
 UID:20260605-JinseiLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Distributor: Netflix\nSource: The Numbers
+SUMMARY:🎬 I am Frankelda(Limited)
+UID:20260612-IamFrankeldaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270129
@@ -2574,6 +2586,12 @@ DTSTART;VALUE=DATE:20270521
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Bad Fairies(Wide)
 UID:20270521-BadFairiesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 Reading Lolita in Tehran(Limited)
+UID:20260710-ReadingLolitainTehranLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
