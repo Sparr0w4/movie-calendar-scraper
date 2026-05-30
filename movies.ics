@@ -392,6 +392,12 @@ SUMMARY:🎬 Mare’s Nest(Limited)
 UID:20260624-MaresNestLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Myriad Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 The 47(Limited)
+UID:20260529-The47Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281220
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
@@ -626,12 +632,6 @@ SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20300703-UntitledIlluminationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
-SUMMARY:🎬 Union County(Limited)
-UID:20261231-UnionCountyLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Beatles Cinematic Event: Paul(Wide)
@@ -702,6 +702,12 @@ DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 The Thomas Crown Affair(Wide)
 UID:20270305-TheThomasCrownAffairWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Grasshopper Film\nSource: The Numbers
+SUMMARY:🎬 Forastera(Limited)
+UID:20260529-ForasteraLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
@@ -1028,6 +1034,12 @@ SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
 UID:20270716-UntitledWarnerBrosEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: China Lion Film Distribution\nSource: The Numbers
+SUMMARY:🎬 Crossing a Dawn(Limited)
+UID:20260529-CrossingaDawnLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271217
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(Wide)
@@ -1266,6 +1278,12 @@ DTSTART;VALUE=DATE:20260814
 DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
 SUMMARY:🎬 The Rivals of Amziah King(Limited)
 UID:20260814-TheRivalsofAmziahKingLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Get Out(Limited)
+UID:20260626-TheGetOutLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281215
@@ -2318,6 +2336,12 @@ SUMMARY:🎬 Peter Asher: Everywhere Man(Limited)
 UID:20260619-PeterAsherEverywhereManLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 Union County(Limited)
+UID:20260814-UnionCountyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
 SUMMARY:🎬 Stop! That! Train!(Wide)
@@ -2358,6 +2382,12 @@ DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Mr. Irrelevant(Wide)
 UID:20261225-MrIrrelevantWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Distributor: Cinema Guild\nSource: The Numbers
+SUMMARY:🎬 With Hasan in Gaza(Limited)
+UID:20260529-WithHasaninGazaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270326
