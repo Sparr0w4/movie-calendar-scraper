@@ -1598,6 +1598,12 @@ SUMMARY:🎬 Spirited Away(Special Engagement\, re-release)
 UID:20261017-SpiritedAwaySpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Strand Releasing\nSource: The Numbers
+SUMMARY:🎬 Mysterious Skin(Limited\, re-release)
+UID:20260814-MysteriousSkinLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270205
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 Ice Age: Boiling Point(Wide)
@@ -2496,6 +2502,12 @@ DTSTART;VALUE=DATE:20271119
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Gremlins 3(Wide)
 UID:20271119-Gremlins3Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 Olmo(Limited)
+UID:20260807-OlmoLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
