@@ -2300,16 +2300,22 @@ SUMMARY:🎬 Whalefall(Wide)
 UID:20261016-WhalefallWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Street Fighter(IMAX)
-UID:20261016-StreetFighterIMAX@numbers
+DTSTART;VALUE=DATE:20260616
+DESCRIPTION:Distributor: Brainstorm Media\nSource: The Numbers
+SUMMARY:🎬 40 Days and 40 Nights(Limited)
+UID:20260616-40Daysand40NightsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 One Night Only(Wide)
 UID:20260807-OneNightOnlyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Street Fighter(IMAX)
+UID:20261016-StreetFighterIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
@@ -2460,6 +2466,12 @@ DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Social Reckoning(Wide)
 UID:20261009-TheSocialReckoningWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Distributor: VRC\nSource: The Numbers
+SUMMARY:🎬 The Passenger(Limited)
+UID:20260605-ThePassengerLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
