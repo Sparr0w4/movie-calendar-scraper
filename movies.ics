@@ -74,12 +74,6 @@ SUMMARY:🎬 The Forest Hills(Limited)
 UID:20261231-TheForestHillsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Untitled Paramount Event Film(Wide)
-UID:20260925-UntitledParamountEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
 SUMMARY:🎬 Promised Sky(Limited)
