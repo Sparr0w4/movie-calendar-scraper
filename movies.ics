@@ -440,12 +440,6 @@ SUMMARY:🎬 Untitled Paranormal Activity Film(Wide)
 UID:20270521-UntitledParanormalActivityFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
-SUMMARY:🎬 Girls Like Girls(Wide)
-UID:20260619-GirlsLikeGirlsWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290615
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Animation(Wide)
@@ -540,6 +534,12 @@ DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 I Play Rocky(Expands Wide)
 UID:20261120-IPlayRockyExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Crunchyroll Anime Nights Sneak Peak June Edition(Special Engagement)
+UID:20260615-CrunchyrollAnimeNightsSneakPeakJuneEditionSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
@@ -1136,6 +1136,12 @@ SUMMARY:🎬 Once Upon a Time in Harlem(Limited)
 UID:20261016-OnceUponaTimeinHarlemLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Fin and Fur Films\nSource: The Numbers
+SUMMARY:🎬 Deep In The Heart 2: A Texas Rivers Story(Limited)
+UID:20260925-DeepInTheHeart2ATexasRiversStoryLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280811
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Flood(Wide)
@@ -1551,9 +1557,9 @@ UID:20260619-UnidentifiedLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Distributor: Zurty Studios\nSource: The Numbers
-SUMMARY:🎬 B-Roll(Wide\, re-release)
-UID:20260619-BRollWidererelease@numbers
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Girls Like Girls(Limited)
+UID:20260619-GirlsLikeGirlsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261218
@@ -2280,6 +2286,12 @@ DTSTART;VALUE=DATE:20281103
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Lunar Chronicles(Wide)
 UID:20281103-TheLunarChroniclesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270129
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Karoshi(Wide)
+UID:20270129-KaroshiWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
