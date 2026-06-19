@@ -1076,6 +1076,12 @@ SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(IMAX)
 UID:20271217-LordoftheRingsTheHuntforGollumIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 Wicker(Wide)
+UID:20261030-WickerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: KVN Productions\nSource: The Numbers
 SUMMARY:🎬 Toxic: A Fairy Tale for Grown-Ups(IMAX)
@@ -1640,6 +1646,12 @@ SUMMARY:🎬 Mysterious Skin(Limited\, re-release)
 UID:20260814-MysteriousSkinLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 UFC 330: Makhachev vs Garry(Special Engagement)
+UID:20260815-UFC330MakhachevvsGarrySpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270205
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 Ice Age: Boiling Point(Wide)
@@ -1998,6 +2010,12 @@ DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Moana(Wide)
 UID:20260710-MoanaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Cocoon: One Summer of Girlhood(Wide)
+UID:20260904-CocoonOneSummerofGirlhoodWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260814
@@ -2606,6 +2624,12 @@ SUMMARY:🎬 Untitled Mike Flanagan Exorcist Film(Wide)
 UID:20270312-UntitledMikeFlanaganExorcistFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
+SUMMARY:🎬 Wicker(Limited)
+UID:20261023-WickerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260617
 DESCRIPTION:Distributor: Netflix\nSource: The Numbers
 SUMMARY:🎬 In the Hand of Dante(Limited)
@@ -2622,12 +2646,6 @@ DTSTART;VALUE=DATE:20261218
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Avengers: Doomsday(Wide)
 UID:20261218-AvengersDoomsdayWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
-SUMMARY:🎬 Wicker(Wide)
-UID:20261231-WickerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280218
