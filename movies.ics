@@ -878,16 +878,16 @@ SUMMARY:🎬 Untitled Nancy Meyers Film(Wide)
 UID:20271225-UntitledNancyMeyersFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270618
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse(IMAX)
-UID:20270618-SpiderManBeyondtheSpiderVerseIMAX@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Watermelon Pictures\nSource: The Numbers
 SUMMARY:🎬 The Promise(Limited)
 UID:20261231-ThePromiseLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270618
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse(IMAX)
+UID:20270618-SpiderManBeyondtheSpiderVerseIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270115
@@ -1532,6 +1532,12 @@ SUMMARY:🎬 Elden Ring(Wide)
 UID:20280303-EldenRingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Adore Him: He is Here(Wide)
+UID:20261004-AdoreHimHeisHereWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Spirited Away(Special Engagement\, re-release)
@@ -2000,6 +2006,12 @@ SUMMARY:🎬 Narnia(IMAX)
 UID:20270212-NarniaIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Giant Pictures\nSource: The Numbers
+SUMMARY:🎬 Mockbuster(Limited)
+UID:20260710-MockbusterLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270917
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -2318,6 +2330,12 @@ SUMMARY:🎬 Frozen III(Wide)
 UID:20271124-FrozenIIIWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Food Roots(Limited)
+UID:20260716-FoodRootsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
 SUMMARY:🎬 Colony(Limited)
@@ -2484,6 +2502,12 @@ DTSTART;VALUE=DATE:20270312
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Mike Flanagan Exorcist Film(Wide)
 UID:20270312-UntitledMikeFlanaganExorcistFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270924
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 Untitled Blair Witch Movie(Wide)
+UID:20270924-UntitledBlairWitchMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
