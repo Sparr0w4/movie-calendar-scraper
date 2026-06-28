@@ -860,6 +860,12 @@ SUMMARY:🎬 The Angry Birds Movie(Limited\, re-release)
 UID:20261113-TheAngryBirdsMovieLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Evangelion: Death (True)2 & Rebirth(Special Engagement)
+UID:20260721-EvangelionDeathTrue2RebirthSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
 SUMMARY:🎬 Spa Weekend(Wide)
@@ -1686,6 +1692,12 @@ DTSTART;VALUE=DATE:20260731
 DESCRIPTION:Distributor: Sandbox Films\nSource: The Numbers
 SUMMARY:🎬 Wild Inside(Limited)
 UID:20260731-WildInsideLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 The End of Evangelion(Special Engagement\, re-release)
+UID:20260722-TheEndofEvangelionSpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
