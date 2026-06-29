@@ -98,12 +98,6 @@ SUMMARY:🎬 Klara and the Sun(Wide)
 UID:20261023-KlaraandtheSunWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 BLEACH: Thousand-Year Blood War — The Calamity(Wide)
-UID:20260625-BLEACHThousandYearBloodWarTheCalamityWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270212
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Nightingale(Wide)
@@ -272,12 +266,6 @@ SUMMARY:🎬 Spider-Man: Brand New Day(Wide)
 UID:20260731-SpiderManBrandNewDayWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Jackass: Best and Last(Wide)
-UID:20260626-JackassBestandLastWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270618
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -366,12 +354,6 @@ DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Independent Film Company\nSource: The Numbers
 SUMMARY:🎬 Untitled IFC Comedy Film(Limited)
 UID:20260828-UntitledIFCComedyFilmLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DESCRIPTION:Distributor: Grasshopper Film\nSource: The Numbers
-SUMMARY:🎬 Mare’s Nest(Limited)
-UID:20260624-MaresNestLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281220
@@ -494,12 +476,6 @@ SUMMARY:🎬 Untitled Pixar Film(Wide)
 UID:20291121-UntitledPixarFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Janus Films\nSource: The Numbers
-SUMMARY:🎬 Romería(Limited)
-UID:20260626-RomeraLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281222
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Sonic the Hedgehog Franchise Film(Wide)
@@ -510,12 +486,6 @@ DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Godzilla x Kong: Supernova(Wide)
 UID:20270326-GodzillaxKongSupernovaWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: MPI Media Group\nSource: The Numbers
-SUMMARY:🎬 Camp(Limited)
-UID:20260626-CampLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280526
@@ -668,12 +638,6 @@ SUMMARY:🎬 California Schemin’(Limited)
 UID:20261002-CaliforniaScheminLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
-SUMMARY:🎬 Jacked(Limited)
-UID:20260626-JackedLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Above the Below(Limited)
@@ -732,12 +696,6 @@ DTSTART;VALUE=DATE:20260911
 DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
 SUMMARY:🎬 The Uprising(Wide)
 UID:20260911-TheUprisingWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Elevation Pictures\nSource: The Numbers
-SUMMARY:🎬 Blood Lines(Limited)
-UID:20260626-BloodLinesLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -1172,12 +1130,6 @@ SUMMARY:🎬 The Rivals of Amziah King(Limited)
 UID:20260814-TheRivalsofAmziahKingLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
-SUMMARY:🎬 The Get Out(Limited)
-UID:20260626-TheGetOutLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
 SUMMARY:🎬 A Talent for Murder(Limited)
@@ -1284,12 +1236,6 @@ DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
 UID:20270115-UntitledBlumhouseEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Seismic Releasing\nSource: The Numbers
-SUMMARY:🎬 Sugar Beach(Limited)
-UID:20260626-SugarBeachLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -1670,12 +1616,6 @@ SUMMARY:🎬 Lords of War(Wide)
 UID:20270205-LordsofWarWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: A24\nSource: The Numbers
-SUMMARY:🎬 The Invite(Limited)
-UID:20260626-TheInviteLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280908
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Gladys(Wide)
@@ -1970,12 +1910,6 @@ SUMMARY:🎬 The End of Oak Street(IMAX)
 UID:20260814-TheEndofOakStreetIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Talladega Nights: The Ballad of Ricky Bobby(Wide\, re-release)
-UID:20260628-TalladegaNightsTheBalladofRickyBobbyWidererelease@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281013
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
@@ -2076,12 +2010,6 @@ DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Hunger Games: Sunrise on the Reaping(Wide)
 UID:20261120-TheHungerGamesSunriseontheReapingWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
-SUMMARY:🎬 Couture(Limited)
-UID:20260626-CoutureLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
@@ -2318,12 +2246,6 @@ SUMMARY:🎬 Sia: Nostalgic for The Present(Special Engagement)
 UID:20260723-SiaNostalgicforThePresentSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Supergirl(Wide)
-UID:20260626-SupergirlWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290720
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
@@ -2354,22 +2276,10 @@ SUMMARY:🎬 The Brink of War(Wide)
 UID:20260814-TheBrinkofWarWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
-SUMMARY:🎬 Bouchra(Limited)
-UID:20260626-BouchraLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Strand Releasing\nSource: The Numbers
-SUMMARY:🎬 Drunken Noodles(Special Engagement)
-UID:20260626-DrunkenNoodlesSpecialEngagement@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Supergirl(IMAX)
-UID:20260626-SupergirlIMAX@numbers
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 ATEEZ : LIGHT THE WAY IN CINEMAS(Special Engagement)
+UID:20260806-ATEEZLIGHTTHEWAYINCINEMASSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271124
@@ -2468,12 +2378,6 @@ SUMMARY:🎬 Only Yesterday(Special Engagement\, re-release)
 UID:20260809-OnlyYesterdaySpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Star Studios\nSource: The Numbers
-SUMMARY:🎬 Welcome to the Jungle(Limited)
-UID:20260626-WelcometotheJungleLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Distributor: Briarcliff Entertainment\nSource: The Numbers
 SUMMARY:🎬 Christmas at the Kringles(Wide)
@@ -2496,12 +2400,6 @@ DTSTART;VALUE=DATE:20260711
 DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
 SUMMARY:🎬 UFC 329: McGregor vs Holloway 2(Special Engagement)
 UID:20260711-UFC329McGregorvsHolloway2SpecialEngagement@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
-SUMMARY:🎬 Lucky Strike(Wide)
-UID:20260626-LuckyStrikeWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271119
@@ -2586,11 +2484,5 @@ DTSTART;VALUE=DATE:20280218
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Grandgear(Wide)
 UID:20280218-GrandgearWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Distributor: Omjee Star Studios\nSource: The Numbers
-SUMMARY:🎬 Carry on Jatta 4(Limited)
-UID:20260626-CarryonJatta4Limited@numbers
 END:VEVENT
 END:VCALENDAR
