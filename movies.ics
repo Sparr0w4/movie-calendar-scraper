@@ -26,6 +26,12 @@ SUMMARY:🎬 Maserati: The Brothers(Wide)
 UID:20261231-MaseratiTheBrothersWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Black Chariot(Limited)
+UID:20260710-BlackChariotLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 A Quiet Place Part III(Wide)
@@ -1818,6 +1824,12 @@ DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
 UID:20271008-UntitledBlumhouseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 40 Years of F**kin Up(Special Engagement)
+UID:20260823-40YearsofFkinUpSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270129
