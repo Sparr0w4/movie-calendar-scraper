@@ -200,12 +200,6 @@ SUMMARY:🎬 Clayface(Wide)
 UID:20261023-ClayfaceWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
-SUMMARY:🎬 Crawlers(Wide)
-UID:20261002-CrawlersWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Day Drinker(Wide)
@@ -362,6 +356,12 @@ SUMMARY:🎬 Untitled IFC Comedy Film(Limited)
 UID:20260828-UntitledIFCComedyFilmLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
+SUMMARY:🎬 Crawlers(Wide)
+UID:20260925-CrawlersWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281220
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
@@ -378,6 +378,12 @@ DTSTART;VALUE=DATE:20270521
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Paranormal Activity Film(Wide)
 UID:20270521-UntitledParanormalActivityFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Rise of the Footsoldier: Retribution(Limited)
+UID:20260828-RiseoftheFootsoldierRetributionLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290615
@@ -644,6 +650,12 @@ SUMMARY:🎬 California Schemin’(Limited)
 UID:20261002-CaliforniaScheminLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 The Invite(Expands Wide)
+UID:20260710-TheInviteExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Above the Below(Limited)
@@ -782,10 +794,10 @@ SUMMARY:🎬 Margie Clause(Wide)
 UID:20271105-MargieClauseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280407
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 The Beatles Cinematic Event: John(Wide)
-UID:20280407-TheBeatlesCinematicEventJohnWide@numbers
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Don’t Look Back in Anger(Wide)
+UID:20260911-DontLookBackinAngerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260717
@@ -804,6 +816,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Attend\nSource: The Numbers
 SUMMARY:🎬 The Token Groomsman(Wide)
 UID:20261231-TheTokenGroomsmanWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280407
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Beatles Cinematic Event: John(Wide)
+UID:20280407-TheBeatlesCinematicEventJohnWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270813
@@ -1004,6 +1022,18 @@ SUMMARY:🎬 The Sun Never Sets(Wide)
 UID:20261231-TheSunNeverSetsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271112
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Tomorrow\, and Tomorrow\, and Tomorrow(Wide)
+UID:20271112-TomorrowandTomorrowandTomorrowWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Passion of the Christ(Wide\, re-release)
+UID:20260910-ThePassionoftheChristWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270219
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Star Wars Ep. IV: A New Hope(Wide\, re-release)
@@ -1182,12 +1212,6 @@ DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Comebacker(Wide)
 UID:20270730-TheComebackerWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Distributor: Neon\nSource: The Numbers
-SUMMARY:🎬 Untitled Neon Film(Wide)
-UID:20260911-UntitledNeonFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -1778,12 +1802,6 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20280526-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Oasis Live ‘25(Wide)
-UID:20260911-OasisLive25Wide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280211
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Heart Eyes 2(Wide)
@@ -2054,6 +2072,12 @@ SUMMARY:🎬 Get Lite(Wide)
 UID:20270409-GetLiteWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
+SUMMARY:🎬 The Hunger Games: Sunrise on the Reaping(IMAX)
+UID:20261120-TheHungerGamesSunriseontheReapingIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
@@ -2082,6 +2106,12 @@ DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Evil Dead Wrath(Wide)
 UID:20280407-EvilDeadWrathWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Distributor: Brainstorm Media\nSource: The Numbers
+SUMMARY:🎬 The Floaters(Limited)
+UID:20260710-TheFloatersLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -2240,6 +2270,18 @@ SUMMARY:🎬 Sia: Nostalgic for The Present(Special Engagement)
 UID:20260723-SiaNostalgicforThePresentSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Your Name(Wide\, re-release)
+UID:20260814-YourNameWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 It Ends(Wide)
+UID:20260911-ItEndsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290720
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
@@ -2271,7 +2313,7 @@ UID:20260814-TheBrinkofWarWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
-DESCRIPTION:Distributor: \nSource: The Numbers
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
 SUMMARY:🎬 ATEEZ : LIGHT THE WAY IN CINEMAS(Special Engagement)
 UID:20260806-ATEEZLIGHTTHEWAYINCINEMASSpecialEngagement@numbers
 END:VEVENT
@@ -2424,6 +2466,12 @@ DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
 SUMMARY:🎬 Sight & Sound Presents: JOSHUA Live!(Wide)
 UID:20261030-SightSoundPresentsJOSHUALiveWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260818
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Texas Chainsaw Massacre(Wide\, re-release)
+UID:20260818-TheTexasChainsawMassacreWidererelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
