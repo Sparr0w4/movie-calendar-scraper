@@ -188,6 +188,12 @@ SUMMARY:🎬 Clayface(Wide)
 UID:20261023-ClayfaceWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: MUBI\nSource: The Numbers
+SUMMARY:🎬 Fatherland(Limited)
+UID:20261023-FatherlandLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Day Drinker(Wide)
@@ -348,6 +354,12 @@ DTSTART;VALUE=DATE:20281220
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
 UID:20281220-UntitledUniversalEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Sumerian\nSource: The Numbers
+SUMMARY:🎬 The Incomer(Limited)
+UID:20260925-TheIncomerLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270122
@@ -1202,6 +1214,12 @@ SUMMARY:🎬 Finding Emily(Wide)
 UID:20260828-FindingEmilyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
+SUMMARY:🎬 Musk(Limited)
+UID:20261016-MuskLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270409
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Revenge of La Llorona(Wide)
@@ -1488,6 +1506,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Firebrand Media\nSource: The Numbers
 SUMMARY:🎬 Desert Road(Limited)
 UID:20261231-DesertRoadLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Gentleman Thief(Limited)
+UID:20260731-TheGentlemanThiefLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280630
@@ -1922,6 +1946,12 @@ SUMMARY:🎬 It’s a Wonderful Life(Limited\, re-release)
 UID:20261218-ItsaWonderfulLifeLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270409
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Boys for Life(Wide)
+UID:20270409-BoysforLifeWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260917
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 The Transformers: The Movie(Wide\, re-release)
@@ -2340,12 +2370,6 @@ DTSTART;VALUE=DATE:20271022
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Warner Bros. Comedy Event Film(Wide)
 UID:20271022-UntitledWarnerBrosComedyEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Sumerian\nSource: The Numbers
-SUMMARY:🎬 The Incomer(Limited)
-UID:20261231-TheIncomerLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
