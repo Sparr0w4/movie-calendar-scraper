@@ -404,6 +404,12 @@ SUMMARY:🎬 The Magic Faraway Tree(Limited)
 UID:20260821-TheMagicFarawayTreeLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Ghost: 2 Big to Rig(Wide)
+UID:20260826-Ghost2BigtoRigWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260814
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 PAW Patrol: The Dino Movie(Wide)
@@ -414,6 +420,12 @@ DTSTART;VALUE=DATE:20260724
 DESCRIPTION:Distributor: Variance Films\nSource: The Numbers
 SUMMARY:🎬 Haunted Heist(Limited)
 UID:20260724-HauntedHeistLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Avatar Aang: The Last Airbender(Oscar Qualifying Run)
+UID:20260724-AvatarAangTheLastAirbenderOscarQualifyingRun@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
@@ -450,6 +462,12 @@ DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 The Beekeeper 2(Wide)
 UID:20270115-TheBeekeeper2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Ghost: 2 Big to Rig(IMAX)
+UID:20260826-Ghost2BigtoRigIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281122
@@ -728,12 +746,6 @@ SUMMARY:🎬 Avatar 5(Wide)
 UID:20311219-Avatar5Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:Distributor: Rich Spirit\nSource: The Numbers
-SUMMARY:🎬 If I Go Will They Miss Me(Limited)
-UID:20260926-IfIGoWillTheyMissMeLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
 SUMMARY:🎬 Legend of the White Dragon(Limited)
@@ -786,6 +798,12 @@ DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Children of Blood and Bone(Wide)
 UID:20270115-ChildrenofBloodandBoneWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Hell’s Highway: The True Story of Highway Safety Films(Limited\, re-release)
+UID:20260731-HellsHighwayTheTrueStoryofHighwaySafetyFilmsLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271105
@@ -932,6 +950,12 @@ SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
 UID:20270716-UntitledWarnerBrosEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:Distributor: VRC\nSource: The Numbers
+SUMMARY:🎬 Borderline(Limited)
+UID:20260717-BorderlineLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271217
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(Wide)
@@ -1002,12 +1026,6 @@ DTSTART;VALUE=DATE:20260807
 DESCRIPTION:Distributor: Eastern Edge Films\nSource: The Numbers
 SUMMARY:🎬 Mr. Hero(Limited)
 UID:20260807-MrHeroLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270717
-DESCRIPTION:Distributor: VRC\nSource: The Numbers
-SUMMARY:🎬 Borderline(Limited)
-UID:20270717-BorderlineLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271217
@@ -1394,12 +1412,6 @@ SUMMARY:🎬 Wolf Creek: Legacy(Wide)
 UID:20270319-WolfCreekLegacyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
-SUMMARY:🎬 Untitled Vertical Family Movie(Wide)
-UID:20260821-UntitledVerticalFamilyMovieWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled DC Event Film(Wide)
@@ -1488,6 +1500,12 @@ DTSTART;VALUE=DATE:20261204
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Violent Night 2(Wide)
 UID:20261204-ViolentNight2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Rich Spirit\nSource: The Numbers
+SUMMARY:🎬 If I Go Will They Miss Me(Limited)
+UID:20260911-IfIGoWillTheyMissMeLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270219
@@ -2478,6 +2496,12 @@ DTSTART;VALUE=DATE:20260911
 DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
 SUMMARY:🎬 Black Zombie(Limited)
 UID:20260911-BlackZombieLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Atonement(Limited)
+UID:20261231-AtonementLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
