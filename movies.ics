@@ -692,6 +692,12 @@ SUMMARY:🎬 Untitled Universal Event Film(Wide)
 UID:20270402-UntitledUniversalEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 Boyhood(Limited\, re-release)
+UID:20260731-BoyhoodLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260720
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Splash City(Limited)
@@ -732,6 +738,12 @@ DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
 SUMMARY:🎬 The Scout(Limited)
 UID:20261231-TheScoutLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Terminator 2: Judgment Day(Limited\, re-release)
+UID:20260828-Terminator2JudgmentDayLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270423
