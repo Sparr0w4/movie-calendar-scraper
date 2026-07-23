@@ -602,6 +602,12 @@ SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20300703-UntitledIlluminationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 The Scout(Limited)
+UID:20260925-TheScoutLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270820
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Get Lite(Wide)
@@ -776,12 +782,6 @@ SUMMARY:🎬 Donkey(Wide)
 UID:20280630-DonkeyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
-SUMMARY:🎬 The Scout(Limited)
-UID:20261231-TheScoutLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Terminator 2: Judgment Day(Limited\, re-release)
@@ -837,7 +837,7 @@ UID:20280707-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Distributor: Indican Pictures\nSource: The Numbers
+DESCRIPTION:Distributor: Aero Films\nSource: The Numbers
 SUMMARY:🎬 Terrestrial(Limited)
 UID:20260731-TerrestrialLimited@numbers
 END:VEVENT
@@ -2376,6 +2376,12 @@ DTSTART;VALUE=DATE:20260807
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 One Night Only(Wide)
 UID:20260807-OneNightOnlyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: Rialto Pictures\nSource: The Numbers
+SUMMARY:🎬 Manhunter: The Final Cut(Limited\, re-release)
+UID:20260724-ManhunterTheFinalCutLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
