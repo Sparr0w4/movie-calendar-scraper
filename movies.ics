@@ -38,6 +38,12 @@ SUMMARY:🎬 Whitney Springs(Wide)
 UID:20261231-WhitneySpringsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: Several Futures\nSource: The Numbers
+SUMMARY:🎬 Lost Chapters(Limited)
+UID:20260724-LostChaptersLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290216
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -162,6 +168,12 @@ DTSTART;VALUE=DATE:20280331
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20280331-UntitledDisneyFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 Evangelion: Death (True)2 & Rebirth(Wide)
+UID:20260721-EvangelionDeathTrue2RebirthWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
@@ -878,6 +890,12 @@ SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse(Wide)
 UID:20270618-SpiderManBeyondtheSpiderVerseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 2026 Cortis Tour <Put Your Phone Down> in L.A.: Live Viewing from Los Angeles(Special Engagement)
+UID:20260813-2026CortisTourPutYourPhoneDowninLALiveViewingfromLosAngelesSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271001
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Great Beyond(Wide)
@@ -938,16 +956,16 @@ SUMMARY:🎬 The Angry Birds Movie(Limited\, re-release)
 UID:20261113-TheAngryBirdsMovieLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
-SUMMARY:🎬 Evangelion: Death (True)2 & Rebirth(Special Engagement)
-UID:20260721-EvangelionDeathTrue2RebirthSpecialEngagement@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:Distributor: Black Bear Pictures\nSource: The Numbers
 SUMMARY:🎬 Spa Weekend(Wide)
 UID:20260821-SpaWeekendWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Distributor: Brainstorm Media\nSource: The Numbers
+SUMMARY:🎬 Big Baby(Limited)
+UID:20260723-BigBabyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
@@ -1172,6 +1190,12 @@ SUMMARY:🎬 Late Fame(Limited)
 UID:20260807-LateFameLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
+SUMMARY:🎬 The End of Evangelion(Wide\, re-release)
+UID:20260722-TheEndofEvangelionWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: \nSource: The Numbers
 SUMMARY:🎬 Nutmeg & Mistletoe(Limited)
@@ -1394,6 +1418,12 @@ SUMMARY:🎬 Barbara Forever(Limited)
 UID:20260904-BarbaraForeverLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: Zee Studios\nSource: The Numbers
+SUMMARY:🎬 The India Story(Limited)
+UID:20260724-TheIndiaStoryLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
@@ -1406,10 +1436,10 @@ SUMMARY:🎬 Breeder(Limited)
 UID:20261231-BreederLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271225
-DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
-SUMMARY:🎬 Animal Crackers 2: The Next Batch(Wide)
-UID:20271225-AnimalCrackers2TheNextBatchWide@numbers
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Distributor: September Club\nSource: The Numbers
+SUMMARY:🎬 Ueck(Limited)
+UID:20260723-UeckLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
@@ -1418,10 +1448,10 @@ SUMMARY:🎬 The Dog Stars(IMAX)
 UID:20260828-TheDogStarsIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280519
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Miami Vice ‘85(IMAX)
-UID:20280519-MiamiVice85IMAX@numbers
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
+SUMMARY:🎬 Animal Crackers 2: The Next Batch(Wide)
+UID:20271225-AnimalCrackers2TheNextBatchWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270611
@@ -1458,6 +1488,12 @@ DTSTART;VALUE=DATE:20270924
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Dreamworks Animation Event Film(Wide)
 UID:20270924-UntitledDreamworksAnimationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280519
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Miami Vice ‘85(IMAX)
+UID:20280519-MiamiVice85IMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270604
@@ -1844,10 +1880,10 @@ SUMMARY:🎬 The Birthday Party(Limited)
 UID:20260814-TheBirthdayPartyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
-SUMMARY:🎬 The End of Evangelion(Special Engagement\, re-release)
-UID:20260722-TheEndofEvangelionSpecialEngagementrerelease@numbers
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Distributor: Sandbox Films\nSource: The Numbers
+SUMMARY:🎬 Wild Inside(Limited)
+UID:20260731-WildInsideLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -1904,12 +1940,6 @@ SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
 UID:20270312-UntitledWarnerBrosEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:Distributor: Sandbox Films\nSource: The Numbers
-SUMMARY:🎬 Wild Inside(Limited)
-UID:20260729-WildInsideLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Ebenezer: A Christmas Carol(Wide)
@@ -1964,6 +1994,12 @@ SUMMARY:🎬 Untitled Blumhouse Event Film(Wide)
 UID:20270813-UntitledBlumhouseEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: Obscured Releasing\nSource: The Numbers
+SUMMARY:🎬 The Big Cheese(Limited)
+UID:20260807-TheBigCheeseLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270813
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
@@ -1998,6 +2034,12 @@ DTSTART;VALUE=DATE:20270910
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Conjuring: First Communion(Wide)
 UID:20270910-TheConjuringFirstCommunionWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Distributor: Strand Releasing\nSource: The Numbers
+SUMMARY:🎬 Jimmy(Limited)
+UID:20260731-JimmyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280525
@@ -2216,6 +2258,18 @@ SUMMARY:🎬 November 1963(Wide)
 UID:20261231-November1963Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 The Piano(Limited\, re-release)
+UID:20260724-ThePianoLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 White Nights(Limited\, re-release)
+UID:20260724-WhiteNightsLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Hunger Games: Sunrise on the Reaping(IMAX)
@@ -2226,6 +2280,12 @@ DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
 UID:20271008-UntitledCineverseHorrorFranchiseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DESCRIPTION:Distributor: Prime Media Pictures\nSource: The Numbers
+SUMMARY:🎬 Jana Nayagan(Limited)
+UID:20260722-JanaNayaganLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
@@ -2346,6 +2406,12 @@ DTSTART;VALUE=DATE:20260723
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Bad Counselors(Wide)
 UID:20260723-BadCounselorsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Distributor: Zee Studios\nSource: The Numbers
+SUMMARY:🎬 Sathyavin Savithri(Limited)
+UID:20260724-SathyavinSavithriLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260904
@@ -2550,6 +2616,12 @@ DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
 UID:20291221-UntitledUniversalEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
+SUMMARY:🎬 Center Stage(Limited\, re-release)
+UID:20260807-CenterStageLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
