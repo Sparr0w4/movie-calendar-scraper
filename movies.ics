@@ -536,10 +536,22 @@ SUMMARY:🎬 Zac Power(Wide)
 UID:20271225-ZacPowerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Greenwich\nSource: The Numbers
+SUMMARY:🎬 Queen at Sea(Limited)
+UID:20261030-QueenatSeaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Thanksgiving 2(Wide)
 UID:20261231-Thanksgiving2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Searchlight Pictures\nSource: The Numbers
+SUMMARY:🎬 Behemoth!(Limited)
+UID:20261204-BehemothLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270326
@@ -674,6 +686,12 @@ SUMMARY:🎬 The Thomas Crown Affair(Wide)
 UID:20270305-TheThomasCrownAffairWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Awarapan 2(Limited)
+UID:20260814-Awarapan2Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
 SUMMARY:🎬 Buzzkill(Wide)
@@ -744,6 +762,12 @@ DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Dark Passage Films\nSource: The Numbers
 SUMMARY:🎬 Plucked(Limited)
 UID:20261113-PluckedLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Elsinore(Wide)
+UID:20261130-ElsinoreWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280630
@@ -1064,6 +1088,12 @@ SUMMARY:🎬 The Haunting in Wicker Park(Wide)
 UID:20261231-TheHauntinginWickerParkWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Beware Boiúna(Limited)
+UID:20261002-BewareBoinaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271112
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Tomorrow\, and Tomorrow\, and Tomorrow(Wide)
@@ -1274,12 +1304,6 @@ SUMMARY:🎬 Musk(Limited)
 UID:20261016-MuskLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
-SUMMARY:🎬 Elsinore(Wide)
-UID:20261231-ElsinoreWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Coco 2(Wide)
@@ -1290,6 +1314,12 @@ DTSTART;VALUE=DATE:20280317
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Fast Forever(Wide)
 UID:20280317-FastForeverWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
+SUMMARY:🎬 Hanging by a Wire(Limited)
+UID:20260828-HangingbyaWireLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270730
@@ -1544,6 +1574,12 @@ SUMMARY:🎬 Untitled Neon Horror Film(Wide)
 UID:20270219-UntitledNeonHorrorFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271105
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Naughty(Wide)
+UID:20271105-NaughtyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270205
 DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
 SUMMARY:🎬 Lice(Wide)
@@ -1590,6 +1626,12 @@ DTSTART;VALUE=DATE:20261101
 DESCRIPTION:Distributor: Fathom Events\nSource: The Numbers
 SUMMARY:🎬 V for Vendetta(Special Engagement\, re-release)
 UID:20261101-VforVendettaSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Zero A.D.(Wide)
+UID:20261211-ZeroADWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270226
@@ -2106,12 +2148,6 @@ DTSTART;VALUE=DATE:20270226
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Live Like That(Wide)
 UID:20270226-LiveLikeThatWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261225
-DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
-SUMMARY:🎬 Zero A.D.(Wide)
-UID:20261225-ZeroADWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280414
