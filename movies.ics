@@ -176,6 +176,12 @@ SUMMARY:🎬 Day Drinker(Wide)
 UID:20270326-DayDrinkerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
+SUMMARY:🎬 Tom and Jerry: Forbidden Compass(Wide)
+UID:20260904-TomandJerryForbiddenCompassWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Neon\nSource: The Numbers
 SUMMARY:🎬 Paper Tiger(Limited)
@@ -908,6 +914,12 @@ SUMMARY:🎬 Spa Weekend(Wide)
 UID:20260821-SpaWeekendWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DESCRIPTION:Distributor: Cinema Public Films\nSource: The Numbers
+SUMMARY:🎬 Le Monde à l’envers(Limited)
+UID:20261007-LeMondelenversLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 Your Mother\, Your Mother\, Your Mother(Limited)
@@ -984,12 +996,6 @@ DTSTART;VALUE=DATE:20261023
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Wildwood(Wide)
 UID:20261023-WildwoodWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
-SUMMARY:🎬 Tom and Jerry: Forbidden Compass(Wide)
-UID:20260909-TomandJerryForbiddenCompassWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -2466,6 +2472,12 @@ DTSTART;VALUE=DATE:20271022
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Warner Bros. Comedy Event Film(Wide)
 UID:20271022-UntitledWarnerBrosComedyEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270108
+DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
+SUMMARY:🎬 Harmonia(Limited)
+UID:20270108-HarmoniaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
