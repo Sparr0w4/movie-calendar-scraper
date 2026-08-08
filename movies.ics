@@ -914,12 +914,6 @@ SUMMARY:🎬 Margie Clause(Wide)
 UID:20271105-MargieClauseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Don’t Look Back in Anger(Wide)
-UID:20260911-DontLookBackinAngerWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Beatles Cinematic Event: John(Wide)
@@ -986,10 +980,10 @@ SUMMARY:🎬 Beyond Belief(Limited)
 UID:20260828-BeyondBeliefLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271225
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Untitled Nancy Meyers Film(Wide)
-UID:20271225-UntitledNancyMeyersFilmWide@numbers
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Blue Harbor Entertainment\nSource: The Numbers
+SUMMARY:🎬 American Summer(Limited)
+UID:20260904-AmericanSummerLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -1002,6 +996,12 @@ DTSTART;VALUE=DATE:20270618
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse(IMAX)
 UID:20270618-SpiderManBeyondtheSpiderVerseIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Untitled Nancy Meyers Film(Wide)
+UID:20271225-UntitledNancyMeyersFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271001
@@ -2600,6 +2600,12 @@ SUMMARY:🎬 Chronovisor(Limited)
 UID:20260904-ChronovisorLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Distributor: Rialto Pictures\nSource: The Numbers
+SUMMARY:🎬 Billy Liar(Limited\, re-release)
+UID:20260814-BillyLiarLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
 SUMMARY:🎬 Colony(Limited)
@@ -2718,6 +2724,12 @@ DTSTART;VALUE=DATE:20260830
 DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
 SUMMARY:🎬 The Last Blossom(Special Engagement)
 UID:20260830-TheLastBlossomSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 Oasis: Don’t Look Back in Anger(Wide)
+UID:20260911-OasisDontLookBackinAngerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270716
