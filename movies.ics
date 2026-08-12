@@ -296,6 +296,12 @@ SUMMARY:🎬 The Batman: Part II(Wide)
 UID:20280218-TheBatmanPartIIWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270507
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 Beach Read(Wide)
+UID:20270507-BeachReadWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
 DESCRIPTION:Distributor: Ketchup Entertainment\nSource: The Numbers
 SUMMARY:🎬 Rolling Loud(Wide)
@@ -486,6 +492,12 @@ DTSTART;VALUE=DATE:20260926
 DESCRIPTION:Distributor: Quiver\nSource: The Numbers
 SUMMARY:🎬 The Last Temptation of Becky(Limited)
 UID:20260926-TheLastTemptationofBeckyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: Hades Films\nSource: The Numbers
+SUMMARY:🎬 The Influencer Project(Limited)
+UID:20261002-TheInfluencerProjectLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291121
@@ -1356,6 +1368,12 @@ DTSTART;VALUE=DATE:20260918
 DESCRIPTION:Distributor: Magnolia Pictures\nSource: The Numbers
 SUMMARY:🎬 The History of Concrete(Limited)
 UID:20260918-TheHistoryofConcreteLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Distributor: Republic Pictures\nSource: The Numbers
+SUMMARY:🎬 Bad Apples(Wide)
+UID:20260918-BadApplesWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
