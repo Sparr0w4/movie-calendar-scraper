@@ -2012,6 +2012,12 @@ SUMMARY:🎬 The Conjuring: First Communion(Wide)
 UID:20270910-TheConjuringFirstCommunionWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 Untitled Iconic Events Musical(Special Engagement)
+UID:20261008-UntitledIconicEventsMusicalSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280525
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Resurrection of the Christ: Part Two(Wide)
