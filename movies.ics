@@ -128,6 +128,12 @@ SUMMARY:🎬 I Play Rocky(Limited)
 UID:20261106-IPlayRockyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 A Fox Under a Pink Moon(Limited)
+UID:20261225-AFoxUnderaPinkMoonLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Runner(Wide)
@@ -432,6 +438,12 @@ DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
 SUMMARY:🎬 Crawlers(Wide)
 UID:20261016-CrawlersWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 SB19 Wakas at Simula: The Trilogy Concert Finale In Cinemas(Special Engagement)
+UID:20261008-SB19WakasatSimulaTheTrilogyConcertFinaleInCinemasSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
@@ -1938,12 +1950,6 @@ DTSTART;VALUE=DATE:20270910
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Conjuring: First Communion(Wide)
 UID:20270910-TheConjuringFirstCommunionWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
-SUMMARY:🎬 Untitled Iconic Events Musical(Special Engagement)
-UID:20261008-UntitledIconicEventsMusicalSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280525
