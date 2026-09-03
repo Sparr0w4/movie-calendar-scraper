@@ -116,6 +116,12 @@ SUMMARY:🎬 Bluey The Movie(Wide)
 UID:20270806-BlueyTheMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
+SUMMARY:🎬 The Work in Progress(Limited)
+UID:20260904-TheWorkinProgressLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260918
 DESCRIPTION:Distributor: Assembly Releasing\nSource: The Numbers
 SUMMARY:🎬 The Oldest Person in the World(Limited)
@@ -542,16 +548,22 @@ SUMMARY:🎬 Untitled Universal Event Film(Wide)
 UID:20280714-UntitledUniversalEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270312
-DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
-SUMMARY:🎬 The Chosen Crucifixion(Wide)
-UID:20270312-TheChosenCrucifixionWide@numbers
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Guilder Cinema Group\nSource: The Numbers
+SUMMARY:🎬 You Can’t Leave(Limited)
+UID:20261016-YouCantLeaveLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Princess Mononoke(Special Engagement\, re-release)
 UID:20260926-PrincessMononokeSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270312
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 The Chosen Crucifixion(Wide)
+UID:20270312-TheChosenCrucifixionWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
@@ -1046,6 +1058,12 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20280811-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Always Lalisa(Special Engagement)
+UID:20261012-AlwaysLalisaSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270709
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Man of Tomorrow(IMAX)
@@ -1184,6 +1202,12 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20290803-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Arsa(Limited)
+UID:20260918-ArsaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Gatto(Wide)
@@ -1278,6 +1302,12 @@ DTSTART;VALUE=DATE:20261127
 DESCRIPTION:Distributor: Shudder\nSource: The Numbers
 SUMMARY:🎬 The Holy Boy(Limited)
 UID:20261127-TheHolyBoyLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Always Lalisa(IMAX)
+UID:20261012-AlwaysLalisaIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
@@ -1436,12 +1466,6 @@ SUMMARY:🎬 Wolf Creek: Legacy(Wide)
 UID:20270319-WolfCreekLegacyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Distributor: Rialto Pictures\nSource: The Numbers
-SUMMARY:🎬 April X(Limited)
-UID:20260918-AprilXLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled DC Event Film(Wide)
@@ -1452,6 +1476,12 @@ DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Dr. Seuss’ The Cat in the Hat(Wide)
 UID:20261106-DrSeussTheCatintheHatWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: Rialto Pictures\nSource: The Numbers
+SUMMARY:🎬 April X(Limited)
+UID:20261002-AprilXLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -2120,6 +2150,12 @@ SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20280414-UntitledIlluminationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Cohen Media Group\nSource: The Numbers
+SUMMARY:🎬 Everybody Digs Bill Evans(Oscar Qualifying Run)
+UID:20261204-EverybodyDigsBillEvansOscarQualifyingRun@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270604
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Skeletons(Wide)
@@ -2172,6 +2208,12 @@ DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Distributor: Cohen Media Group\nSource: The Numbers
 SUMMARY:🎬 Winter of the Crow(Limited)
 UID:20261009-WinteroftheCrowLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 4 Kids Walk Into a Bank(Wide)
+UID:20261225-4KidsWalkIntoaBankWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
