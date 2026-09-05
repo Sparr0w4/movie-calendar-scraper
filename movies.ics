@@ -344,6 +344,12 @@ SUMMARY:🎬 The Batman: Part II(Wide)
 UID:20280218-TheBatmanPartIIWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: PVR INOX Pictures\nSource: The Numbers
+SUMMARY:🎬 Dharmasthala Niyojakavargam(Limited)
+UID:20260904-DharmasthalaNiyojakavargamLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270507
 DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
 SUMMARY:🎬 Beach Read(Wide)
@@ -432,6 +438,12 @@ DTSTART;VALUE=DATE:20260902
 DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
 SUMMARY:🎬 Katy Perry: The Lifetimes Tour: Live From Paris(Wide)
 UID:20260902-KatyPerryTheLifetimesTourLiveFromParisWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Quiver\nSource: The Numbers
+SUMMARY:🎬 Virginia Woolf’s Night & Day(Limited)
+UID:20260904-VirginiaWoolfsNightDayLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
@@ -1346,6 +1358,12 @@ SUMMARY:🎬 The Holy Boy(Limited)
 UID:20261127-TheHolyBoyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Mockingbird Pictures\nSource: The Numbers
+SUMMARY:🎬 Lau Chu Hoa: The Deadliest Mansion(Limited)
+UID:20260904-LauChuHoaTheDeadliestMansionLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261012
 DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
 SUMMARY:🎬 Always Lalisa(IMAX)
@@ -1494,6 +1512,12 @@ DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Distributor: Searchlight Pictures\nSource: The Numbers
 SUMMARY:🎬 Wild Horse Nine(Wide)
 UID:20261106-WildHorseNineWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Excel Entertainment\nSource: The Numbers
+SUMMARY:🎬 Mirzapur: The Movie(Limited)
+UID:20260904-MirzapurTheMovieLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270219
@@ -2024,6 +2048,12 @@ SUMMARY:🎬 The Conjuring: First Communion(Wide)
 UID:20270910-TheConjuringFirstCommunionWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 Sahaa: Life of Sanju(Limited)
+UID:20260904-SahaaLifeofSanjuLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280525
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Resurrection of the Christ: Part Two(Wide)
@@ -2034,6 +2064,12 @@ DTSTART;VALUE=DATE:20260911
 DESCRIPTION:Distributor: Omjee Star Studios\nSource: The Numbers
 SUMMARY:🎬 Singh vs Kaur 2(Limited)
 UID:20260911-SinghvsKaur2Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Akira(IMAX\, re-release)
+UID:20260904-AkiraIMAXrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260918
@@ -2052,6 +2088,12 @@ DTSTART;VALUE=DATE:20270129
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 The Rescue(Wide)
 UID:20270129-TheRescueWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Artifact Studios\nSource: The Numbers
+SUMMARY:🎬 Brailled It(Limited)
+UID:20260904-BrailledItLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261218
@@ -2588,6 +2630,12 @@ SUMMARY:🎬 The Beatles Cinematic Event: George(Wide)
 UID:20280407-TheBeatlesCinematicEventGeorgeWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Marketa Lazarová(Limited)
+UID:20260904-MarketaLazarovLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280204
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Murder\, She Wrote(Wide)
@@ -2652,6 +2700,12 @@ DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
 SUMMARY:🎬 Breeder(Limited)
 UID:20261225-BreederLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Distributor: Rhythm Boyz Entertainment\nSource: The Numbers
+SUMMARY:🎬 Bol Bhavein Na Bol(Limited)
+UID:20260904-BolBhaveinNaBolLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
