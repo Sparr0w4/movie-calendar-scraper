@@ -14,6 +14,12 @@ SUMMARY:🎬 Untitled Marvel Movie(Wide)
 UID:20290504-UntitledMarvelMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
+SUMMARY:🎬 Jump Scare(Limited)
+UID:20261030-JumpScareLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271119
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Event Film Directed by Daniels(Wide)
@@ -32,10 +38,22 @@ SUMMARY:🎬 A Quiet Place Part III(Wide)
 UID:20270730-AQuietPlacePartIIIWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
+SUMMARY:🎬 The Weird Kidz(Limited)
+UID:20261023-TheWeirdKidzLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
 SUMMARY:🎬 Bitter Christmas(Expands Wide)
 UID:20261125-BitterChristmasExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
+SUMMARY:🎬 Lemonade Blessing(Limited)
+UID:20271225-LemonadeBlessingLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290216
@@ -482,6 +500,12 @@ SUMMARY:🎬 I Play Rocky(Expands Wide)
 UID:20261120-IPlayRockyExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 You Can See Everything(Limited)
+UID:20261030-YouCanSeeEverythingLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270205
 DESCRIPTION:Distributor: Strand Releasing\nSource: The Numbers
 SUMMARY:🎬 Trial of Hein(Limited)
@@ -728,6 +752,12 @@ SUMMARY:🎬 The Route to Cappyness(Limited)
 UID:20260919-TheRoutetoCappynessLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 Bedford Park(Limited)
+UID:20271225-BedfordParkLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Firebrand Media\nSource: The Numbers
 SUMMARY:🎬 Desert Road(Limited)
@@ -764,12 +794,6 @@ SUMMARY:🎬 Daniel and the Fiery Furnace(Wide)
 UID:20260918-DanielandtheFieryFurnaceWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Distributor: \nSource: The Numbers
-SUMMARY:🎬 Master and Margarita(Limited)
-UID:20260918-MasterandMargaritaLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281215
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Black Panther 3(Wide)
@@ -798,6 +822,12 @@ DTSTART;VALUE=DATE:20261023
 DESCRIPTION:Distributor: Netflix\nSource: The Numbers
 SUMMARY:🎬 Possible Love(Limited)
 UID:20261023-PossibleLoveLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Netflix\nSource: The Numbers
+SUMMARY:🎬 The Mosquito Bowl(Limited)
+UID:20261030-TheMosquitoBowlLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
@@ -884,12 +914,6 @@ SUMMARY:🎬 Children of Blood and Bone(Wide)
 UID:20270115-ChildrenofBloodandBoneWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271105
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Margie Clause(Wide)
-UID:20271105-MargieClauseWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Beatles Cinematic Event: John(Wide)
@@ -920,6 +944,12 @@ SUMMARY:🎬 The Last Temptation of Becky(Limited)
 UID:20260930-TheLastTemptationofBeckyLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271112
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Margie Clause(Wide)
+UID:20271112-MargieClauseWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261007
 DESCRIPTION:Distributor: Cinema Public Films\nSource: The Numbers
 SUMMARY:🎬 Le Monde à l’envers(Limited)
@@ -942,6 +972,12 @@ DTSTART;VALUE=DATE:20270709
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Man of Tomorrow(Wide)
 UID:20270709-ManofTomorrowWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
+SUMMARY:🎬 This is Buzz(Limited)
+UID:20261023-ThisisBuzzLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
@@ -1766,6 +1802,12 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20270402-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270129
+DESCRIPTION:Distributor: Luminosity Entertainment\nSource: The Numbers
+SUMMARY:🎬 Master and Margarita(Limited)
+UID:20270129-MasterandMargaritaLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280804
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
@@ -2054,6 +2096,12 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20291109-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
+SUMMARY:🎬 67 Bombs to Enid(Limited)
+UID:20261104-67BombstoEnidLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270226
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Live Like That(Wide)
@@ -2228,6 +2276,12 @@ SUMMARY:🎬 Untitled Warner Bros. Family Sequel(Wide)
 UID:20271225-UntitledWarnerBrosFamilySequelWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Neon\nSource: The Numbers
+SUMMARY:🎬 Artificial(Wide)
+UID:20261225-ArtificialWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261211
 DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
 SUMMARY:🎬 George Michael: The Faith Tour(Wide)
@@ -2276,6 +2330,12 @@ SUMMARY:🎬 Appofeniacs(Limited)
 UID:20261002-AppofeniacsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
+SUMMARY:🎬 In the Mouth(Limited)
+UID:20261113-IntheMouthLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280114
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Longlegs(Wide)
@@ -2316,12 +2376,6 @@ DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Street Fighter(IMAX)
 UID:20261016-StreetFighterIMAX@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
-SUMMARY:🎬 Bedford Park(Limited)
-UID:20260922-BedfordParkLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
