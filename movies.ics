@@ -776,6 +776,12 @@ SUMMARY:🎬 Wishful Thinking(Wide)
 UID:20270212-WishfulThinkingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Greenwich Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Friend’s House is Here(Limited)
+UID:20261204-TheFriendsHouseisHereLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Samuel Goldwyn Films\nSource: The Numbers
 SUMMARY:🎬 Merry Christmas Aubrey Flint(Limited)
@@ -846,6 +852,12 @@ DTSTART;VALUE=DATE:20281215
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Black Panther 3(Wide)
 UID:20281215-BlackPanther3Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Ozzy and Black Sabbath: Back to the Beginning(Special Engagement)
+UID:20261028-OzzyandBlackSabbathBacktotheBeginningSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
@@ -1262,6 +1274,12 @@ SUMMARY:🎬 Untitled X-Men Movie(Wide)
 UID:20280505-UntitledXMenMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Distributor: Stage 8 FilmWorks Inc.\nSource: The Numbers
+SUMMARY:🎬 Mitti de Putt(Limited)
+UID:20260918-MittidePuttLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
 SUMMARY:🎬 Bitter Christmas(Limited)
@@ -1494,12 +1512,6 @@ DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Dr. Seuss’ The Cat in the Hat(Wide)
 UID:20261106-DrSeussTheCatintheHatWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Distributor: Rialto Pictures\nSource: The Numbers
-SUMMARY:🎬 April X(Limited)
-UID:20261002-AprilXLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -1910,16 +1922,22 @@ SUMMARY:🎬 You Had to Be There: How the Toronto Godspell Ignited the Comedy Re
 UID:20260918-YouHadtoBeThereHowtheTorontoGodspellIgnitedtheComedyRevolutionSpreadLoveOverallsandCreatedaCommunityThatChangedtheWorldinaCanadianKindofWayLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261224
-DESCRIPTION:Distributor: Red Chillies Entertainment\nSource: The Numbers
-SUMMARY:🎬 King(Limited)
-UID:20261224-KingLimited@numbers
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: Ahoy Associates Entertainment\nSource: The Numbers
+SUMMARY:🎬 April X(Wide)
+UID:20261002-AprilXWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 Verity(Wide)
 UID:20261002-VerityWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+DESCRIPTION:Distributor: Red Chillies Entertainment\nSource: The Numbers
+SUMMARY:🎬 King(Limited)
+UID:20261224-KingLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
@@ -1980,6 +1998,12 @@ DTSTART;VALUE=DATE:20270910
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Conjuring: First Communion(Wide)
 UID:20270910-TheConjuringFirstCommunionWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Distributor: Stage 8 FilmWorks Inc.\nSource: The Numbers
+SUMMARY:🎬 Tutt Paini English Ne(Limited)
+UID:20260925-TuttPainiEnglishNeLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280525
@@ -2420,6 +2444,12 @@ SUMMARY:🎬 Victorian Psycho(Wide)
 UID:20261113-VictorianPsychoWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271112
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Seasons(Wide)
+UID:20271112-SeasonsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280331
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Tangled(Wide)
@@ -2472,6 +2502,12 @@ DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Old Man in the Dunes(Wide)
 UID:20261225-OldManintheDunesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Rammstein: Live in Mexico City(Special Engagement)
+UID:20261104-RammsteinLiveinMexicoCitySpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271124
