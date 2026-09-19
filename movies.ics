@@ -248,12 +248,6 @@ SUMMARY:🎬 NCT 127 5th Tour ‘Neo City: Seoul — The Redline’ in Cinemas(S
 UID:20260920-NCT1275thTourNeoCitySeoulTheRedlineinCinemasSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270903
-DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
-SUMMARY:🎬 The Simpsons Movie 2(Wide)
-UID:20270903-TheSimpsonsMovie2Wide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:Distributor: Strand Releasing\nSource: The Numbers
 SUMMARY:🎬 On the Road(Limited)
@@ -468,6 +462,12 @@ DTSTART;VALUE=DATE:20270506
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Resurrection of the Christ: Part One(Wide)
 UID:20270506-TheResurrectionoftheChristPartOneWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DESCRIPTION:Distributor: Republic Pictures\nSource: The Numbers
+SUMMARY:🎬 Bad Apples(Limited)
+UID:20260918-BadApplesLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
@@ -726,6 +726,12 @@ DTSTART;VALUE=DATE:20270416
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Not Alone(Wide)
 UID:20270416-NotAloneWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270312
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Exorcist: Martyrs(Wide)
+UID:20270312-TheExorcistMartyrsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
@@ -1412,6 +1418,12 @@ SUMMARY:🎬 The Comebacker(Wide)
 UID:20270730-TheComebackerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 You Can See Everything(Limited)
+UID:20261016-YouCanSeeEverythingLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Ramayana Part 1(Wide)
@@ -1470,12 +1482,6 @@ DTSTART;VALUE=DATE:20260925
 DESCRIPTION:Distributor: Quiver\nSource: The Numbers
 SUMMARY:🎬 Long Day’s Journey Into Night(Oscar Qualifying Run)
 UID:20260925-LongDaysJourneyIntoNightOscarQualifyingRun@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Distributor: Republic Pictures\nSource: The Numbers
-SUMMARY:🎬 Bad Apples(Wide)
-UID:20260918-BadApplesWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
@@ -1614,6 +1620,12 @@ DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Neon\nSource: The Numbers
 SUMMARY:🎬 Ally(Wide)
 UID:20271225-AllyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270903
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 The New Simpsons Movie(Wide)
+UID:20270903-TheNewSimpsonsMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
@@ -2192,6 +2204,12 @@ SUMMARY:🎬 Hellbilly Hollow(Limited)
 UID:20260925-HellbillyHollowLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280114
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Alone at Dawn(Expands Wide)
+UID:20280114-AloneatDawnExpandsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Sleepover(Wide)
@@ -2358,6 +2376,12 @@ DTSTART;VALUE=DATE:20270108
 DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
 SUMMARY:🎬 Untitled Shudder Horror Film(Limited)
 UID:20270108-UntitledShudderHorrorFilmLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Alone at Dawn(Limited)
+UID:20271225-AloneatDawnLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
@@ -2718,12 +2742,6 @@ DTSTART;VALUE=DATE:20260925
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Avengers: Endgame(IMAX\, re-release)
 UID:20260925-AvengersEndgameIMAXrerelease@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270312
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Mike Flanagan Exorcist Film(Wide)
-UID:20270312-UntitledMikeFlanaganExorcistFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
