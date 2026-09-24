@@ -2228,6 +2228,12 @@ SUMMARY:🎬 How to Rob a Bank(Wide)
 UID:20261113-HowtoRobaBankWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DESCRIPTION:Distributor: Hades Films\nSource: The Numbers
+SUMMARY:🎬 Fresh Meat(Limited)
+UID:20261012-FreshMeatLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Warner Bros. Family Sequel(Wide)
