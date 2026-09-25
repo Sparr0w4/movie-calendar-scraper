@@ -321,6 +321,12 @@ UID:20261203-FauziWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: Lionsgate Premiere\nSource: The Numbers
+SUMMARY:🎬 Beware Boiúna(Wide)
+UID:20261002-BewareBoinaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Distributor: Hades Films\nSource: The Numbers
 SUMMARY:🎬 The Influencer Project(Wide)
 UID:20261002-TheInfluencerProjectWide@numbers
@@ -860,16 +866,28 @@ SUMMARY:🎬 Avatar 5(Wide)
 UID:20311219-Avatar5Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271015
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 The Mummy(Wide)
-UID:20271015-TheMummyWide@numbers
+DTSTART;VALUE=DATE:20270716
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Crawl 2(Wide)
+UID:20270716-Crawl2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: Ketchup Entertainment\nSource: The Numbers
+SUMMARY:🎬 Rolling Loud: The Movie(Wide)
+UID:20261002-RollingLoudTheMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Focker-in-Law(Wide)
 UID:20261125-FockerinLawWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271015
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Mummy(Wide)
+UID:20271015-TheMummyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281027
@@ -1070,12 +1088,6 @@ SUMMARY:🎬 Charlie Harper(Wide)
 UID:20260925-CharlieHarperWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Distributor: Ketchup Entertainment\nSource: The Numbers
-SUMMARY:🎬 Rolling Loud(Wide)
-UID:20261002-RollingLoudWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290309
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -1110,12 +1122,6 @@ DTSTART;VALUE=DATE:20271217
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(IMAX)
 UID:20271217-LordoftheRingsTheHuntforGollumIMAX@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Distributor: \nSource: The Numbers
-SUMMARY:🎬 Beware Boiúna(Limited)
-UID:20261002-BewareBoinaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271112
@@ -1904,12 +1910,6 @@ SUMMARY:🎬 Avengers: Endgame(Wide\, re-release)
 UID:20260925-AvengersEndgameWidererelease@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280211
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Heart Eyes 2(Wide)
-UID:20280211-HeartEyes2Wide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270910
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Conjuring: First Communion(Wide)
@@ -1938,6 +1938,12 @@ DTSTART;VALUE=DATE:20270129
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 The Rescue(Wide)
 UID:20270129-TheRescueWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280204
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Heart Eyes 2(Wide)
+UID:20280204-HeartEyes2Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261218
