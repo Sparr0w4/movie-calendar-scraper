@@ -410,6 +410,12 @@ SUMMARY:🎬 The Third Parent(Wide)
 UID:20270122-TheThirdParentWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 The Paradise(Wide)
+UID:20260924-TheParadiseWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270521
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Paranormal Activity Film(Wide)
