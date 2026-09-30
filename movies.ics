@@ -146,12 +146,6 @@ SUMMARY:🎬 The Catch(Wide)
 UID:20270521-TheCatchWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270806
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Bluey The Movie(Wide)
-UID:20270806-BlueyTheMovieWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261007
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 Love of Your Life(Limited)
@@ -210,6 +204,12 @@ DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Day Drinker(Wide)
 UID:20270326-DayDrinkerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 A Boy Named Brenda(Limited)
+UID:20271225-ABoyNamedBrendaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
@@ -276,6 +276,12 @@ DTSTART;VALUE=DATE:20270122
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Air Bud Returns(Wide)
 UID:20270122-AirBudReturnsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 UFC 335(Special Engagement)
+UID:20261212-UFC335SpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270618
@@ -354,6 +360,12 @@ DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Digger(IMAX)
 UID:20261002-DiggerIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Naza(Limited)
+UID:20260930-NazaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
@@ -788,6 +800,12 @@ SUMMARY:🎬 The Mosquito Bowl(Limited)
 UID:20261030-TheMosquitoBowlLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 UFC 334: Gane vs. Hokit(Special Engagement)
+UID:20261114-UFC334GanevsHokitSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: ARC Entertainment\nSource: The Numbers
 SUMMARY:🎬 The Ark and the Aardvark(Limited)
@@ -1022,6 +1040,12 @@ SUMMARY:🎬 Always Lalisa(Special Engagement)
 UID:20261012-AlwaysLalisaSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+DESCRIPTION:Distributor: Epic Pictures Group\nSource: The Numbers
+SUMMARY:🎬 Devour(Limited)
+UID:20261013-DevourLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270709
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Man of Tomorrow(IMAX)
@@ -1154,6 +1178,12 @@ SUMMARY:🎬 Untitled X-Men Movie(Wide)
 UID:20280505-UntitledXMenMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270507
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Anything But Ghosts(Wide)
+UID:20270507-AnythingButGhostsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Distributor: Well Go USA\nSource: The Numbers
 SUMMARY:🎬 Once Upon A Time In The Middle East(Limited)
@@ -1178,10 +1208,22 @@ SUMMARY:🎬 Coco 2(Wide)
 UID:20291122-Coco2Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281006
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Gremlins 3(Wide)
+UID:20281006-Gremlins3Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Hexed(Wide)
 UID:20261125-HexedWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Hammond Entertainment\nSource: The Numbers
+SUMMARY:🎬 Paging Hezbollah(Limited)
+UID:20261030-PagingHezbollahLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -1478,12 +1520,6 @@ SUMMARY:🎬 Lice(Wide)
 UID:20270205-LiceWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280630
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Dynamic Duo(Wide)
-UID:20280630-DynamicDuoWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270630
 DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
 SUMMARY:🎬 Cliffhanger(Wide)
@@ -1626,12 +1662,6 @@ DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Distributor: Outsider\nSource: The Numbers
 SUMMARY:🎬 Perla(Limited)
 UID:20261009-PerlaLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Rocky(Special Engagement\, re-release)
-UID:20261107-RockySpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280728
@@ -1916,6 +1946,12 @@ SUMMARY:🎬 The Only Living Pickpocket in New York(Limited)
 UID:20261023-TheOnlyLivingPickpocketinNewYorkLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280922
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 Dynamic Duo(Wide)
+UID:20280922-DynamicDuoWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280114
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 Alone at Dawn(Expands Wide)
@@ -1932,6 +1968,12 @@ DTSTART;VALUE=DATE:20261023
 DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
 SUMMARY:🎬 A Talent for Murder(Wide)
 UID:20261023-ATalentforMurderWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Rocky(Wide\, re-release)
+UID:20261107-RockyWidererelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -2204,6 +2246,12 @@ SUMMARY:🎬 Appofeniacs(Limited)
 UID:20261002-AppofeniacsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
+SUMMARY:🎬 The Bluey Movie(Wide)
+UID:20270806-TheBlueyMovieWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
 SUMMARY:🎬 In the Mouth(Limited)
@@ -2330,6 +2378,12 @@ SUMMARY:🎬 Ink(Limited)
 UID:20261211-InkLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: VRC\nSource: The Numbers
+SUMMARY:🎬 The Canvas(Limited)
+UID:20261030-TheCanvasLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Old Man in the Dunes(Wide)
@@ -2432,10 +2486,16 @@ SUMMARY:🎬 Charlie vs. the Chocolate Factory(Wide)
 UID:20271105-CharlievstheChocolateFactoryWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271119
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Gremlins 3(Wide)
-UID:20271119-Gremlins3Wide@numbers
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: VRC\nSource: The Numbers
+SUMMARY:🎬 Love Language(Limited)
+UID:20261023-LoveLanguageLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270125
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 River(Wide)
+UID:20270125-RiverWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290713
