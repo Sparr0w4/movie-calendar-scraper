@@ -38,6 +38,12 @@ SUMMARY:🎬 Last Shot(Limited)
 UID:20261002-LastShotLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270820
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Narcs(Wide)
+UID:20270820-NarcsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 A Quiet Place Part III(Wide)
@@ -470,6 +476,12 @@ SUMMARY:🎬 Tender Loving Care(Limited)
 UID:20261204-TenderLovingCareLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280114
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Grandgear(Wide)
+UID:20280114-GrandgearWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261223
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 The Angry Birds Movie 3(Wide)
@@ -546,6 +558,12 @@ DTSTART;VALUE=DATE:20280526
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Lilo & Stitch 2(Wide)
 UID:20280526-LiloStitch2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270402
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Surgeon(Wide)
+UID:20270402-TheSurgeonWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280714
@@ -702,6 +720,12 @@ DTSTART;VALUE=DATE:20270212
 DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
 SUMMARY:🎬 Wishful Thinking(Wide)
 UID:20270212-WishfulThinkingWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 Moonlight 10th Anniversary Remastered(Limited\, re-release)
+UID:20261002-Moonlight10thAnniversaryRemasteredLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
@@ -980,12 +1004,6 @@ SUMMARY:🎬 Children of Blood and Bone(IMAX)
 UID:20270115-ChildrenofBloodandBoneIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Distributor: Bleecker Street\nSource: The Numbers
-SUMMARY:🎬 Elon Musk Unveiled: The Tesla Experiment(Limited)
-UID:20261016-ElonMuskUnveiledTheTeslaExperimentLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270716
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
@@ -1146,12 +1164,6 @@ DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Gatto(Wide)
 UID:20270305-GattoWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271110
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Helldivers(Wide)
-UID:20271110-HelldiversWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
@@ -1676,6 +1688,12 @@ SUMMARY:🎬 Untitled Dan Trachtenberg Animated Family Horror Comedy(Wide)
 UID:20281013-UntitledDanTrachtenbergAnimatedFamilyHorrorComedyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280609
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Helldivers(Wide)
+UID:20280609-HelldiversWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271217
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Housemaid’s Secret(Wide)
@@ -1854,6 +1872,18 @@ DTSTART;VALUE=DATE:20270910
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Conjuring: First Communion(Wide)
 UID:20270910-TheConjuringFirstCommunionWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271111
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Treasure Island(Wide)
+UID:20271111-TreasureIslandWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271210
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 24 Jump Street(Wide)
+UID:20271210-24JumpStreetWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280525
@@ -2550,11 +2580,5 @@ DTSTART;VALUE=DATE:20270625
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Oceans Eleven Prequel(Wide)
 UID:20270625-UntitledOceansElevenPrequelWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280218
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Grandgear(Wide)
-UID:20280218-GrandgearWide@numbers
 END:VEVENT
 END:VCALENDAR
