@@ -314,6 +314,12 @@ SUMMARY:🎬 SNOOP(Wide)
 UID:20270806-SNOOPWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
+SUMMARY:🎬 The Gallerist(Wide)
+UID:20261204-TheGalleristWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
 SUMMARY:🎬 Stiletto(Wide)
@@ -956,6 +962,12 @@ SUMMARY:🎬 Spider-Man: Beyond the Spider-Verse(Wide)
 UID:20270618-SpiderManBeyondtheSpiderVerseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270122
+DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
+SUMMARY:🎬 Lords of War(Wide)
+UID:20270122-LordsofWarWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271001
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Great Beyond(Wide)
@@ -1236,6 +1248,12 @@ DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
 SUMMARY:🎬 Maserati: The Brothers(Wide)
 UID:20261225-MaseratiTheBrothersWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Distributor: Brainstorm Media\nSource: The Numbers
+SUMMARY:🎬 Falling(Limited)
+UID:20261009-FallingLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270101
@@ -1794,12 +1812,6 @@ DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Distributor: Neon\nSource: The Numbers
 SUMMARY:🎬 Fjord(Limited)
 UID:20261009-FjordLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270205
-DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
-SUMMARY:🎬 Lords of War(Wide)
-UID:20270205-LordsofWarWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280908
