@@ -50,6 +50,12 @@ SUMMARY:🎬 Treasure Trekkers(Canceled)
 UID:20261009-TreasureTrekkersCanceled@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Met Opera: Macbeth 2026(Wide)
+UID:20261017-MetOperaMacbeth2026Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
 DESCRIPTION:Distributor: Antenna Releasing\nSource: The Numbers
 SUMMARY:🎬 The Weird Kidz(Limited)
@@ -150,6 +156,12 @@ DTSTART;VALUE=DATE:20261007
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 Love of Your Life(Limited)
 UID:20261007-LoveofYourLifeLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261020
+DESCRIPTION:Distributor: Stonecutter Media\nSource: The Numbers
+SUMMARY:🎬 Gym Rat(Limited)
+UID:20261020-GymRatLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -312,6 +324,12 @@ DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
 SUMMARY:🎬 Stiletto(Wide)
 UID:20291221-StilettoWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 A Fire Within(Limited)
+UID:20261029-AFireWithinLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261203
@@ -510,6 +528,12 @@ DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Distributor: Altman2 Entertainment\nSource: The Numbers
 SUMMARY:🎬 The Sixty-Year Mission: How Star Trek Changed Television and the World(Limited)
 UID:20261009-TheSixtyYearMissionHowStarTrekChangedTelevisionandtheWorldLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Level 33\nSource: The Numbers
+SUMMARY:🎬 Dead of Night(Limited)
+UID:20261113-DeadofNightLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281122
@@ -758,6 +782,12 @@ SUMMARY:🎬 Bedford Park(Limited)
 UID:20271225-BedfordParkLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Watermelon Pictures\nSource: The Numbers
+SUMMARY:🎬 Who Killed Alex Odeh?(Limited)
+UID:20261030-WhoKilledAlexOdehLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270219
 DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
 SUMMARY:🎬 Babies(Wide)
@@ -936,6 +966,12 @@ DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Children of Blood and Bone(Wide)
 UID:20270115-ChildrenofBloodandBoneWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 Orfeo(Limited)
+UID:20261113-OrfeoLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
@@ -1118,6 +1154,12 @@ SUMMARY:🎬 Lord of the Rings: The Hunt for Gollum(IMAX)
 UID:20271217-LordoftheRingsTheHuntforGollumIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:Distributor: Frontline Features\nSource: The Numbers
+SUMMARY:🎬 One in a Million(Limited)
+UID:20261021-OneinaMillionLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Distributor: Film Movement\nSource: The Numbers
 SUMMARY:🎬 Case 137(Limited)
@@ -1260,6 +1302,12 @@ DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Distributor: Hammond Entertainment\nSource: The Numbers
 SUMMARY:🎬 Paging Hezbollah(Limited)
 UID:20261030-PagingHezbollahLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Aero Films\nSource: The Numbers
+SUMMARY:🎬 Terrestrial(Limited)
+UID:20261023-TerrestrialLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -1496,6 +1544,12 @@ SUMMARY:🎬 Minotaur(Limited)
 UID:20261120-MinotaurLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Star Cinema\nSource: The Numbers
+SUMMARY:🎬 Always Yours\, Never Mine(Limited)
+UID:20261023-AlwaysYoursNeverMineLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Dr. Seuss’ The Cat in the Hat(IMAX)
@@ -1506,6 +1560,12 @@ DTSTART;VALUE=DATE:20261023
 DESCRIPTION:Distributor: CMC Pictures\nSource: The Numbers
 SUMMARY:🎬 Go For Broke 2(Limited)
 UID:20261023-GoForBroke2Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Wild at Heart(Limited\, re-release)
+UID:20261030-WildatHeartLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -1532,12 +1592,6 @@ SUMMARY:🎬 Violent Night 2(Wide)
 UID:20261204-ViolentNight2Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Distributor: Eammon Films\nSource: The Numbers
-SUMMARY:🎬 Terrestrial(Limited)
-UID:20261016-TerrestrialLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270219
 DESCRIPTION:Distributor: Neon\nSource: The Numbers
 SUMMARY:🎬 Untitled Neon Horror Film(Wide)
@@ -1554,6 +1608,12 @@ DTSTART;VALUE=DATE:20270205
 DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
 SUMMARY:🎬 Lice(Wide)
 UID:20270205-LiceWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Fallen Angels(Special Engagement)
+UID:20261022-FallenAngelsSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270630
@@ -1790,6 +1850,12 @@ SUMMARY:🎬 Varanasi(Wide)
 UID:20270407-VaranasiWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Littermates(Limited)
+UID:20261106-LittermatesLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -1800,6 +1866,12 @@ DTSTART;VALUE=DATE:20270312
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
 UID:20270312-UntitledWarnerBrosEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Atlas Distribution\nSource: The Numbers
+SUMMARY:🎬 Search Party: Where’s PawPaw(Limited)
+UID:20261113-SearchPartyWheresPawPawLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
@@ -2030,6 +2102,12 @@ SUMMARY:🎬 Live Like That(Wide)
 UID:20270226-LiveLikeThatWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Raise the Red Lantern(Limited\, re-release)
+UID:20261106-RaisetheRedLanternLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280414
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Illumination Event Film(Wide)
@@ -2076,6 +2154,12 @@ DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Hunger Games: Sunrise on the Reaping(Wide)
 UID:20261120-TheHungerGamesSunriseontheReapingWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+DESCRIPTION:Distributor: Netflix\nSource: The Numbers
+SUMMARY:🎬 14th(Limited)
+UID:20261127-14thLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
