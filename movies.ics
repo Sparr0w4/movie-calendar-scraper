@@ -1652,6 +1652,12 @@ SUMMARY:🎬 The Revenge of La Llorona(Wide)
 UID:20270226-TheRevengeofLaLloronaWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 Tangles(Oscar Qualifying Run)
+UID:20261127-TanglesOscarQualifyingRun@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281027
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Universal Event Film(Wide)
@@ -2228,6 +2234,12 @@ SUMMARY:🎬 Godzilla Minus Zero(IMAX)
 UID:20261106-GodzillaMinusZeroIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270115
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 Tangles(Limited)
+UID:20270115-TanglesLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270108
 DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
 SUMMARY:🎬 Untitled Shudder Horror Film(Limited)
@@ -2478,6 +2490,12 @@ DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
 SUMMARY:🎬 Bagworm(Limited)
 UID:20270326-BagwormLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: HumanPictures\nSource: The Numbers
+SUMMARY:🎬 MANA(Limited)
+UID:20261023-MANALimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
