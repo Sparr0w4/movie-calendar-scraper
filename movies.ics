@@ -296,6 +296,12 @@ SUMMARY:🎬 Air Bud Returns(Wide)
 UID:20270122-AirBudReturnsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Viva Films\nSource: The Numbers
+SUMMARY:🎬 Space Cadet(Limited)
+UID:20261113-SpaceCadetLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261212
 DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
 SUMMARY:🎬 UFC 335(Special Engagement)
@@ -776,16 +782,22 @@ SUMMARY:🎬 Untitled Universal Event Film(Wide)
 UID:20270402-UntitledUniversalEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20271225
-DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
-SUMMARY:🎬 Bedford Park(Limited)
-UID:20271225-BedfordParkLimited@numbers
+DTSTART;VALUE=DATE:20270116
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Puella Magi Madoka Magica the Movie — Walpurgisnacht Rising(Special Engagement)
+UID:20270116-PuellaMagiMadokaMagicatheMovieWalpurgisnachtRisingSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Distributor: Watermelon Pictures\nSource: The Numbers
 SUMMARY:🎬 Who Killed Alex Odeh?(Limited)
 UID:20261030-WhoKilledAlexOdehLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 Bedford Park(Limited)
+UID:20271225-BedfordParkLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270219
@@ -1346,6 +1358,12 @@ SUMMARY:🎬 Fast Forever(Wide)
 UID:20280317-FastForeverWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
+SUMMARY:🎬 9 to 5(Wide\, re-release)
+UID:20261009-9to5Widererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Comebacker(Wide)
@@ -1718,6 +1736,12 @@ SUMMARY:🎬 Elden Ring(Wide)
 UID:20280303-EldenRingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Oscilloscope Pictures\nSource: The Numbers
+SUMMARY:🎬 Game(Limited)
+UID:20261204-GameLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
 SUMMARY:🎬 Poetic License(Limited)
@@ -1952,6 +1976,12 @@ SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
 UID:20270813-UntitledCineverseHorrorFranchiseEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Affirm Films\nSource: The Numbers
+SUMMARY:🎬 Flywheel: Ignition of the Soul(Limited)
+UID:20261016-FlywheelIgnitionoftheSoulLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270910
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Conjuring: First Communion(Wide)
@@ -2022,12 +2052,6 @@ DTSTART;VALUE=DATE:20280310
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Ghost Market(Wide)
 UID:20280310-GhostMarketWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Flywheel: Ignition of the Soul(Wide)
-UID:20261016-FlywheelIgnitionoftheSoulWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -2550,12 +2574,6 @@ DTSTART;VALUE=DATE:20280317
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Oh\, The Places You’ll Go(Wide)
 UID:20280317-OhThePlacesYoullGoWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Distributor: 20th Century Studios\nSource: The Numbers
-SUMMARY:🎬 9 to 5(Limited\, re-release)
-UID:20261009-9to5Limitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280407
