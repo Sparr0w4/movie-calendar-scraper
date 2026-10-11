@@ -1808,12 +1808,6 @@ SUMMARY:🎬 The Housemaid’s Secret(Wide)
 UID:20271217-TheHousemaidsSecretWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
-SUMMARY:🎬 Pan’s Labyrinth(Special Engagement\, re-release)
-UID:20261009-PansLabyrinthSpecialEngagementrerelease@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281117
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Teenage Mutant Ninja Turtles Film(Wide)
@@ -2540,22 +2534,28 @@ SUMMARY:🎬 Ink(Limited)
 UID:20261211-InkLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Pan’s Labyrinth(Wide\, re-release)
+UID:20261009-PansLabyrinthWidererelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Distributor: VRC\nSource: The Numbers
 SUMMARY:🎬 The Canvas(Limited)
 UID:20261030-TheCanvasLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261225
-DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
-SUMMARY:🎬 Old Man in the Dunes(Wide)
-UID:20261225-OldManintheDunesWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
 SUMMARY:🎬 Rammstein: Live in Mexico City(Special Engagement)
 UID:20261104-RammsteinLiveinMexicoCitySpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Old Man in the Dunes(Wide)
+UID:20261225-OldManintheDunesWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271124
