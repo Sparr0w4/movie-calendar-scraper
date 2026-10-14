@@ -716,6 +716,12 @@ SUMMARY:🎬 Merry Christmas Aubrey Flint(Limited)
 UID:20261225-MerryChristmasAubreyFlintLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Aloha Releasing\nSource: The Numbers
+SUMMARY:🎬 Agbara Nla: The Return(Limited)
+UID:20261030-AgbaraNlaTheReturnLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280616
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Incredibles 3(Wide)
@@ -938,6 +944,12 @@ SUMMARY:🎬 Margie Clause(Wide)
 UID:20271112-MargieClauseWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Six and Midnight Films\nSource: The Numbers
+SUMMARY:🎬 Her Song(Limited)
+UID:20261016-HerSongLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DESCRIPTION:Distributor: \nSource: The Numbers
 SUMMARY:🎬 A Body in the Woods(Limited)
@@ -986,6 +998,12 @@ SUMMARY:🎬 Children of Blood and Bone(IMAX)
 UID:20270115-ChildrenofBloodandBoneIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Mr. & Mrs. Pardon(Limited)
+UID:20261016-MrMrsPardonLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270716
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Warner Bros. Event Film(Wide)
@@ -1026,6 +1044,12 @@ DTSTART;VALUE=DATE:20261012
 DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
 SUMMARY:🎬 Always Lalisa(Special Engagement)
 UID:20261012-AlwaysLalisaSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 Bohurupi: The Golden Daku(Limited)
+UID:20261023-BohurupiTheGoldenDakuLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270709
@@ -1310,6 +1334,12 @@ SUMMARY:🎬 Indian 3(Limited)
 UID:20261225-Indian3Limited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Summer Holidays(Limited)
+UID:20261016-SummerHolidaysLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
 SUMMARY:🎬 Animal Crackers 2: The Next Batch(Wide)
@@ -1398,6 +1428,12 @@ DTSTART;VALUE=DATE:20270122
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Animal Friends(Wide)
 UID:20270122-AnimalFriendsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Distributor: Briarcliff Entertainment\nSource: The Numbers
+SUMMARY:🎬 Ash and Crayons(Limited)
+UID:20261120-AshandCrayonsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -1676,6 +1712,12 @@ SUMMARY:🎬 Gladys(Wide)
 UID:20280908-GladysWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 Titans(Limited)
+UID:20261022-TitansLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Greenwich Entertainment\nSource: The Numbers
 SUMMARY:🎬 Nagi Notes(Limited)
@@ -1842,6 +1884,12 @@ DTSTART;VALUE=DATE:20271111
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Treasure Island(Wide)
 UID:20271111-TreasureIslandWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 Chatrapathi(Limited)
+UID:20261022-ChatrapathiLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271210
@@ -2072,6 +2120,12 @@ SUMMARY:🎬 Conceivable(Limited)
 UID:20261016-ConceivableLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Marudhar Entertainment\nSource: The Numbers
+SUMMARY:🎬 Prahaar: The Untold Story of Ujjwal Nikam(Limited)
+UID:20261016-PrahaarTheUntoldStoryofUjjwalNikamLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
 SUMMARY:🎬 Godzilla Minus Zero(IMAX)
@@ -2186,6 +2240,12 @@ SUMMARY:🎬 The Lunar Chronicles(Wide)
 UID:20281103-TheLunarChroniclesWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: Moviegoers Entertainment\nSource: The Numbers
+SUMMARY:🎬 Udta Teer(Limited)
+UID:20261023-UdtaTeerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270129
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Karoshi(Wide)
@@ -2298,6 +2358,12 @@ DTSTART;VALUE=DATE:20270409
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Panic Carefully(Wide)
 UID:20270409-PanicCarefullyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:Distributor: Shloka Entertainments\nSource: The Numbers
+SUMMARY:🎬 Jailer 2(Limited)
+UID:20261015-Jailer2Limited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271022
