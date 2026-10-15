@@ -1136,6 +1136,12 @@ SUMMARY:🎬 The Flood(Wide)
 UID:20280811-TheFloodWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270219
+DESCRIPTION:Distributor: Roadside Attractions\nSource: The Numbers
+SUMMARY:🎬 2027 Oscar-Nominated Shorts(Limited)
+UID:20270219-2027OscarNominatedShortsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Attend\nSource: The Numbers
 SUMMARY:🎬 The Token Groomsman(Wide)
@@ -1196,6 +1202,12 @@ SUMMARY:🎬 Anything But Ghosts(Wide)
 UID:20270507-AnythingButGhostsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Seventeen World Tour [New_](Special Engagement)
+UID:20261026-SeventeenWorldTourNewSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
 SUMMARY:🎬 Bitter Christmas(Limited)
@@ -1230,6 +1242,12 @@ DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Distributor: Hammond Entertainment\nSource: The Numbers
 SUMMARY:🎬 Paging Hezbollah(Limited)
 UID:20261030-PagingHezbollahLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: Briarcliff Entertainment\nSource: The Numbers
+SUMMARY:🎬 Trust Me\, I’m a Doctor(Limited)
+UID:20261016-TrustMeImaDoctorLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
@@ -1278,12 +1296,6 @@ DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Comebacker(Wide)
 UID:20270730-TheComebackerWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Distributor: A24\nSource: The Numbers
-SUMMARY:🎬 You Can See Everything(Limited)
-UID:20261016-YouCanSeeEverythingLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -1940,12 +1952,6 @@ SUMMARY:🎬 Hello Kitty(Wide)
 UID:20280721-HelloKittyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Distributor: Briarcliff Entertainment\nSource: The Numbers
-SUMMARY:🎬 Trust Me\, I’m a Doctor(Wide)
-UID:20261016-TrustMeImaDoctorWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280310
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Ghost Market(Wide)
@@ -2016,6 +2022,12 @@ DTSTART;VALUE=DATE:20270226
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Live Like That(Wide)
 UID:20270226-LiveLikeThatWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270212
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 In a Violent Nature 2(Wide)
+UID:20270212-InaViolentNature2Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -2154,6 +2166,12 @@ DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Evil Dead Wrath(Wide)
 UID:20280407-EvilDeadWrathWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 You Can See Everything(Wide)
+UID:20261016-YouCanSeeEverythingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270326
@@ -2436,12 +2454,6 @@ DTSTART;VALUE=DATE:20280407
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Beatles Cinematic Event: George(Wide)
 UID:20280407-TheBeatlesCinematicEventGeorgeWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Distributor: A24\nSource: The Numbers
-SUMMARY:🎬 You Can See Everything(Expands Wide)
-UID:20261023-YouCanSeeEverythingExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280204
