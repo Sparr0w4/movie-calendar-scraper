@@ -1556,6 +1556,12 @@ SUMMARY:🎬 Poetic License(Limited)
 UID:20271225-PoeticLicenseLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270108
+DESCRIPTION:Distributor: Cohen Media Group\nSource: The Numbers
+SUMMARY:🎬 Everybody Digs Bill Evans(Limited)
+UID:20270108-EverybodyDigsBillEvansLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
 DESCRIPTION:Distributor: Magenta Light Studios\nSource: The Numbers
 SUMMARY:🎬 Flavia(Wide)
@@ -2088,6 +2094,12 @@ DTSTART;VALUE=DATE:20261023
 DESCRIPTION:Distributor: Moviegoers Entertainment\nSource: The Numbers
 SUMMARY:🎬 Udta Teer(Limited)
 UID:20261023-UdtaTeerLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 Stray Kids World Tour ‘Run It’ Live Viewing(Special Engagement)
+UID:20261107-StrayKidsWorldTourRunItLiveViewingSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270129
