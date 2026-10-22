@@ -1202,6 +1202,12 @@ SUMMARY:🎬 Fast Forever(Wide)
 UID:20280317-FastForeverWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Holiday(Limited\, re-release)
+UID:20261211-TheHolidayLimitedrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Comebacker(Wide)
