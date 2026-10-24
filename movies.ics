@@ -260,6 +260,12 @@ SUMMARY:🎬 UFC 333: Volkanovski vs. Evloev(Special Engagement)
 UID:20261024-UFC333VolkanovskivsEvloevSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 Donga Naa Koduku(Limited)
+UID:20261113-DongaNaaKodukuLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270122
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Air Bud Returns(Wide)
@@ -492,6 +498,12 @@ DTSTART;VALUE=DATE:20270326
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Godzilla x Kong: Supernova(Wide)
 UID:20270326-GodzillaxKongSupernovaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Distributor: Abramorama Films\nSource: The Numbers
+SUMMARY:🎬 Miss Representation: Rise Up(Limited)
+UID:20261022-MissRepresentationRiseUpLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280526
@@ -1344,6 +1356,12 @@ DTSTART;VALUE=DATE:20270122
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Animal Friends(Wide)
 UID:20270122-AnimalFriendsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Kung Fu Soccer(Limited)
+UID:20261023-KungFuSoccerLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
