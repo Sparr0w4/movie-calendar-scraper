@@ -104,12 +104,6 @@ SUMMARY:🎬 The Only Living Pickpocket in New York(Expands Wide)
 UID:20261030-TheOnlyLivingPickpocketinNewYorkExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270716
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Untitled Paramount Horror Event Film(Wide)
-UID:20270716-UntitledParamountHorrorEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Fing!(Wide)
@@ -1670,6 +1664,12 @@ SUMMARY:🎬 Merry Christmas Aubrey Flint(Limited)
 UID:20261230-MerryChristmasAubreyFlintLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270625
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 The Hole(Wide)
+UID:20270625-TheHoleWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280630
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Call of Duty(Wide)
@@ -1974,6 +1974,12 @@ DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Warner Bros. Family Sequel(Wide)
 UID:20271225-UntitledWarnerBrosFamilySequelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270129
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 Slayground(Wide)
+UID:20270129-SlaygroundWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
