@@ -260,6 +260,12 @@ SUMMARY:🎬 Fauzi(Wide)
 UID:20261203-FauziWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
+SUMMARY:🎬 Breeder(Wide)
+UID:20261028-BreederWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280218
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -360,12 +366,6 @@ DTSTART;VALUE=DATE:20261028
 DESCRIPTION:Distributor: Atlas Distribution\nSource: The Numbers
 SUMMARY:🎬 A Good Hand Wasted(Limited)
 UID:20261028-AGoodHandWastedLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
-SUMMARY:🎬 Breeder(Limited)
-UID:20261028-BreederLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
@@ -504,6 +504,12 @@ DTSTART;VALUE=DATE:20300703
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Illumination Event Film(Wide)
 UID:20300703-UntitledIlluminationEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270827
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Molepeople(Wide)
+UID:20270827-MolepeopleWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270820
@@ -1080,6 +1086,12 @@ DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Distributor: Hammond Entertainment\nSource: The Numbers
 SUMMARY:🎬 Paging Hezbollah(Limited)
 UID:20261030-PagingHezbollahLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280609
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 The Mandela Catalogue Movie(Wide)
+UID:20280609-TheMandelaCatalogueMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
