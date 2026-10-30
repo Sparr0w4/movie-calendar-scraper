@@ -290,10 +290,22 @@ SUMMARY:🎬 Beach Read(Wide)
 UID:20270507-BeachReadWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Tad and the Magic Lamp(Limited)
+UID:20261030-TadandtheMagicLampLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 The Maltese Falcon(Special Engagement\, re-release)
 UID:20261206-TheMalteseFalconSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 Rate It X(Limited\, re-release)
+UID:20261120-RateItXLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261230
@@ -302,10 +314,10 @@ SUMMARY:🎬 Star Trek 4(Wide)
 UID:20261230-StarTrek4Wide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
-SUMMARY:🎬 Rate It X(Limited\, re-release)
-UID:20261120-RateItXLimitedrerelease@numbers
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Cat in the Hat(Wide)
+UID:20261106-TheCatintheHatWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270514
@@ -360,6 +372,12 @@ DTSTART;VALUE=DATE:20270506
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 The Resurrection of the Christ: Part One(Wide)
 UID:20270506-TheResurrectionoftheChristPartOneWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
+SUMMARY:🎬 The Cat in the Hat(IMAX)
+UID:20261106-TheCatintheHatIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
@@ -500,6 +518,12 @@ SUMMARY:🎬 The Comeback King(Wide)
 UID:20270205-TheComebackKingWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261203
+DESCRIPTION:Distributor: Iconic Releasing\nSource: The Numbers
+SUMMARY:🎬 Prince 3121 Las Vegas Live(Limited)
+UID:20261203-Prince3121LasVegasLiveLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300703
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled Illumination Event Film(Wide)
@@ -594,6 +618,12 @@ DTSTART;VALUE=DATE:20270212
 DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
 SUMMARY:🎬 Wishful Thinking(Wide)
 UID:20270212-WishfulThinkingWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Once Upon a Time…in Hollywood(IMAX\, re-release)
+UID:20261030-OnceUponaTimeinHollywoodIMAXrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270813
@@ -1256,12 +1286,6 @@ SUMMARY:🎬 Untitled DC Event Film(Wide)
 UID:20270305-UntitledDCEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Dr. Seuss’ The Cat in the Hat(Wide)
-UID:20261106-DrSeussTheCatintheHatWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270122
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Animal Friends(Wide)
@@ -1302,12 +1326,6 @@ DTSTART;VALUE=DATE:20261120
 DESCRIPTION:Distributor: MUBI\nSource: The Numbers
 SUMMARY:🎬 Minotaur(Limited)
 UID:20261120-MinotaurLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
-SUMMARY:🎬 Dr. Seuss’ The Cat in the Hat(IMAX)
-UID:20261106-DrSeussTheCatintheHatIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -2142,6 +2160,12 @@ DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: LIV Worldwide\nSource: The Numbers
 SUMMARY:🎬 She Saw Us(Limited)
 UID:20291221-SheSawUsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 The Irregular at Magic High School THE MOVIE -Yotsuba Succession Arc-(Limited)
+UID:20261101-TheIrregularatMagicHighSchoolTHEMOVIEYotsubaSuccessionArcLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290720
