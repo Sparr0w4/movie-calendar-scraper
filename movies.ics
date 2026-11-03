@@ -86,6 +86,12 @@ SUMMARY:🎬 The Last Resort(Wide)
 UID:20271225-TheLastResortWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Distributor: Netflix\nSource: The Numbers
+SUMMARY:🎬 The Further Mis-Adventures of Cliff Booth(IMAX)
+UID:20261125-TheFurtherMisAdventuresofCliffBoothIMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270115
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Fing!(Wide)
@@ -120,6 +126,12 @@ DTSTART;VALUE=DATE:20280728
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Ghost Rider(Wide)
 UID:20280728-GhostRiderWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+DESCRIPTION:Distributor: Watermelon Pictures\nSource: The Numbers
+SUMMARY:🎬 Who Is Still Alive(Oscar Qualifying Run)
+UID:20261127-WhoIsStillAliveOscarQualifyingRun@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270108
@@ -234,6 +246,12 @@ DTSTART;VALUE=DATE:20280218
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Batman: Part II(Wide)
 UID:20280218-TheBatmanPartIIWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:Distributor: Trafalgar Releasing\nSource: The Numbers
+SUMMARY:🎬 BTS World Tour ‘Arirang’ in Kaohsiung & Jakarta: Live Viewing(Special Engagement)
+UID:20261121-BTSWorldTourAriranginKaohsiungJakartaLiveViewingSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270507
@@ -938,6 +956,12 @@ SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20290803-UntitledDisneyFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Romeo+Juliet(Special Engagement\, re-release)
+UID:20261205-RomeoJulietSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Gatto(Wide)
@@ -1040,6 +1064,12 @@ SUMMARY:🎬 Fast Forever(Wide)
 UID:20280317-FastForeverWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Moulin Rouge!(Special Engagement\, re-release)
+UID:20261212-MoulinRougeSpecialEngagementrerelease@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261211
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Holiday(Limited\, re-release)
@@ -1050,6 +1080,12 @@ DTSTART;VALUE=DATE:20270730
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 The Comebacker(Wide)
 UID:20270730-TheComebackerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 Club Kid(Expands Wide)
+UID:20261125-ClubKidExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -1086,6 +1122,12 @@ DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Sony Pictures Film(Wide)
 UID:20270305-UntitledSonyPicturesFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Quiver\nSource: The Numbers
+SUMMARY:🎬 Eternal Return(Limited)
+UID:20261204-EternalReturnLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
@@ -1664,6 +1706,12 @@ SUMMARY:🎬 Fleak(Wide)
 UID:20261230-FleakWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Quarter(Limited)
+UID:20261113-QuarterLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280310
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Ghost Market(Wide)
@@ -1704,12 +1752,6 @@ DTSTART;VALUE=DATE:20291109
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20291109-UntitledDisneyFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261125
-DESCRIPTION:Distributor: Netflix\nSource: The Numbers
-SUMMARY:🎬 The Further Mis-Adventures of Cliff Booth(Limited)
-UID:20261125-TheFurtherMisAdventuresofCliffBoothLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261104
@@ -2124,6 +2166,12 @@ DTSTART;VALUE=DATE:20261230
 DESCRIPTION:Distributor: IFC Entertainment Group\nSource: The Numbers
 SUMMARY:🎬 Untitled IFC Comedy Film(Limited)
 UID:20261230-UntitledIFCComedyFilmLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270212
+DESCRIPTION:Distributor: 1-2 Special\nSource: The Numbers
+SUMMARY:🎬 Everytime(Limited)
+UID:20270212-EverytimeLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270212
