@@ -338,6 +338,12 @@ SUMMARY:🎬 The Cat in the Hat(IMAX)
 UID:20261106-TheCatintheHatIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
+SUMMARY:🎬 Ebenezer(Wide)
+UID:20261113-EbenezerWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261118
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 Madden(Limited)
@@ -450,12 +456,6 @@ DTSTART;VALUE=DATE:20270312
 DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
 SUMMARY:🎬 The Chosen Crucifixion(Wide)
 UID:20270312-TheChosenCrucifixionWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291221
-DESCRIPTION:Distributor: ARC Entertainment\nSource: The Numbers
-SUMMARY:🎬 The Ark and the Aardvark(Limited\, re-release)
-UID:20291221-TheArkandtheAardvarkLimitedrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
@@ -624,6 +624,12 @@ DTSTART;VALUE=DATE:20270219
 DESCRIPTION:Distributor: Vertical Entertainment\nSource: The Numbers
 SUMMARY:🎬 Babies(Wide)
 UID:20270219-BabiesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291221
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Fablehaven(Wide)
+UID:20291221-FablehavenWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270305
@@ -933,7 +939,7 @@ UID:20261204-RayGunnLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: \nSource: The Numbers
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
 SUMMARY:🎬 Summer Holidays(Limited)
 UID:20261106-SummerHolidaysLimited@numbers
 END:VEVENT
@@ -1178,12 +1184,6 @@ SUMMARY:🎬 Hen(Limited)
 UID:20261106-HenLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291221
-DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
-SUMMARY:🎬 Old Man in the Dunes(Wide\, re-release)
-UID:20291221-OldManintheDunesWidererelease@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271225
 DESCRIPTION:Distributor: Viva Pictures\nSource: The Numbers
 SUMMARY:🎬 Animal Crackers 2: The Next Batch(Wide)
@@ -1374,12 +1374,6 @@ DTSTART;VALUE=DATE:20261211
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Zero A.D.(Wide)
 UID:20261211-ZeroADWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291221
-DESCRIPTION:Distributor: Attend\nSource: The Numbers
-SUMMARY:🎬 The Token Groomsman(Wide\, re-release)
-UID:20291221-TheTokenGroomsmanWidererelease@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
@@ -1614,12 +1608,6 @@ DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Atlas Distribution\nSource: The Numbers
 SUMMARY:🎬 Search Party: Where’s PawPaw(Limited)
 UID:20261113-SearchPartyWheresPawPawLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
-SUMMARY:🎬 Ebenezer: A Christmas Carol(Wide)
-UID:20261113-EbenezerAChristmasCarolWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261211
@@ -1892,6 +1880,12 @@ SUMMARY:🎬 14th(Limited)
 UID:20261127-14thLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291221
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Old Man in the Dunes(Wide)
+UID:20291221-OldManintheDunesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 DESCRIPTION:Distributor: Neon\nSource: The Numbers
 SUMMARY:🎬 All of a Sudden(Limited)
@@ -1920,6 +1914,12 @@ DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
 SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
 UID:20271008-UntitledCineverseHorrorFranchiseEventFilmWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291221
+DESCRIPTION:Distributor: Attend\nSource: The Numbers
+SUMMARY:🎬 The Token Groomsman(Wide)
+UID:20291221-TheTokenGroomsmanWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -2198,12 +2198,6 @@ SUMMARY:🎬 Frozen III(Wide)
 UID:20271124-FrozenIIIWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20291221
-DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
-SUMMARY:🎬 Fablehaven(Wide\, re-release)
-UID:20291221-FablehavenWidererelease@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261230
 DESCRIPTION:Distributor: Big World Pictures\nSource: The Numbers
 SUMMARY:🎬 Sorelle di clausura(Limited)
@@ -2238,6 +2232,12 @@ DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: Netflix\nSource: The Numbers
 SUMMARY:🎬 KPop Demon Hunters Sequel(Wide)
 UID:20291221-KPopDemonHuntersSequelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291221
+DESCRIPTION:Distributor: ARC Entertainment\nSource: The Numbers
+SUMMARY:🎬 The Ark and the Aardvark(Limited)
+UID:20291221-TheArkandtheAardvarkLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270716
