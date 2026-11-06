@@ -1136,12 +1136,6 @@ SUMMARY:🎬 Club Kid(Expands Wide)
 UID:20261125-ClubKidExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
-SUMMARY:🎬 Ramayana Part 1(Wide)
-UID:20261106-RamayanaPart1Wide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280922
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Untitled DWA Animated Event Film(Wide)
@@ -1838,6 +1832,12 @@ SUMMARY:🎬 Everybody Digs Bill Evans(Oscar Qualifying Run)
 UID:20261204-EverybodyDigsBillEvansOscarQualifyingRun@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Odyssey(Wide)
+UID:20261211-TheOdysseyWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270604
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Skeletons(Wide)
@@ -1902,6 +1902,12 @@ DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Distributor: GKIDS\nSource: The Numbers
 SUMMARY:🎬 Godzilla Minus Zero(Wide)
 UID:20261106-GodzillaMinusZeroWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 The Odyssey(IMAX)
+UID:20261211-TheOdysseyIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261120
@@ -2334,5 +2340,11 @@ DTSTART;VALUE=DATE:20270625
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Oceans Eleven Prequel(Wide)
 UID:20270625-UntitledOceansElevenPrequelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
+SUMMARY:🎬 Ramayana: Rise of a Legend(Wide)
+UID:20261106-RamayanaRiseofaLegendWide@numbers
 END:VEVENT
 END:VCALENDAR
