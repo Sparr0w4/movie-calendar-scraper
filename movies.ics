@@ -489,6 +489,12 @@ UID:20261120-JosephineLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Samuel Goldwyn Films\nSource: The Numbers
+SUMMARY:🎬 As Good as Dead 2(Limited)
+UID:20261211-AsGoodasDead2Limited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
 DESCRIPTION:Distributor: A24\nSource: The Numbers
 SUMMARY:🎬 The Debut(Limited)
 UID:20261211-TheDebutLimited@numbers
@@ -596,6 +602,12 @@ SUMMARY:🎬 Untitled Disney Movie(Wide)
 UID:20281110-UntitledDisneyMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270402
+DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
+SUMMARY:🎬 Play House(Wide)
+UID:20270402-PlayHouseWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281215
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Black Panther 3(Wide)
@@ -660,6 +672,12 @@ DTSTART;VALUE=DATE:20261125
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Focker-in-Law(Wide)
 UID:20261125-FockerinLawWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270119
+DESCRIPTION:Distributor: Seventh Art Releasing\nSource: The Numbers
+SUMMARY:🎬 Renoir & Love(Limited)
+UID:20270119-RenoirLoveLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281027
