@@ -164,6 +164,12 @@ SUMMARY:🎬 Viva La Madness(Wide)
 UID:20280121-VivaLaMadnessWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:Distributor: Salman Khan Films\nSource: The Numbers
+SUMMARY:🎬 Battle Of Galwan(Limited)
+UID:20261204-BattleOfGalwanLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
 SUMMARY:🎬 Donga Naa Koduku(Limited)
@@ -432,6 +438,12 @@ DTSTART;VALUE=DATE:20270205
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 The Comeback King(Wide)
 UID:20270205-TheComebackKingWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270128
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Unbroken: The Untold Story of Shen Yun(Special Engagement)
+UID:20270128-UnbrokenTheUntoldStoryofShenYunSpecialEngagement@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261203
@@ -1562,6 +1574,12 @@ SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
 UID:20270813-UntitledCineverseHorrorFranchiseEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270207
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Kristina Kuzmič: Hope & Humor(Special Engagement)
+UID:20270207-KristinaKuzmiHopeHumorSpecialEngagement@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270910
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 The Conjuring: First Communion(Wide)
@@ -2154,5 +2172,11 @@ DTSTART;VALUE=DATE:20270625
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Untitled Oceans Eleven Prequel(Wide)
 UID:20270625-UntitledOceansElevenPrequelWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Distributor: Dark Sky Films\nSource: The Numbers
+SUMMARY:🎬 The Vile(Limited)
+UID:20261120-TheVileLimited@numbers
 END:VEVENT
 END:VCALENDAR
