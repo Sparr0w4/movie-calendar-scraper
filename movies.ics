@@ -476,6 +476,12 @@ SUMMARY:🎬 The Beatles Cinematic Event: Paul(Wide)
 UID:20280407-TheBeatlesCinematicEventPaulWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: Little Light Productions\nSource: The Numbers
+SUMMARY:🎬 The Dads(Limited)
+UID:20261113-TheDadsLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 DESCRIPTION:Distributor: Focus Features\nSource: The Numbers
 SUMMARY:🎬 Werwulf(Wide)
@@ -746,6 +752,12 @@ SUMMARY:🎬 The Beatles Cinematic Event: John(Wide)
 UID:20280407-TheBeatlesCinematicEventJohnWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 The Violinist(Limited)
+UID:20261113-TheViolinistLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270813
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Shiver(Wide)
@@ -864,6 +876,12 @@ DTSTART;VALUE=DATE:20291221
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Whitney Springs(Wide)
 UID:20291221-WhitneySpringsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Ten Will(Limited)
+UID:20261113-TenWillLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271112
@@ -1682,16 +1700,16 @@ SUMMARY:🎬 Alone at Dawn(Expands Wide)
 UID:20280114-AloneatDawnExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261202
-DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
-SUMMARY:🎬 A Fox Under a Pink Moon(Limited)
-UID:20261202-AFoxUnderaPinkMoonLimited@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271008
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Sleepover(Wide)
 UID:20271008-SleepoverWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+DESCRIPTION:Distributor: Kino Lorber\nSource: The Numbers
+SUMMARY:🎬 A Fox Under a Pink Moon(Limited)
+UID:20261202-AFoxUnderaPinkMoonLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291109
@@ -1910,6 +1928,12 @@ SUMMARY:🎬 God With Us(Limited)
 UID:20261113-GodWithUsLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Distributor: HBO Documentary Films\nSource: The Numbers
+SUMMARY:🎬 The Slightest Touch(Limited)
+UID:20261113-TheSlightestTouchLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271105
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -2058,6 +2082,12 @@ DTSTART;VALUE=DATE:20261230
 DESCRIPTION:Distributor: Big World Pictures\nSource: The Numbers
 SUMMARY:🎬 Sorelle di clausura(Limited)
 UID:20261230-SorellediclausuraLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: \nSource: The Numbers
+SUMMARY:🎬 Pierre the Pigeon-Hawk(Limited)
+UID:20271225-PierrethePigeonHawkLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280317
