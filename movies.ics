@@ -224,12 +224,6 @@ SUMMARY:🎬 Stiletto(Wide)
 UID:20291221-StilettoWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261203
-DESCRIPTION:Distributor: Mythri Movie Makers\nSource: The Numbers
-SUMMARY:🎬 Fauzi(Wide)
-UID:20261203-FauziWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280218
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -1124,6 +1118,12 @@ SUMMARY:🎬 Elsinore(Limited)
 UID:20261120-ElsinoreLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270813
+DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
+SUMMARY:🎬 Jason(Wide)
+UID:20270813-JasonWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270305
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Sony Pictures Film(Wide)
@@ -1332,6 +1332,12 @@ DTSTART;VALUE=DATE:20261211
 DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
 SUMMARY:🎬 Zero A.D.(Wide)
 UID:20261211-ZeroADWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270319
+DESCRIPTION:Distributor: Prathyangira Cinemas\nSource: The Numbers
+SUMMARY:🎬 Fauzi(Wide)
+UID:20270319-FauziWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
@@ -1580,6 +1586,12 @@ SUMMARY:🎬 Cosmic Motors(Wide)
 UID:20271225-CosmicMotorsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Project Hail Mary(Wide)
+UID:20261211-ProjectHailMaryWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261224
 DESCRIPTION:Distributor: Red Chillies Entertainment\nSource: The Numbers
 SUMMARY:🎬 King(Limited)
@@ -1622,12 +1634,6 @@ SUMMARY:🎬 Elsinore(Expands Wide)
 UID:20261211-ElsinoreExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270813
-DESCRIPTION:Distributor: Cineverse\nSource: The Numbers
-SUMMARY:🎬 Untitled Cineverse Horror Franchise Event Film(Wide)
-UID:20270813-UntitledCineverseHorrorFranchiseEventFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270207
 DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
 SUMMARY:🎬 Kristina Kuzmič: Hope & Humor(Special Engagement)
@@ -1644,6 +1650,12 @@ DTSTART;VALUE=DATE:20271111
 DESCRIPTION:Distributor: Sony Pictures\nSource: The Numbers
 SUMMARY:🎬 Treasure Island(Wide)
 UID:20271111-TreasureIslandWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Amazon MGM Studios\nSource: The Numbers
+SUMMARY:🎬 Project Hail Mary(IMAX)
+UID:20261211-ProjectHailMaryIMAX@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271210
@@ -1964,6 +1976,12 @@ SUMMARY:🎬 The Lunar Chronicles(Wide)
 UID:20281103-TheLunarChroniclesWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 Bunker(Oscar Qualifying Run)
+UID:20261211-BunkerOscarQualifyingRun@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270129
 DESCRIPTION:Distributor: Lionsgate\nSource: The Numbers
 SUMMARY:🎬 Karoshi(Wide)
@@ -1980,6 +1998,12 @@ DTSTART;VALUE=DATE:20280114
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Longlegs(Wide)
 UID:20280114-LonglegsWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270115
+DESCRIPTION:Distributor: Sony Pictures Classics\nSource: The Numbers
+SUMMARY:🎬 Bunker(Wide)
+UID:20270115-BunkerWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270205
@@ -2172,6 +2196,12 @@ DTSTART;VALUE=DATE:20270521
 DESCRIPTION:Distributor: Warner Bros.\nSource: The Numbers
 SUMMARY:🎬 Bad Fairies(Wide)
 UID:20270521-BadFairiesWide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Distributor: A24\nSource: The Numbers
+SUMMARY:🎬 The Debut(Expands Wide)
+UID:20261225-TheDebutExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270924
