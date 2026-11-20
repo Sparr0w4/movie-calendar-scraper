@@ -1040,6 +1040,12 @@ SUMMARY:🎬 Paper Tiger(Expands Wide)
 UID:20261120-PaperTigerExpandsWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270108
+DESCRIPTION:Distributor: Greenwich Entertainment\nSource: The Numbers
+SUMMARY:🎬 Light Pillar(Limited)
+UID:20270108-LightPillarLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291005
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
@@ -1442,12 +1448,6 @@ SUMMARY:🎬 A Beautiful Mind(Special Engagement\, re-release)
 UID:20261122-ABeautifulMindSpecialEngagementrerelease@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20280728
-DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
-SUMMARY:🎬 Untitled Marvel Movie(Wide)
-UID:20280728-UntitledMarvelMovieWide@numbers
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281013
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Dan Trachtenberg Animated Family Horror Comedy(Wide)
@@ -1698,6 +1698,12 @@ DTSTART;VALUE=DATE:20280204
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Heart Eyes 2(Wide)
 UID:20280204-HeartEyes2Wide@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DESCRIPTION:Distributor: Watermelon Pictures\nSource: The Numbers
+SUMMARY:🎬 The Accompanist(Wide)
+UID:20271225-TheAccompanistWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261218
