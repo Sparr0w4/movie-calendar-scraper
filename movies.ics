@@ -164,6 +164,12 @@ SUMMARY:🎬 A Boy Named Brenda(Limited)
 UID:20271225-ABoyNamedBrendaLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+DESCRIPTION:Distributor: Fathom Entertainment\nSource: The Numbers
+SUMMARY:🎬 Met Live in HD: Samson et Dalila(Wide)
+UID:20261205-MetLiveinHDSamsonetDalilaWide@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281103
 DESCRIPTION:Distributor: Paramount Pictures\nSource: The Numbers
 SUMMARY:🎬 Untitled Duffer Brothers Event Film(Wide)
@@ -974,6 +980,12 @@ SUMMARY:🎬 K-Pop: The Debut(Wide)
 UID:20270226-KPopTheDebutWide@numbers
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270108
+DESCRIPTION:Distributor: Magenta Edge Films\nSource: The Numbers
+SUMMARY:🎬 Billy Knight(Limited)
+UID:20270108-BillyKnightLimited@numbers
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291122
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Coco 2(Wide)
@@ -1506,6 +1518,12 @@ DTSTART;VALUE=DATE:20261211
 DESCRIPTION:Distributor: Neon\nSource: The Numbers
 SUMMARY:🎬 Clarissa(Oscar Qualifying Run)
 UID:20261211-ClarissaOscarQualifyingRun@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DESCRIPTION:Distributor: Saban Films\nSource: The Numbers
+SUMMARY:🎬 Frostbite(Limited)
+UID:20261218-FrostbiteLimited@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
