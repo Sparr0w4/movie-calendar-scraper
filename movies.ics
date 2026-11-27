@@ -1160,16 +1160,22 @@ SUMMARY:🎬 CoComelon: The Movie(Wide)
 UID:20270219-CoComelonTheMovieWide@numbers
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270924
-DESCRIPTION:Distributor: Universal\nSource: The Numbers
-SUMMARY:🎬 Untitled Dreamworks Animation Event Film(Wide)
-UID:20270924-UntitledDreamworksAnimationEventFilmWide@numbers
+DTSTART;VALUE=DATE:20261126
+DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
+SUMMARY:🎬 Hershey(Wide)
+UID:20261126-HersheyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270630
 DESCRIPTION:Distributor: Universal\nSource: The Numbers
 SUMMARY:🎬 Shrek 5(IMAX)
 UID:20270630-Shrek5IMAX@numbers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270924
+DESCRIPTION:Distributor: Universal\nSource: The Numbers
+SUMMARY:🎬 Untitled Dreamworks Animation Event Film(Wide)
+UID:20270924-UntitledDreamworksAnimationEventFilmWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270604
@@ -1800,12 +1806,6 @@ DTSTART;VALUE=DATE:20270917
 DESCRIPTION:Distributor: Walt Disney\nSource: The Numbers
 SUMMARY:🎬 Untitled Disney Film(Wide)
 UID:20270917-UntitledDisneyFilmWide@numbers
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261125
-DESCRIPTION:Distributor: Angel Studios\nSource: The Numbers
-SUMMARY:🎬 Hershey(Wide)
-UID:20261125-HersheyWide@numbers
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
